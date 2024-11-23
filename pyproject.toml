@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "pytiserie"
+dynamic = ["version"]
+dependencies = [
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "soundfile",
+    "typing_extensions",
+]
+requires-python = ">=3.9"
+authors = [
+    {name = "Jordan Sorokin", email="jorsorokin@gmail.com"}
+]
+description = "code to analyze pastries"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python"
+]
+
+[project.optional-dependences]
+stats = [
+    "statsmodels",
+    "scikit-learn"
+]
+
+[project.urls]
+Repository = "https://github.com/Jorsorokin/pytiserie"
