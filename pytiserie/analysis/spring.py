@@ -1,9 +1,10 @@
 import numpy as np
+import pandas as pd
 from scipy.optimize import least_squares
 from typing import TypedDict
 
 
-ExponentialParams = tuple[float, float]
+ExponentialParams = tuple[float, float, float]
 DoubleExponentialParams = tuple[float, float, float, float]
 
 
@@ -13,21 +14,12 @@ class GoF(TypedDict):
     aic: float
 
 
-def _fit_exponential(x, a, b):
-    return a * np.exp(b * x)
+def _fit_exponential(t, a, k):
+    return a * np.exp(-k * t)
 
 
-def _fit_exponential_double(x, a1, b1, a2, b2):
-    return _fit_exponential(x, a1, b1) + _fit_exponential(x, a2, b2)
-
-
-def _fit(x, *params):
-    if len(params) == 2:
-        return _fit_exponential(x, *params)
-    elif len(params) == 4:
-        return _fit_exponential_double(x, *params)
-    else:
-        raise ValueError("Invalid number of parameters. Expected 2 or 4.")
+def _fit_exponential_double(t, y0, a1, k1, a2, k2):
+    return y0 + _fit_exponential(t, a1, k1) + _fit_exponential(t, a2, k2)
 
 
 def _calculate_gof(x, y, params, func):
@@ -68,16 +60,81 @@ def fit_exponential(x, y, init_params: ExponentialParams | DoubleExponentialPara
     gof: GoF
         The goodness of fit metrics, including mean squared error (mse), R-squared (r_squared), and Akaike Information Criterion (aic).
     """
-    if double:
-        # Initial guess for double exponential: [a1, b1, a2, b2]
-        init_params = init_params or (1.0, -0.1, 0.5, -0.05)
-        func = _fit_exponential_double
-    else:
-        # Initial guess for single exponential: [a, b]
-        init_params = init_params or (1.0, -0.1)
-        func = _fit_exponential
-
+    func = _fit_exponential_double if double else _fit_exponential
     result = least_squares(lambda p: func(x, *p) - y, init_params, **kwargs)
     gof = _calculate_gof(x, y, result.x, func)
     return result.x, gof
 
+
+def calculate_exponential_halflife(k: float) -> float:
+    """
+    Calculate the half-life of an exponential decay function.
+
+    Parameters
+    ----------
+    k : float, the decay constant.
+
+    Returns
+    -------
+    (float): the half-life of the exponential decay.
+    """
+    return -np.log(2) / k
+
+
+def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dict[str, float]:
+    """
+    Computes various metrics on the spring structure of a croissant
+
+    Parameters
+    ----------
+    spring_data: np.ndarray — a 1D signal of the height obtained from squishing a croissant
+    double: bool, optional
+        If True, compute metrics for a double exponential fit. If False, compute metrics for a single exponential fit.
+
+    Returns
+    -------
+    dictionary with the following statistics:
+        "spring_decay_halflife_" — the half-life of the exponential decay of the spring structure; if double, suffixed with the index of the component
+        "spring_decay_mse" — the mean squared error of the exponential fit
+        "spring_decay_r_squared" — the R-squared value of the exponential fit
+        "spring_decay_aic" — the Akaike Information Criterion of the exponential fit
+
+        these are 
+    """
+
+    x = np.arange(len(spring_data))
+
+    # initial params
+    init_guesses = {
+        "single": [
+            spring_data[0],  # A: amplitude
+            0.3  # reasonable decay rate (30 % each squish)
+        ],
+        "double": [
+            spring_data[0],  # y0: near baseline... doughy-lower-bound
+            (spring_data[0] - np.min(spring_data)) * 0.6,  # A1: fast amplitude
+            0.5,  # 50 % initial fast decay
+            (spring_data[0] - np.min(spring_data)) * 0.4,  # A2: slow amplitude
+            0.1  # 10% decay slow
+        ]
+    }       
+
+    # for a single & double, fit each
+    metrics = {}
+
+    init_params = init_guesses["double"] if double else init_guesses["single"]
+    params, gof = fit_exponential(x, spring_data, init_params=init_params, double=double)
+    metrics.update({f"spring_decay_{key}": val for key, val in gof.items() if key})
+
+    # compute half life; for double, need to compute per component
+    if double:
+        halflife = [
+            calculate_exponential_halflife(params[i])  # only use the first two params for halflife
+            for i in (1, 3)
+        ]
+        metrics.update({f"spring_decay_halflife_{i+1}": h for i, h in enumerate(halflife)})
+    else:
+        metrics[f"spring_decay_halflife"] = calculate_exponential_halflife(params[0])
+
+    return metrics
+    
