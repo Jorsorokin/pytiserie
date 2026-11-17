@@ -23,7 +23,7 @@ def _fit_exponential_double(t, y0, a1, k1, a2, k2):
 
 def _calculate_gof(x, y, params, func):
     # Calculate the fitted values
-    fitted_values = func(x, **params)
+    fitted_values = func(x, *params)
     # Calculate residuals
     residuals = y - fitted_values
     # Calculate goodness of fit metrics
