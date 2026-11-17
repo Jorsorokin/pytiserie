@@ -6,6 +6,11 @@ from typing import TypedDict
 ExponentialParams = tuple[float, float, float]
 DoubleExponentialParams = tuple[float, float, float, float, float]
 
+DECAY_CONSTANTS_GUESSES = {
+    "single": 0.3,
+    "double": (0.5, 0.1)
+}
+
 
 class GoF(TypedDict):
     mse: float
@@ -112,14 +117,14 @@ def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dic
     init_guesses = {
         "single": [
             spring_data[0],  # A: amplitude
-            0.3  # reasonable decay rate (30 % each squish)
+            DECAY_CONSTANTS_GUESSES["single"]  # reasonable decay rate (30 % each squish)
         ],
         "double": [
             spring_data[0],  # y0: near baseline... doughy-lower-bound
             (spring_data[0] - np.min(spring_data)) * 0.6,  # A1: fast amplitude
-            0.5,  # 50 % initial fast decay
+            DECAY_CONSTANTS_GUESSES["double"][0],  # 50 % initial fast decay
             (spring_data[0] - np.min(spring_data)) * 0.4,  # A2: slow amplitude
-            0.1  # 10% decay slow
+            DECAY_CONSTANTS_GUESSES["double"][1]  # 10% decay slow
         ]
     }       
 
