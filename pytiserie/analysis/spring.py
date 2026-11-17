@@ -119,7 +119,6 @@ def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dic
         ]
     }       
 
-    # for a single & double, fit each
     metrics = {}
 
     init_params = init_guesses["double"] if double else init_guesses["single"]
