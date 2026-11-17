@@ -1,11 +1,10 @@
 import numpy as np
-import pandas as pd
 from scipy.optimize import least_squares
 from typing import TypedDict
 
 
 ExponentialParams = tuple[float, float, float]
-DoubleExponentialParams = tuple[float, float, float, float]
+DoubleExponentialParams = tuple[float, float, float, float, float]
 
 
 class GoF(TypedDict):
@@ -61,12 +60,17 @@ def fit_exponential(x, y, init_params: ExponentialParams | DoubleExponentialPara
         The goodness of fit metrics, including mean squared error (mse), R-squared (r_squared), and Akaike Information Criterion (aic).
     """
     func = _fit_exponential_double if double else _fit_exponential
-    result = least_squares(lambda p: func(x, *p) - y, init_params, **kwargs)
+
+    if init_params is not None:
+        result = least_squares(lambda p: func(x, *p) - y, init_params, **kwargs)
+    else:
+        result = least_squares(lambda p: func(x, *p) - y, **kwargs)
+
     gof = _calculate_gof(x, y, result.x, func)
     return result.x, gof
 
 
-def calculate_exponential_halflife(k: float) -> float:
+def calculate_exponential_decay_halflife(k: float) -> float:
     """
     Calculate the half-life of an exponential decay function.
 
@@ -78,7 +82,7 @@ def calculate_exponential_halflife(k: float) -> float:
     -------
     (float): the half-life of the exponential decay.
     """
-    return -np.log(2) / k
+    return np.log(2) / k
 
 
 def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dict[str, float]:
@@ -128,12 +132,12 @@ def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dic
     # compute half life; for double, need to compute per component
     if double:
         halflife = [
-            calculate_exponential_halflife(params[i])  # only use the first two params for halflife
-            for i in (1, 3)
+            calculate_exponential_decay_halflife(params[i])  # only use the first two params for halflife
+            for i in (2, 4)
         ]
         metrics.update({f"spring_decay_halflife_{i+1}": h for i, h in enumerate(halflife)})
     else:
-        metrics[f"spring_decay_halflife"] = calculate_exponential_halflife(params[0])
+        metrics[f"spring_decay_halflife"] = calculate_exponential_decay_halflife(params[1])
 
     return metrics
     
