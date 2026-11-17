@@ -10,7 +10,7 @@ DECAY_CONSTANTS_GUESSES = {
     "single": 0.3,
     "double": (0.5, 0.1)
 }
-
+DOUGH_LOWER_BOUND = 1.0
 
 class GoF(TypedDict):
     mse: float
@@ -116,15 +116,15 @@ def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dic
     # initial params
     init_guesses = {
         "single": [
-            spring_data[0],  # A: amplitude
-            DECAY_CONSTANTS_GUESSES["single"]  # reasonable decay rate (30 % each squish)
+            spring_data[0],  # a: amplitude
+            DECAY_CONSTANTS_GUESSES["single"]  # k: decay rate
         ],
         "double": [
-            spring_data[0],  # y0: near baseline... doughy-lower-bound
-            (spring_data[0] - np.min(spring_data)) * 0.6,  # A1: fast amplitude
-            DECAY_CONSTANTS_GUESSES["double"][0],  # 50 % initial fast decay
-            (spring_data[0] - np.min(spring_data)) * 0.4,  # A2: slow amplitude
-            DECAY_CONSTANTS_GUESSES["double"][1]  # 10% decay slow
+            DOUGH_LOWER_BOUND,  # y0: near baseline... doughy-lower-bound (cm)
+            (spring_data[0] - np.min(spring_data)) * 0.6,  # a1: fast amplitude
+            DECAY_CONSTANTS_GUESSES["double"][0],  # k1: initial fast decay
+            (spring_data[0] - np.min(spring_data)) * 0.4,  # a2: slow amplitude
+            DECAY_CONSTANTS_GUESSES["double"][1]  # k2: decay slow
         ]
     }       
 
