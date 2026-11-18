@@ -77,3 +77,4041 @@ bread,height_s5,7.2,cm
 bread,height_s6,7,cm
 bread,height_s7,7,cm
 bread,height_s8,7,cm
+bread chic,color_mean_fgd,108.184,gray_value
+bread chic,color_std_fgd,22.228,gray_value
+bread chic,color_mean_bkgd_white,214,gray_value
+bread chic,color_mean_bkgd_black,20.129,gray_value
+bread,color_mean_fgd,124.518,gray_value
+bread,color_std_fgd,33.565,gray_value
+bread,color_mean_bkgd_white,210.141,gray_value
+bread,color_mean_bkgd_black,16.456,gray_value
+la creperie,color_mean_fgd,108.051,gray_value
+la creperie,color_std_fgd,24.228,gray_value
+la creperie,color_mean_bkgd_white,211.987,gray_value
+la creperie,color_mean_bkgd_black,20.647,gray_value
+phillippe,color_mean_fgd,133.766,gray_value
+phillippe,color_std_fgd,22.322,gray_value
+phillippe,color_mean_bkgd_white,206.195,gray_value
+phillippe,color_mean_bkgd_black,24.995,gray_value
+trickster,color_mean_fgd,145.04,gray_value
+trickster,color_std_fgd,26.874,gray_value
+trickster,color_mean_bkgd_white,218.251,gray_value
+trickster,color_mean_bkgd_black,36.459,gray_value
+bread chic,linescan_lr_0,111,gray_value
+bread chic,linescan_lr_1,99,gray_value
+bread chic,linescan_lr_2,94,gray_value
+bread chic,linescan_lr_3,104,gray_value
+bread chic,linescan_lr_4,136,gray_value
+bread chic,linescan_lr_5,128,gray_value
+bread chic,linescan_lr_6,110,gray_value
+bread chic,linescan_lr_7,98,gray_value
+bread chic,linescan_lr_8,94,gray_value
+bread chic,linescan_lr_9,90,gray_value
+bread chic,linescan_lr_10,85,gray_value
+bread chic,linescan_lr_11,83,gray_value
+bread chic,linescan_lr_12,84,gray_value
+bread chic,linescan_lr_13,85,gray_value
+bread chic,linescan_lr_14,82,gray_value
+bread chic,linescan_lr_15,77,gray_value
+bread chic,linescan_lr_16,78,gray_value
+bread chic,linescan_lr_17,78,gray_value
+bread chic,linescan_lr_18,79,gray_value
+bread chic,linescan_lr_19,99,gray_value
+bread chic,linescan_lr_20,123,gray_value
+bread chic,linescan_lr_21,123,gray_value
+bread chic,linescan_lr_22,95,gray_value
+bread chic,linescan_lr_23,85,gray_value
+bread chic,linescan_lr_24,81,gray_value
+bread chic,linescan_lr_25,83,gray_value
+bread chic,linescan_lr_26,88,gray_value
+bread chic,linescan_lr_27,89,gray_value
+bread chic,linescan_lr_28,100,gray_value
+bread chic,linescan_lr_29,122,gray_value
+bread chic,linescan_lr_30,122,gray_value
+bread chic,linescan_lr_31,81,gray_value
+bread chic,linescan_lr_32,86,gray_value
+bread chic,linescan_lr_33,97,gray_value
+bread chic,linescan_lr_34,90,gray_value
+bread chic,linescan_lr_35,80,gray_value
+bread chic,linescan_lr_36,77,gray_value
+bread chic,linescan_lr_37,87,gray_value
+bread chic,linescan_lr_38,90,gray_value
+bread chic,linescan_lr_39,82,gray_value
+bread chic,linescan_lr_40,68,gray_value
+bread chic,linescan_lr_41,65,gray_value
+bread chic,linescan_lr_42,52,gray_value
+bread chic,linescan_lr_43,46,gray_value
+bread chic,linescan_lr_44,39,gray_value
+bread chic,linescan_lr_45,36,gray_value
+bread chic,linescan_lr_46,33,gray_value
+bread chic,linescan_lr_47,32,gray_value
+bread chic,linescan_lr_48,32,gray_value
+bread chic,linescan_lr_49,35,gray_value
+bread chic,linescan_lr_50,91,gray_value
+bread chic,linescan_lr_51,120,gray_value
+bread chic,linescan_lr_52,118,gray_value
+bread chic,linescan_lr_53,111,gray_value
+bread chic,linescan_lr_54,108,gray_value
+bread chic,linescan_lr_55,108,gray_value
+bread chic,linescan_lr_56,110,gray_value
+bread chic,linescan_lr_57,93,gray_value
+bread chic,linescan_lr_58,86,gray_value
+bread chic,linescan_lr_59,84,gray_value
+bread chic,linescan_lr_60,78,gray_value
+bread chic,linescan_lr_61,82,gray_value
+bread chic,linescan_lr_62,104,gray_value
+bread chic,linescan_lr_63,112,gray_value
+bread chic,linescan_lr_64,122,gray_value
+bread chic,linescan_lr_65,118,gray_value
+bread chic,linescan_lr_66,72,gray_value
+bread chic,linescan_lr_67,62,gray_value
+bread chic,linescan_lr_68,70,gray_value
+bread chic,linescan_lr_69,78,gray_value
+bread chic,linescan_lr_70,83,gray_value
+bread chic,linescan_lr_71,106,gray_value
+bread chic,linescan_lr_72,125,gray_value
+bread chic,linescan_lr_73,119,gray_value
+bread chic,linescan_lr_74,97,gray_value
+bread chic,linescan_lr_75,80,gray_value
+bread chic,linescan_lr_76,70,gray_value
+bread chic,linescan_lr_77,64,gray_value
+bread chic,linescan_lr_78,57,gray_value
+bread chic,linescan_lr_79,52,gray_value
+bread chic,linescan_lr_80,48,gray_value
+bread chic,linescan_lr_81,49,gray_value
+bread chic,linescan_lr_82,52,gray_value
+bread chic,linescan_lr_83,54,gray_value
+bread chic,linescan_lr_84,69,gray_value
+bread chic,linescan_lr_85,84,gray_value
+bread chic,linescan_lr_86,86,gray_value
+bread chic,linescan_lr_87,98,gray_value
+bread chic,linescan_lr_88,111,gray_value
+bread chic,linescan_lr_89,100,gray_value
+bread chic,linescan_lr_90,66,gray_value
+bread chic,linescan_lr_91,56,gray_value
+bread chic,linescan_lr_92,48,gray_value
+bread chic,linescan_lr_93,45,gray_value
+bread chic,linescan_lr_94,69,gray_value
+bread chic,linescan_lr_95,109,gray_value
+bread chic,linescan_lr_96,109,gray_value
+bread chic,linescan_lr_97,91,gray_value
+bread chic,linescan_lr_98,78,gray_value
+bread chic,linescan_lr_99,73,gray_value
+bread chic,linescan_lr_100,69,gray_value
+bread chic,linescan_lr_101,64,gray_value
+bread chic,linescan_lr_102,59,gray_value
+bread chic,linescan_lr_103,59,gray_value
+bread chic,linescan_lr_104,48,gray_value
+bread chic,linescan_lr_105,40,gray_value
+bread chic,linescan_lr_106,32,gray_value
+bread chic,linescan_lr_107,27,gray_value
+bread chic,linescan_lr_108,28,gray_value
+bread chic,linescan_lr_109,27,gray_value
+bread chic,linescan_lr_110,26,gray_value
+bread chic,linescan_lr_111,25,gray_value
+bread chic,linescan_lr_112,19,gray_value
+bread chic,linescan_lr_113,12,gray_value
+bread chic,linescan_lr_114,14,gray_value
+bread chic,linescan_lr_115,17,gray_value
+bread chic,linescan_lr_116,17,gray_value
+bread chic,linescan_lr_117,12,gray_value
+bread chic,linescan_lr_118,9,gray_value
+bread chic,linescan_lr_119,9,gray_value
+bread chic,linescan_lr_120,49,gray_value
+bread chic,linescan_lr_121,104,gray_value
+bread chic,linescan_lr_122,106,gray_value
+bread chic,linescan_lr_123,100,gray_value
+bread chic,linescan_lr_124,94,gray_value
+bread chic,linescan_lr_125,87,gray_value
+bread chic,linescan_lr_126,83,gray_value
+bread chic,linescan_lr_127,79,gray_value
+bread chic,linescan_lr_128,76,gray_value
+bread chic,linescan_lr_129,71,gray_value
+bread chic,linescan_lr_130,64,gray_value
+bread chic,linescan_lr_131,61,gray_value
+bread chic,linescan_lr_132,76,gray_value
+bread chic,linescan_lr_133,106,gray_value
+bread chic,linescan_lr_134,127,gray_value
+bread chic,linescan_lr_135,128,gray_value
+bread chic,linescan_lr_136,108,gray_value
+bread chic,linescan_lr_137,85,gray_value
+bread chic,linescan_lr_138,69,gray_value
+bread chic,linescan_lr_139,64,gray_value
+bread chic,linescan_lr_140,60,gray_value
+bread chic,linescan_lr_141,55,gray_value
+bread chic,linescan_lr_142,53,gray_value
+bread chic,linescan_lr_143,55,gray_value
+bread chic,linescan_lr_144,56,gray_value
+bread chic,linescan_lr_145,92,gray_value
+bread chic,linescan_lr_146,131,gray_value
+bread chic,linescan_lr_147,127,gray_value
+bread chic,linescan_lr_148,106,gray_value
+bread chic,linescan_lr_149,92,gray_value
+bread chic,linescan_lr_150,87,gray_value
+bread chic,linescan_lr_151,82,gray_value
+bread chic,linescan_lr_152,80,gray_value
+bread chic,linescan_lr_153,85,gray_value
+bread chic,linescan_lr_154,99,gray_value
+bread chic,linescan_lr_155,105,gray_value
+bread chic,linescan_lr_156,111,gray_value
+bread chic,linescan_lr_157,122,gray_value
+bread chic,linescan_lr_158,117,gray_value
+bread chic,linescan_lr_159,112,gray_value
+bread chic,linescan_lr_160,132,gray_value
+bread chic,linescan_lr_161,132,gray_value
+bread chic,linescan_lr_162,120,gray_value
+bread chic,linescan_lr_163,96,gray_value
+bread chic,linescan_lr_164,69,gray_value
+bread chic,linescan_lr_165,62,gray_value
+bread chic,linescan_lr_166,52,gray_value
+bread chic,linescan_lr_167,41,gray_value
+bread chic,linescan_lr_168,37,gray_value
+bread chic,linescan_lr_169,35,gray_value
+bread chic,linescan_lr_170,34,gray_value
+bread chic,linescan_lr_171,55,gray_value
+bread chic,linescan_lr_172,66,gray_value
+bread chic,linescan_lr_173,69,gray_value
+bread chic,linescan_lr_174,93,gray_value
+bread chic,linescan_lr_175,127,gray_value
+bread chic,linescan_lr_176,114,gray_value
+bread chic,linescan_lr_177,125,gray_value
+bread chic,linescan_lr_178,83,gray_value
+bread chic,linescan_lr_179,118,gray_value
+bread chic,linescan_lr_180,117,gray_value
+bread chic,linescan_lr_181,100,gray_value
+bread chic,linescan_lr_182,91,gray_value
+bread chic,linescan_lr_183,87,gray_value
+bread chic,linescan_lr_184,86,gray_value
+bread chic,linescan_lr_185,88,gray_value
+bread chic,linescan_lr_186,102,gray_value
+bread chic,linescan_lr_187,123,gray_value
+bread chic,linescan_lr_188,137,gray_value
+bread chic,linescan_lr_189,128,gray_value
+bread chic,linescan_lr_190,68,gray_value
+bread chic,linescan_lr_191,57,gray_value
+bread chic,linescan_lr_192,70,gray_value
+bread chic,linescan_lr_193,129,gray_value
+bread chic,linescan_lr_194,125,gray_value
+bread chic,linescan_lr_195,99,gray_value
+bread chic,linescan_lr_196,80,gray_value
+bread chic,linescan_lr_197,62,gray_value
+bread chic,linescan_lr_198,57,gray_value
+bread chic,linescan_lr_199,51,gray_value
+bread chic,linescan_lr_200,43,gray_value
+bread chic,linescan_lr_201,41,gray_value
+bread chic,linescan_lr_202,40,gray_value
+bread chic,linescan_lr_203,44,gray_value
+bread chic,linescan_lr_204,54,gray_value
+bread chic,linescan_lr_205,57,gray_value
+bread chic,linescan_lr_206,63,gray_value
+bread chic,linescan_lr_207,67,gray_value
+bread chic,linescan_lr_208,71,gray_value
+bread chic,linescan_lr_209,71,gray_value
+bread chic,linescan_lr_210,72,gray_value
+bread chic,linescan_lr_211,84,gray_value
+bread chic,linescan_lr_212,105,gray_value
+bread chic,linescan_lr_213,132,gray_value
+bread chic,linescan_lr_214,136,gray_value
+bread chic,linescan_lr_215,82,gray_value
+bread chic,linescan_lr_216,92,gray_value
+bread chic,linescan_lr_217,118,gray_value
+bread chic,linescan_lr_218,107,gray_value
+bread chic,linescan_lr_219,118,gray_value
+bread chic,linescan_lr_220,110,gray_value
+bread chic,linescan_lr_221,100,gray_value
+bread chic,linescan_lr_222,132,gray_value
+bread chic,linescan_lr_223,121,gray_value
+bread chic,linescan_lr_224,86,gray_value
+bread chic,linescan_lr_225,80,gray_value
+bread chic,linescan_lr_226,109,gray_value
+bread chic,linescan_lr_227,138,gray_value
+bread chic,linescan_lr_228,86,gray_value
+bread chic,linescan_lr_229,74,gray_value
+bread chic,linescan_lr_230,82,gray_value
+bread chic,linescan_lr_231,83,gray_value
+bread chic,linescan_lr_232,93,gray_value
+bread chic,linescan_lr_233,96,gray_value
+bread chic,linescan_lr_234,103,gray_value
+bread chic,linescan_lr_235,113,gray_value
+bread chic,linescan_lr_236,125,gray_value
+bread chic,linescan_lr_237,143,gray_value
+bread chic,linescan_lr_238,135,gray_value
+bread chic,linescan_lr_239,127,gray_value
+bread chic,linescan_lr_240,129,gray_value
+bread chic,linescan_lr_241,116,gray_value
+bread chic,linescan_lr_242,95,gray_value
+bread chic,linescan_lr_243,92,gray_value
+bread chic,linescan_lr_244,91,gray_value
+bread chic,linescan_lr_245,91,gray_value
+bread chic,linescan_lr_246,96,gray_value
+bread chic,linescan_lr_247,101,gray_value
+bread chic,linescan_lr_248,106,gray_value
+bread chic,linescan_lr_249,125,gray_value
+bread chic,linescan_lr_250,135,gray_value
+bread chic,linescan_lr_251,100,gray_value
+bread chic,linescan_lr_252,76,gray_value
+bread chic,linescan_lr_253,105,gray_value
+bread chic,linescan_lr_254,100,gray_value
+bread chic,linescan_lr_255,97,gray_value
+bread chic,linescan_lr_256,95,gray_value
+bread chic,linescan_lr_257,88,gray_value
+bread chic,linescan_lr_258,80,gray_value
+bread chic,linescan_lr_259,72,gray_value
+bread chic,linescan_lr_260,60,gray_value
+bread chic,linescan_lr_261,99,gray_value
+bread chic,linescan_lr_262,130,gray_value
+bread chic,linescan_lr_263,134,gray_value
+bread chic,linescan_lr_264,129,gray_value
+bread chic,linescan_lr_265,130,gray_value
+bread chic,linescan_lr_266,116,gray_value
+bread chic,linescan_lr_267,108,gray_value
+bread chic,linescan_lr_268,122,gray_value
+bread chic,linescan_lr_269,143,gray_value
+bread chic,linescan_lr_270,128,gray_value
+bread chic,linescan_lr_271,129,gray_value
+bread chic,linescan_lr_272,117,gray_value
+bread chic,linescan_lr_273,95,gray_value
+bread chic,linescan_lr_274,57,gray_value
+bread chic,linescan_lr_275,100,gray_value
+bread chic,linescan_lr_276,121,gray_value
+bread chic,linescan_lr_277,102,gray_value
+bread chic,linescan_lr_278,87,gray_value
+bread chic,linescan_lr_279,81,gray_value
+bread chic,linescan_lr_280,76,gray_value
+bread chic,linescan_lr_281,74,gray_value
+bread chic,linescan_lr_282,74,gray_value
+bread chic,linescan_lr_283,78,gray_value
+bread chic,linescan_lr_284,82,gray_value
+bread chic,linescan_lr_285,85,gray_value
+bread chic,linescan_lr_286,87,gray_value
+bread chic,linescan_lr_287,91,gray_value
+bread chic,linescan_lr_288,96,gray_value
+bread chic,linescan_lr_289,108,gray_value
+bread chic,linescan_lr_290,125,gray_value
+bread chic,linescan_lr_291,145,gray_value
+bread chic,linescan_lr_292,156,gray_value
+bread chic,linescan_lr_293,138,gray_value
+bread chic,linescan_lr_294,132,gray_value
+bread chic,linescan_lr_295,121,gray_value
+bread chic,linescan_lr_296,120,gray_value
+bread chic,linescan_lr_297,123,gray_value
+bread chic,linescan_lr_298,118,gray_value
+bread chic,linescan_lr_299,88,gray_value
+bread chic,linescan_lr_300,79,gray_value
+bread chic,linescan_lr_301,80,gray_value
+bread chic,linescan_tb_0,91,gray_value
+bread chic,linescan_tb_1,78,gray_value
+bread chic,linescan_tb_2,98,gray_value
+bread chic,linescan_tb_3,97,gray_value
+bread chic,linescan_tb_4,63,gray_value
+bread chic,linescan_tb_5,62,gray_value
+bread chic,linescan_tb_6,99,gray_value
+bread chic,linescan_tb_7,116,gray_value
+bread chic,linescan_tb_8,116,gray_value
+bread chic,linescan_tb_9,117,gray_value
+bread chic,linescan_tb_10,106,gray_value
+bread chic,linescan_tb_11,88,gray_value
+bread chic,linescan_tb_12,87,gray_value
+bread chic,linescan_tb_13,97,gray_value
+bread chic,linescan_tb_14,130,gray_value
+bread chic,linescan_tb_15,131,gray_value
+bread chic,linescan_tb_16,134,gray_value
+bread chic,linescan_tb_17,138,gray_value
+bread chic,linescan_tb_18,124,gray_value
+bread chic,linescan_tb_19,79,gray_value
+bread chic,linescan_tb_20,65,gray_value
+bread chic,linescan_tb_21,77,gray_value
+bread chic,linescan_tb_22,97,gray_value
+bread chic,linescan_tb_23,114,gray_value
+bread chic,linescan_tb_24,122,gray_value
+bread chic,linescan_tb_25,127,gray_value
+bread chic,linescan_tb_26,112,gray_value
+bread chic,linescan_tb_27,94,gray_value
+bread chic,linescan_tb_28,90,gray_value
+bread chic,linescan_tb_29,84,gray_value
+bread chic,linescan_tb_30,84,gray_value
+bread chic,linescan_tb_31,87,gray_value
+bread chic,linescan_tb_32,85,gray_value
+bread chic,linescan_tb_33,83,gray_value
+bread chic,linescan_tb_34,81,gray_value
+bread chic,linescan_tb_35,77,gray_value
+bread chic,linescan_tb_36,76,gray_value
+bread chic,linescan_tb_37,74,gray_value
+bread chic,linescan_tb_38,73,gray_value
+bread chic,linescan_tb_39,72,gray_value
+bread chic,linescan_tb_40,71,gray_value
+bread chic,linescan_tb_41,73,gray_value
+bread chic,linescan_tb_42,100,gray_value
+bread chic,linescan_tb_43,131,gray_value
+bread chic,linescan_tb_44,127,gray_value
+bread chic,linescan_tb_45,117,gray_value
+bread chic,linescan_tb_46,82,gray_value
+bread chic,linescan_tb_47,64,gray_value
+bread chic,linescan_tb_48,69,gray_value
+bread chic,linescan_tb_49,92,gray_value
+bread chic,linescan_tb_50,115,gray_value
+bread chic,linescan_tb_51,131,gray_value
+bread chic,linescan_tb_52,132,gray_value
+bread chic,linescan_tb_53,133,gray_value
+bread chic,linescan_tb_54,131,gray_value
+bread chic,linescan_tb_55,113,gray_value
+bread chic,linescan_tb_56,118,gray_value
+bread chic,linescan_tb_57,124,gray_value
+bread chic,linescan_tb_58,127,gray_value
+bread chic,linescan_tb_59,115,gray_value
+bread chic,linescan_tb_60,103,gray_value
+bread chic,linescan_tb_61,99,gray_value
+bread chic,linescan_tb_62,95,gray_value
+bread chic,linescan_tb_63,94,gray_value
+bread chic,linescan_tb_64,73,gray_value
+bread chic,linescan_tb_65,53,gray_value
+bread chic,linescan_tb_66,42,gray_value
+bread chic,linescan_tb_67,40,gray_value
+bread chic,linescan_tb_68,42,gray_value
+bread chic,linescan_tb_69,58,gray_value
+bread chic,linescan_tb_70,76,gray_value
+bread chic,linescan_tb_71,100,gray_value
+bread chic,linescan_tb_72,112,gray_value
+bread chic,linescan_tb_73,86,gray_value
+bread chic,linescan_tb_74,80,gray_value
+bread chic,linescan_tb_75,62,gray_value
+bread chic,linescan_tb_76,59,gray_value
+bread chic,linescan_tb_77,73,gray_value
+bread chic,linescan_tb_78,80,gray_value
+bread chic,linescan_tb_79,99,gray_value
+bread chic,linescan_tb_80,121,gray_value
+bread chic,linescan_tb_81,127,gray_value
+bread chic,linescan_tb_82,131,gray_value
+bread chic,linescan_tb_83,127,gray_value
+bread chic,linescan_tb_84,84,gray_value
+bread chic,linescan_tb_85,52,gray_value
+bread chic,linescan_tb_86,68,gray_value
+bread chic,linescan_tb_87,113,gray_value
+bread chic,linescan_tb_88,104,gray_value
+bread chic,linescan_tb_89,94,gray_value
+bread chic,linescan_tb_90,85,gray_value
+bread chic,linescan_tb_91,80,gray_value
+bread chic,linescan_tb_92,79,gray_value
+bread chic,linescan_tb_93,77,gray_value
+bread chic,linescan_tb_94,66,gray_value
+bread chic,linescan_tb_95,61,gray_value
+bread chic,linescan_tb_96,61,gray_value
+bread chic,linescan_tb_97,60,gray_value
+bread chic,linescan_tb_98,59,gray_value
+bread chic,linescan_tb_99,56,gray_value
+bread chic,linescan_tb_100,53,gray_value
+bread chic,linescan_tb_101,44,gray_value
+bread chic,linescan_tb_102,35,gray_value
+bread chic,linescan_tb_103,31,gray_value
+bread chic,linescan_tb_104,28,gray_value
+bread chic,linescan_tb_105,29,gray_value
+bread chic,linescan_tb_106,39,gray_value
+bread chic,linescan_tb_107,46,gray_value
+bread chic,linescan_tb_108,48,gray_value
+bread chic,linescan_tb_109,46,gray_value
+bread chic,linescan_tb_110,50,gray_value
+bread chic,linescan_tb_111,61,gray_value
+bread chic,linescan_tb_112,67,gray_value
+bread chic,linescan_tb_113,74,gray_value
+bread chic,linescan_tb_114,106,gray_value
+bread chic,linescan_tb_115,100,gray_value
+bread chic,linescan_tb_116,101,gray_value
+bread chic,linescan_tb_117,120,gray_value
+bread chic,linescan_tb_118,129,gray_value
+bread chic,linescan_tb_119,106,gray_value
+bread chic,linescan_tb_120,114,gray_value
+bread chic,linescan_tb_121,117,gray_value
+bread chic,linescan_tb_122,81,gray_value
+bread chic,linescan_tb_123,78,gray_value
+bread chic,linescan_tb_124,89,gray_value
+bread chic,linescan_tb_125,96,gray_value
+bread chic,linescan_tb_126,113,gray_value
+bread chic,linescan_tb_127,116,gray_value
+bread chic,linescan_tb_128,101,gray_value
+bread chic,linescan_tb_129,84,gray_value
+bread chic,linescan_tb_130,89,gray_value
+bread chic,linescan_tb_131,91,gray_value
+bread chic,linescan_tb_132,97,gray_value
+bread chic,linescan_tb_133,118,gray_value
+bread chic,linescan_tb_134,82,gray_value
+bread chic,linescan_tb_135,51,gray_value
+bread chic,linescan_tb_136,55,gray_value
+bread chic,linescan_tb_137,58,gray_value
+bread chic,linescan_tb_138,62,gray_value
+bread chic,linescan_tb_139,106,gray_value
+bread chic,linescan_tb_140,124,gray_value
+bread chic,linescan_tb_141,104,gray_value
+bread chic,linescan_tb_142,90,gray_value
+bread chic,linescan_tb_143,89,gray_value
+bread chic,linescan_tb_144,96,gray_value
+bread chic,linescan_tb_145,118,gray_value
+bread chic,linescan_tb_146,127,gray_value
+bread,linescan_lr_0,151,gray_value
+bread,linescan_lr_1,155,gray_value
+bread,linescan_lr_2,172,gray_value
+bread,linescan_lr_3,155,gray_value
+bread,linescan_lr_4,151,gray_value
+bread,linescan_lr_5,137,gray_value
+bread,linescan_lr_6,134,gray_value
+bread,linescan_lr_7,143,gray_value
+bread,linescan_lr_8,161,gray_value
+bread,linescan_lr_9,171,gray_value
+bread,linescan_lr_10,147,gray_value
+bread,linescan_lr_11,134,gray_value
+bread,linescan_lr_12,154,gray_value
+bread,linescan_lr_13,125,gray_value
+bread,linescan_lr_14,112,gray_value
+bread,linescan_lr_15,41,gray_value
+bread,linescan_lr_16,36,gray_value
+bread,linescan_lr_17,32,gray_value
+bread,linescan_lr_18,29,gray_value
+bread,linescan_lr_19,27,gray_value
+bread,linescan_lr_20,29,gray_value
+bread,linescan_lr_21,27,gray_value
+bread,linescan_lr_22,27,gray_value
+bread,linescan_lr_23,26,gray_value
+bread,linescan_lr_24,25,gray_value
+bread,linescan_lr_25,22,gray_value
+bread,linescan_lr_26,19,gray_value
+bread,linescan_lr_27,19,gray_value
+bread,linescan_lr_28,19,gray_value
+bread,linescan_lr_29,18,gray_value
+bread,linescan_lr_30,12,gray_value
+bread,linescan_lr_31,8,gray_value
+bread,linescan_lr_32,6,gray_value
+bread,linescan_lr_33,1,gray_value
+bread,linescan_lr_34,0,gray_value
+bread,linescan_lr_35,0,gray_value
+bread,linescan_lr_36,0,gray_value
+bread,linescan_lr_37,0,gray_value
+bread,linescan_lr_38,0,gray_value
+bread,linescan_lr_39,0,gray_value
+bread,linescan_lr_40,12,gray_value
+bread,linescan_lr_41,23,gray_value
+bread,linescan_lr_42,33,gray_value
+bread,linescan_lr_43,45,gray_value
+bread,linescan_lr_44,50,gray_value
+bread,linescan_lr_45,54,gray_value
+bread,linescan_lr_46,82,gray_value
+bread,linescan_lr_47,129,gray_value
+bread,linescan_lr_48,186,gray_value
+bread,linescan_lr_49,200,gray_value
+bread,linescan_lr_50,199,gray_value
+bread,linescan_lr_51,191,gray_value
+bread,linescan_lr_52,177,gray_value
+bread,linescan_lr_53,191,gray_value
+bread,linescan_lr_54,216,gray_value
+bread,linescan_lr_55,242,gray_value
+bread,linescan_lr_56,243,gray_value
+bread,linescan_lr_57,224,gray_value
+bread,linescan_lr_58,220,gray_value
+bread,linescan_lr_59,217,gray_value
+bread,linescan_lr_60,188,gray_value
+bread,linescan_lr_61,185,gray_value
+bread,linescan_lr_62,177,gray_value
+bread,linescan_lr_63,142,gray_value
+bread,linescan_lr_64,124,gray_value
+bread,linescan_lr_65,118,gray_value
+bread,linescan_lr_66,141,gray_value
+bread,linescan_lr_67,191,gray_value
+bread,linescan_lr_68,181,gray_value
+bread,linescan_lr_69,162,gray_value
+bread,linescan_lr_70,132,gray_value
+bread,linescan_lr_71,130,gray_value
+bread,linescan_lr_72,155,gray_value
+bread,linescan_lr_73,167,gray_value
+bread,linescan_lr_74,178,gray_value
+bread,linescan_lr_75,192,gray_value
+bread,linescan_lr_76,185,gray_value
+bread,linescan_lr_77,187,gray_value
+bread,linescan_lr_78,190,gray_value
+bread,linescan_lr_79,199,gray_value
+bread,linescan_lr_80,212,gray_value
+bread,linescan_lr_81,231,gray_value
+bread,linescan_lr_82,235,gray_value
+bread,linescan_lr_83,223,gray_value
+bread,linescan_lr_84,188,gray_value
+bread,linescan_lr_85,183,gray_value
+bread,linescan_lr_86,190,gray_value
+bread,linescan_lr_87,206,gray_value
+bread,linescan_lr_88,222,gray_value
+bread,linescan_lr_89,221,gray_value
+bread,linescan_lr_90,222,gray_value
+bread,linescan_lr_91,218,gray_value
+bread,linescan_lr_92,166,gray_value
+bread,linescan_lr_93,118,gray_value
+bread,linescan_lr_94,143,gray_value
+bread,linescan_lr_95,189,gray_value
+bread,linescan_lr_96,195,gray_value
+bread,linescan_lr_97,191,gray_value
+bread,linescan_lr_98,191,gray_value
+bread,linescan_lr_99,172,gray_value
+bread,linescan_lr_100,94,gray_value
+bread,linescan_lr_101,87,gray_value
+bread,linescan_lr_102,109,gray_value
+bread,linescan_lr_103,127,gray_value
+bread,linescan_lr_104,134,gray_value
+bread,linescan_lr_105,141,gray_value
+bread,linescan_lr_106,150,gray_value
+bread,linescan_lr_107,168,gray_value
+bread,linescan_lr_108,198,gray_value
+bread,linescan_lr_109,197,gray_value
+bread,linescan_lr_110,195,gray_value
+bread,linescan_lr_111,197,gray_value
+bread,linescan_lr_112,183,gray_value
+bread,linescan_lr_113,186,gray_value
+bread,linescan_lr_114,204,gray_value
+bread,linescan_lr_115,187,gray_value
+bread,linescan_lr_116,186,gray_value
+bread,linescan_lr_117,176,gray_value
+bread,linescan_lr_118,179,gray_value
+bread,linescan_lr_119,175,gray_value
+bread,linescan_lr_120,200,gray_value
+bread,linescan_lr_121,195,gray_value
+bread,linescan_lr_122,182,gray_value
+bread,linescan_lr_123,176,gray_value
+bread,linescan_lr_124,159,gray_value
+bread,linescan_lr_125,133,gray_value
+bread,linescan_lr_126,129,gray_value
+bread,linescan_lr_127,140,gray_value
+bread,linescan_lr_128,153,gray_value
+bread,linescan_lr_129,194,gray_value
+bread,linescan_lr_130,210,gray_value
+bread,linescan_lr_131,213,gray_value
+bread,linescan_lr_132,199,gray_value
+bread,linescan_lr_133,175,gray_value
+bread,linescan_lr_134,129,gray_value
+bread,linescan_lr_135,100,gray_value
+bread,linescan_lr_136,117,gray_value
+bread,linescan_lr_137,143,gray_value
+bread,linescan_lr_138,140,gray_value
+bread,linescan_lr_139,147,gray_value
+bread,linescan_lr_140,153,gray_value
+bread,linescan_lr_141,150,gray_value
+bread,linescan_lr_142,153,gray_value
+bread,linescan_lr_143,154,gray_value
+bread,linescan_lr_144,186,gray_value
+bread,linescan_lr_145,182,gray_value
+bread,linescan_lr_146,154,gray_value
+bread,linescan_lr_147,121,gray_value
+bread,linescan_lr_148,115,gray_value
+bread,linescan_lr_149,128,gray_value
+bread,linescan_lr_150,161,gray_value
+bread,linescan_lr_151,171,gray_value
+bread,linescan_lr_152,154,gray_value
+bread,linescan_lr_153,130,gray_value
+bread,linescan_lr_154,128,gray_value
+bread,linescan_lr_155,129,gray_value
+bread,linescan_lr_156,149,gray_value
+bread,linescan_lr_157,161,gray_value
+bread,linescan_lr_158,197,gray_value
+bread,linescan_lr_159,210,gray_value
+bread,linescan_lr_160,189,gray_value
+bread,linescan_lr_161,169,gray_value
+bread,linescan_lr_162,156,gray_value
+bread,linescan_lr_163,146,gray_value
+bread,linescan_lr_164,147,gray_value
+bread,linescan_lr_165,157,gray_value
+bread,linescan_lr_166,169,gray_value
+bread,linescan_lr_167,188,gray_value
+bread,linescan_lr_168,197,gray_value
+bread,linescan_lr_169,192,gray_value
+bread,linescan_lr_170,188,gray_value
+bread,linescan_lr_171,162,gray_value
+bread,linescan_lr_172,130,gray_value
+bread,linescan_lr_173,124,gray_value
+bread,linescan_lr_174,135,gray_value
+bread,linescan_lr_175,149,gray_value
+bread,linescan_lr_176,161,gray_value
+bread,linescan_lr_177,150,gray_value
+bread,linescan_lr_178,154,gray_value
+bread,linescan_lr_179,142,gray_value
+bread,linescan_lr_180,121,gray_value
+bread,linescan_lr_181,130,gray_value
+bread,linescan_lr_182,124,gray_value
+bread,linescan_lr_183,118,gray_value
+bread,linescan_lr_184,119,gray_value
+bread,linescan_lr_185,147,gray_value
+bread,linescan_lr_186,154,gray_value
+bread,linescan_lr_187,162,gray_value
+bread,linescan_lr_188,171,gray_value
+bread,linescan_lr_189,193,gray_value
+bread,linescan_lr_190,189,gray_value
+bread,linescan_lr_191,182,gray_value
+bread,linescan_lr_192,165,gray_value
+bread,linescan_lr_193,156,gray_value
+bread,linescan_lr_194,137,gray_value
+bread,linescan_lr_195,137,gray_value
+bread,linescan_lr_196,192,gray_value
+bread,linescan_lr_197,176,gray_value
+bread,linescan_lr_198,149,gray_value
+bread,linescan_lr_199,140,gray_value
+bread,linescan_lr_200,172,gray_value
+bread,linescan_lr_201,150,gray_value
+bread,linescan_lr_202,143,gray_value
+bread,linescan_lr_203,146,gray_value
+bread,linescan_lr_204,157,gray_value
+bread,linescan_lr_205,175,gray_value
+bread,linescan_lr_206,160,gray_value
+bread,linescan_lr_207,129,gray_value
+bread,linescan_lr_208,94,gray_value
+bread,linescan_lr_209,124,gray_value
+bread,linescan_lr_210,151,gray_value
+bread,linescan_lr_211,136,gray_value
+bread,linescan_lr_212,121,gray_value
+bread,linescan_lr_213,110,gray_value
+bread,linescan_lr_214,132,gray_value
+bread,linescan_lr_215,188,gray_value
+bread,linescan_lr_216,161,gray_value
+bread,linescan_lr_217,137,gray_value
+bread,linescan_lr_218,141,gray_value
+bread,linescan_lr_219,169,gray_value
+bread,linescan_lr_220,187,gray_value
+bread,linescan_lr_221,179,gray_value
+bread,linescan_lr_222,183,gray_value
+bread,linescan_lr_223,179,gray_value
+bread,linescan_lr_224,176,gray_value
+bread,linescan_lr_225,166,gray_value
+bread,linescan_lr_226,184,gray_value
+bread,linescan_lr_227,158,gray_value
+bread,linescan_lr_228,169,gray_value
+bread,linescan_lr_229,141,gray_value
+bread,linescan_lr_230,127,gray_value
+bread,linescan_lr_231,131,gray_value
+bread,linescan_lr_232,119,gray_value
+bread,linescan_lr_233,118,gray_value
+bread,linescan_lr_234,134,gray_value
+bread,linescan_lr_235,150,gray_value
+bread,linescan_lr_236,157,gray_value
+bread,linescan_lr_237,169,gray_value
+bread,linescan_lr_238,151,gray_value
+bread,linescan_lr_239,183,gray_value
+bread,linescan_lr_240,205,gray_value
+bread,linescan_lr_241,159,gray_value
+bread,linescan_lr_242,154,gray_value
+bread,linescan_lr_243,148,gray_value
+bread,linescan_lr_244,161,gray_value
+bread,linescan_lr_245,173,gray_value
+bread,linescan_lr_246,151,gray_value
+bread,linescan_lr_247,129,gray_value
+bread,linescan_lr_248,137,gray_value
+bread,linescan_lr_249,134,gray_value
+bread,linescan_lr_250,137,gray_value
+bread,linescan_lr_251,152,gray_value
+bread,linescan_lr_252,186,gray_value
+bread,linescan_lr_253,172,gray_value
+bread,linescan_lr_254,150,gray_value
+bread,linescan_lr_255,154,gray_value
+bread,linescan_lr_256,148,gray_value
+bread,linescan_lr_257,170,gray_value
+bread,linescan_lr_258,166,gray_value
+bread,linescan_lr_259,158,gray_value
+bread,linescan_lr_260,211,gray_value
+bread,linescan_lr_261,230,gray_value
+bread,linescan_lr_262,195,gray_value
+bread,linescan_lr_263,180,gray_value
+bread,linescan_lr_264,159,gray_value
+bread,linescan_lr_265,150,gray_value
+bread,linescan_lr_266,184,gray_value
+bread,linescan_lr_267,179,gray_value
+bread,linescan_lr_268,145,gray_value
+bread,linescan_lr_269,130,gray_value
+bread,linescan_lr_270,136,gray_value
+bread,linescan_lr_271,162,gray_value
+bread,linescan_lr_272,180,gray_value
+bread,linescan_lr_273,175,gray_value
+bread,linescan_lr_274,211,gray_value
+bread,linescan_lr_275,186,gray_value
+bread,linescan_lr_276,165,gray_value
+bread,linescan_lr_277,169,gray_value
+bread,linescan_lr_278,166,gray_value
+bread,linescan_lr_279,189,gray_value
+bread,linescan_lr_280,212,gray_value
+bread,linescan_lr_281,204,gray_value
+bread,linescan_lr_282,145,gray_value
+bread,linescan_lr_283,131,gray_value
+bread,linescan_lr_284,152,gray_value
+bread,linescan_lr_285,183,gray_value
+bread,linescan_lr_286,197,gray_value
+bread,linescan_lr_287,144,gray_value
+bread,linescan_lr_288,145,gray_value
+bread,linescan_lr_289,179,gray_value
+bread,linescan_lr_290,165,gray_value
+bread,linescan_lr_291,143,gray_value
+bread,linescan_lr_292,154,gray_value
+bread,linescan_lr_293,154,gray_value
+bread,linescan_lr_294,176,gray_value
+bread,linescan_lr_295,205,gray_value
+bread,linescan_lr_296,200,gray_value
+bread,linescan_lr_297,162,gray_value
+bread,linescan_lr_298,157,gray_value
+bread,linescan_lr_299,130,gray_value
+bread,linescan_lr_300,138,gray_value
+bread,linescan_lr_301,163,gray_value
+bread,linescan_lr_302,99,gray_value
+bread,linescan_lr_303,59,gray_value
+bread,linescan_lr_304,69,gray_value
+bread,linescan_lr_305,80,gray_value
+bread,linescan_lr_306,109,gray_value
+bread,linescan_lr_307,133,gray_value
+bread,linescan_lr_308,173,gray_value
+bread,linescan_lr_309,194,gray_value
+bread,linescan_lr_310,166,gray_value
+bread,linescan_lr_311,125,gray_value
+bread,linescan_lr_312,120,gray_value
+bread,linescan_lr_313,154,gray_value
+bread,linescan_lr_314,76,gray_value
+bread,linescan_lr_315,65,gray_value
+bread,linescan_lr_316,84,gray_value
+bread,linescan_lr_317,151,gray_value
+bread,linescan_lr_318,197,gray_value
+bread,linescan_lr_319,194,gray_value
+bread,linescan_lr_320,172,gray_value
+bread,linescan_lr_321,173,gray_value
+bread,linescan_lr_322,197,gray_value
+bread,linescan_lr_323,189,gray_value
+bread,linescan_lr_324,126,gray_value
+bread,linescan_lr_325,126,gray_value
+bread,linescan_lr_326,146,gray_value
+bread,linescan_lr_327,157,gray_value
+bread,linescan_lr_328,175,gray_value
+bread,linescan_lr_329,183,gray_value
+bread,linescan_lr_330,196,gray_value
+bread,linescan_lr_331,174,gray_value
+bread,linescan_lr_332,190,gray_value
+bread,linescan_lr_333,188,gray_value
+bread,linescan_lr_334,160,gray_value
+bread,linescan_lr_335,142,gray_value
+bread,linescan_lr_336,124,gray_value
+bread,linescan_lr_337,125,gray_value
+bread,linescan_lr_338,139,gray_value
+bread,linescan_lr_339,144,gray_value
+bread,linescan_lr_340,161,gray_value
+bread,linescan_lr_341,196,gray_value
+bread,linescan_lr_342,213,gray_value
+bread,linescan_lr_343,199,gray_value
+bread,linescan_lr_344,181,gray_value
+bread,linescan_lr_345,154,gray_value
+bread,linescan_lr_346,153,gray_value
+bread,linescan_lr_347,156,gray_value
+bread,linescan_lr_348,150,gray_value
+bread,linescan_lr_349,153,gray_value
+bread,linescan_lr_350,128,gray_value
+bread,linescan_lr_351,114,gray_value
+bread,linescan_lr_352,172,gray_value
+bread,linescan_lr_353,190,gray_value
+bread,linescan_lr_354,179,gray_value
+bread,linescan_lr_355,151,gray_value
+bread,linescan_lr_356,89,gray_value
+bread,linescan_lr_357,125,gray_value
+bread,linescan_lr_358,157,gray_value
+bread,linescan_lr_359,130,gray_value
+bread,linescan_lr_360,153,gray_value
+bread,linescan_lr_361,129,gray_value
+bread,linescan_lr_362,162,gray_value
+bread,linescan_lr_363,201,gray_value
+bread,linescan_lr_364,190,gray_value
+bread,linescan_lr_365,170,gray_value
+bread,linescan_lr_366,169,gray_value
+bread,linescan_lr_367,186,gray_value
+bread,linescan_lr_368,173,gray_value
+bread,linescan_lr_369,161,gray_value
+bread,linescan_lr_370,126,gray_value
+bread,linescan_lr_371,109,gray_value
+bread,linescan_lr_372,147,gray_value
+bread,linescan_lr_373,152,gray_value
+bread,linescan_lr_374,162,gray_value
+bread,linescan_lr_375,163,gray_value
+bread,linescan_lr_376,193,gray_value
+bread,linescan_lr_377,207,gray_value
+bread,linescan_lr_378,189,gray_value
+bread,linescan_lr_379,127,gray_value
+bread,linescan_lr_380,150,gray_value
+bread,linescan_lr_381,165,gray_value
+bread,linescan_lr_382,159,gray_value
+bread,linescan_lr_383,166,gray_value
+bread,linescan_lr_384,170,gray_value
+bread,linescan_lr_385,183,gray_value
+bread,linescan_lr_386,182,gray_value
+bread,linescan_lr_387,163,gray_value
+bread,linescan_lr_388,151,gray_value
+bread,linescan_lr_389,163,gray_value
+bread,linescan_lr_390,126,gray_value
+bread,linescan_lr_391,73,gray_value
+bread,linescan_lr_392,84,gray_value
+bread,linescan_lr_393,94,gray_value
+bread,linescan_lr_394,122,gray_value
+bread,linescan_lr_395,130,gray_value
+bread,linescan_lr_396,150,gray_value
+bread,linescan_lr_397,157,gray_value
+bread,linescan_lr_398,161,gray_value
+bread,linescan_lr_399,175,gray_value
+bread,linescan_lr_400,143,gray_value
+bread,linescan_lr_401,109,gray_value
+bread,linescan_lr_402,125,gray_value
+bread,linescan_lr_403,202,gray_value
+bread,linescan_lr_404,204,gray_value
+bread,linescan_lr_405,175,gray_value
+bread,linescan_lr_406,151,gray_value
+bread,linescan_lr_407,129,gray_value
+bread,linescan_lr_408,120,gray_value
+bread,linescan_lr_409,122,gray_value
+bread,linescan_lr_410,147,gray_value
+bread,linescan_lr_411,130,gray_value
+bread,linescan_lr_412,73,gray_value
+bread,linescan_lr_413,62,gray_value
+bread,linescan_lr_414,68,gray_value
+bread,linescan_lr_415,95,gray_value
+bread,linescan_lr_416,123,gray_value
+bread,linescan_lr_417,151,gray_value
+bread,linescan_lr_418,178,gray_value
+bread,linescan_lr_419,187,gray_value
+bread,linescan_lr_420,158,gray_value
+bread,linescan_lr_421,112,gray_value
+bread,linescan_lr_422,114,gray_value
+bread,linescan_lr_423,160,gray_value
+bread,linescan_lr_424,162,gray_value
+bread,linescan_lr_425,180,gray_value
+bread,linescan_lr_426,164,gray_value
+bread,linescan_lr_427,164,gray_value
+bread,linescan_lr_428,183,gray_value
+bread,linescan_lr_429,164,gray_value
+bread,linescan_lr_430,153,gray_value
+bread,linescan_lr_431,151,gray_value
+bread,linescan_lr_432,155,gray_value
+bread,linescan_lr_433,146,gray_value
+bread,linescan_lr_434,149,gray_value
+bread,linescan_lr_435,139,gray_value
+bread,linescan_lr_436,123,gray_value
+bread,linescan_lr_437,109,gray_value
+bread,linescan_lr_438,117,gray_value
+bread,linescan_lr_439,143,gray_value
+bread,linescan_lr_440,147,gray_value
+bread,linescan_lr_441,128,gray_value
+bread,linescan_lr_442,96,gray_value
+bread,linescan_lr_443,145,gray_value
+bread,linescan_lr_444,210,gray_value
+bread,linescan_lr_445,209,gray_value
+bread,linescan_lr_446,111,gray_value
+bread,linescan_lr_447,82,gray_value
+bread,linescan_lr_448,95,gray_value
+bread,linescan_lr_449,139,gray_value
+bread,linescan_lr_450,124,gray_value
+bread,linescan_lr_451,150,gray_value
+bread,linescan_lr_452,136,gray_value
+bread,linescan_lr_453,153,gray_value
+bread,linescan_lr_454,156,gray_value
+bread,linescan_lr_455,136,gray_value
+bread,linescan_tb_0,99,gray_value
+bread,linescan_tb_1,152,gray_value
+bread,linescan_tb_2,227,gray_value
+bread,linescan_tb_3,201,gray_value
+bread,linescan_tb_4,110,gray_value
+bread,linescan_tb_5,28,gray_value
+bread,linescan_tb_6,0,gray_value
+bread,linescan_tb_7,30,gray_value
+bread,linescan_tb_8,77,gray_value
+bread,linescan_tb_9,113,gray_value
+bread,linescan_tb_10,112,gray_value
+bread,linescan_tb_11,134,gray_value
+bread,linescan_tb_12,155,gray_value
+bread,linescan_tb_13,150,gray_value
+bread,linescan_tb_14,137,gray_value
+bread,linescan_tb_15,155,gray_value
+bread,linescan_tb_16,137,gray_value
+bread,linescan_tb_17,102,gray_value
+bread,linescan_tb_18,106,gray_value
+bread,linescan_tb_19,119,gray_value
+bread,linescan_tb_20,94,gray_value
+bread,linescan_tb_21,113,gray_value
+bread,linescan_tb_22,86,gray_value
+bread,linescan_tb_23,140,gray_value
+bread,linescan_tb_24,150,gray_value
+bread,linescan_tb_25,159,gray_value
+bread,linescan_tb_26,145,gray_value
+bread,linescan_tb_27,154,gray_value
+bread,linescan_tb_28,148,gray_value
+bread,linescan_tb_29,95,gray_value
+bread,linescan_tb_30,79,gray_value
+bread,linescan_tb_31,61,gray_value
+bread,linescan_tb_32,58,gray_value
+bread,linescan_tb_33,66,gray_value
+bread,linescan_tb_34,79,gray_value
+bread,linescan_tb_35,141,gray_value
+bread,linescan_tb_36,189,gray_value
+bread,linescan_tb_37,198,gray_value
+bread,linescan_tb_38,187,gray_value
+bread,linescan_tb_39,175,gray_value
+bread,linescan_tb_40,161,gray_value
+bread,linescan_tb_41,173,gray_value
+bread,linescan_tb_42,189,gray_value
+bread,linescan_tb_43,131,gray_value
+bread,linescan_tb_44,107,gray_value
+bread,linescan_tb_45,111,gray_value
+bread,linescan_tb_46,125,gray_value
+bread,linescan_tb_47,153,gray_value
+bread,linescan_tb_48,182,gray_value
+bread,linescan_tb_49,124,gray_value
+bread,linescan_tb_50,86,gray_value
+bread,linescan_tb_51,103,gray_value
+bread,linescan_tb_52,137,gray_value
+bread,linescan_tb_53,176,gray_value
+bread,linescan_tb_54,185,gray_value
+bread,linescan_tb_55,178,gray_value
+bread,linescan_tb_56,185,gray_value
+bread,linescan_tb_57,185,gray_value
+bread,linescan_tb_58,160,gray_value
+bread,linescan_tb_59,139,gray_value
+bread,linescan_tb_60,142,gray_value
+bread,linescan_tb_61,140,gray_value
+bread,linescan_tb_62,165,gray_value
+bread,linescan_tb_63,182,gray_value
+bread,linescan_tb_64,189,gray_value
+bread,linescan_tb_65,200,gray_value
+bread,linescan_tb_66,189,gray_value
+bread,linescan_tb_67,161,gray_value
+bread,linescan_tb_68,161,gray_value
+bread,linescan_tb_69,150,gray_value
+bread,linescan_tb_70,178,gray_value
+bread,linescan_tb_71,192,gray_value
+bread,linescan_tb_72,208,gray_value
+bread,linescan_tb_73,175,gray_value
+bread,linescan_tb_74,149,gray_value
+bread,linescan_tb_75,143,gray_value
+bread,linescan_tb_76,142,gray_value
+bread,linescan_tb_77,151,gray_value
+bread,linescan_tb_78,105,gray_value
+bread,linescan_tb_79,87,gray_value
+bread,linescan_tb_80,121,gray_value
+bread,linescan_tb_81,135,gray_value
+bread,linescan_tb_82,112,gray_value
+bread,linescan_tb_83,94,gray_value
+bread,linescan_tb_84,90,gray_value
+bread,linescan_tb_85,132,gray_value
+bread,linescan_tb_86,149,gray_value
+bread,linescan_tb_87,126,gray_value
+bread,linescan_tb_88,111,gray_value
+bread,linescan_tb_89,154,gray_value
+bread,linescan_tb_90,197,gray_value
+bread,linescan_tb_91,193,gray_value
+bread,linescan_tb_92,156,gray_value
+bread,linescan_tb_93,144,gray_value
+bread,linescan_tb_94,124,gray_value
+bread,linescan_tb_95,121,gray_value
+bread,linescan_tb_96,183,gray_value
+bread,linescan_tb_97,199,gray_value
+bread,linescan_tb_98,140,gray_value
+bread,linescan_tb_99,142,gray_value
+bread,linescan_tb_100,139,gray_value
+bread,linescan_tb_101,114,gray_value
+bread,linescan_tb_102,69,gray_value
+bread,linescan_tb_103,66,gray_value
+bread,linescan_tb_104,85,gray_value
+bread,linescan_tb_105,107,gray_value
+bread,linescan_tb_106,108,gray_value
+bread,linescan_tb_107,125,gray_value
+bread,linescan_tb_108,142,gray_value
+bread,linescan_tb_109,140,gray_value
+bread,linescan_tb_110,188,gray_value
+bread,linescan_tb_111,161,gray_value
+bread,linescan_tb_112,208,gray_value
+bread,linescan_tb_113,215,gray_value
+bread,linescan_tb_114,175,gray_value
+bread,linescan_tb_115,183,gray_value
+bread,linescan_tb_116,150,gray_value
+bread,linescan_tb_117,125,gray_value
+bread,linescan_tb_118,144,gray_value
+bread,linescan_tb_119,160,gray_value
+bread,linescan_tb_120,139,gray_value
+bread,linescan_tb_121,114,gray_value
+bread,linescan_tb_122,159,gray_value
+bread,linescan_tb_123,170,gray_value
+bread,linescan_tb_124,109,gray_value
+bread,linescan_tb_125,84,gray_value
+bread,linescan_tb_126,105,gray_value
+bread,linescan_tb_127,127,gray_value
+bread,linescan_tb_128,118,gray_value
+bread,linescan_tb_129,131,gray_value
+bread,linescan_tb_130,150,gray_value
+bread,linescan_tb_131,144,gray_value
+bread,linescan_tb_132,150,gray_value
+bread,linescan_tb_133,147,gray_value
+bread,linescan_tb_134,125,gray_value
+bread,linescan_tb_135,136,gray_value
+bread,linescan_tb_136,163,gray_value
+bread,linescan_tb_137,154,gray_value
+bread,linescan_tb_138,143,gray_value
+bread,linescan_tb_139,125,gray_value
+bread,linescan_tb_140,119,gray_value
+bread,linescan_tb_141,130,gray_value
+bread,linescan_tb_142,134,gray_value
+bread,linescan_tb_143,134,gray_value
+bread,linescan_tb_144,148,gray_value
+bread,linescan_tb_145,163,gray_value
+bread,linescan_tb_146,173,gray_value
+bread,linescan_tb_147,187,gray_value
+bread,linescan_tb_148,189,gray_value
+bread,linescan_tb_149,177,gray_value
+bread,linescan_tb_150,191,gray_value
+bread,linescan_tb_151,179,gray_value
+bread,linescan_tb_152,189,gray_value
+bread,linescan_tb_153,189,gray_value
+bread,linescan_tb_154,190,gray_value
+bread,linescan_tb_155,195,gray_value
+bread,linescan_tb_156,200,gray_value
+bread,linescan_tb_157,193,gray_value
+bread,linescan_tb_158,188,gray_value
+bread,linescan_tb_159,166,gray_value
+bread,linescan_tb_160,166,gray_value
+bread,linescan_tb_161,184,gray_value
+bread,linescan_tb_162,187,gray_value
+bread,linescan_tb_163,192,gray_value
+bread,linescan_tb_164,191,gray_value
+bread,linescan_tb_165,180,gray_value
+bread,linescan_tb_166,178,gray_value
+bread,linescan_tb_167,176,gray_value
+bread,linescan_tb_168,177,gray_value
+bread,linescan_tb_169,171,gray_value
+bread,linescan_tb_170,149,gray_value
+bread,linescan_tb_171,146,gray_value
+bread,linescan_tb_172,149,gray_value
+bread,linescan_tb_173,174,gray_value
+bread,linescan_tb_174,178,gray_value
+bread,linescan_tb_175,159,gray_value
+bread,linescan_tb_176,106,gray_value
+bread,linescan_tb_177,107,gray_value
+bread,linescan_tb_178,131,gray_value
+bread,linescan_tb_179,134,gray_value
+bread,linescan_tb_180,126,gray_value
+bread,linescan_tb_181,123,gray_value
+bread,linescan_tb_182,144,gray_value
+bread,linescan_tb_183,137,gray_value
+bread,linescan_tb_184,141,gray_value
+bread,linescan_tb_185,109,gray_value
+bread,linescan_tb_186,89,gray_value
+bread,linescan_tb_187,96,gray_value
+bread,linescan_tb_188,127,gray_value
+bread,linescan_tb_189,139,gray_value
+bread,linescan_tb_190,108,gray_value
+bread,linescan_tb_191,76,gray_value
+bread,linescan_tb_192,67,gray_value
+bread,linescan_tb_193,75,gray_value
+bread,linescan_tb_194,103,gray_value
+bread,linescan_tb_195,114,gray_value
+bread,linescan_tb_196,119,gray_value
+bread,linescan_tb_197,98,gray_value
+bread,linescan_tb_198,103,gray_value
+bread,linescan_tb_199,85,gray_value
+la creperie,linescan_lr_0,119,gray_value
+la creperie,linescan_lr_1,113,gray_value
+la creperie,linescan_lr_2,102,gray_value
+la creperie,linescan_lr_3,95,gray_value
+la creperie,linescan_lr_4,89,gray_value
+la creperie,linescan_lr_5,84,gray_value
+la creperie,linescan_lr_6,103,gray_value
+la creperie,linescan_lr_7,178,gray_value
+la creperie,linescan_lr_8,186,gray_value
+la creperie,linescan_lr_9,180,gray_value
+la creperie,linescan_lr_10,176,gray_value
+la creperie,linescan_lr_11,169,gray_value
+la creperie,linescan_lr_12,161,gray_value
+la creperie,linescan_lr_13,154,gray_value
+la creperie,linescan_lr_14,147,gray_value
+la creperie,linescan_lr_15,143,gray_value
+la creperie,linescan_lr_16,139,gray_value
+la creperie,linescan_lr_17,133,gray_value
+la creperie,linescan_lr_18,132,gray_value
+la creperie,linescan_lr_19,149,gray_value
+la creperie,linescan_lr_20,177,gray_value
+la creperie,linescan_lr_21,167,gray_value
+la creperie,linescan_lr_22,161,gray_value
+la creperie,linescan_lr_23,156,gray_value
+la creperie,linescan_lr_24,150,gray_value
+la creperie,linescan_lr_25,149,gray_value
+la creperie,linescan_lr_26,142,gray_value
+la creperie,linescan_lr_27,139,gray_value
+la creperie,linescan_lr_28,139,gray_value
+la creperie,linescan_lr_29,133,gray_value
+la creperie,linescan_lr_30,130,gray_value
+la creperie,linescan_lr_31,126,gray_value
+la creperie,linescan_lr_32,122,gray_value
+la creperie,linescan_lr_33,121,gray_value
+la creperie,linescan_lr_34,120,gray_value
+la creperie,linescan_lr_35,118,gray_value
+la creperie,linescan_lr_36,114,gray_value
+la creperie,linescan_lr_37,111,gray_value
+la creperie,linescan_lr_38,107,gray_value
+la creperie,linescan_lr_39,104,gray_value
+la creperie,linescan_lr_40,103,gray_value
+la creperie,linescan_lr_41,106,gray_value
+la creperie,linescan_lr_42,118,gray_value
+la creperie,linescan_lr_43,143,gray_value
+la creperie,linescan_lr_44,163,gray_value
+la creperie,linescan_lr_45,162,gray_value
+la creperie,linescan_lr_46,169,gray_value
+la creperie,linescan_lr_47,157,gray_value
+la creperie,linescan_lr_48,146,gray_value
+la creperie,linescan_lr_49,143,gray_value
+la creperie,linescan_lr_50,136,gray_value
+la creperie,linescan_lr_51,132,gray_value
+la creperie,linescan_lr_52,136,gray_value
+la creperie,linescan_lr_53,141,gray_value
+la creperie,linescan_lr_54,143,gray_value
+la creperie,linescan_lr_55,132,gray_value
+la creperie,linescan_lr_56,125,gray_value
+la creperie,linescan_lr_57,124,gray_value
+la creperie,linescan_lr_58,125,gray_value
+la creperie,linescan_lr_59,120,gray_value
+la creperie,linescan_lr_60,113,gray_value
+la creperie,linescan_lr_61,107,gray_value
+la creperie,linescan_lr_62,106,gray_value
+la creperie,linescan_lr_63,102,gray_value
+la creperie,linescan_lr_64,98,gray_value
+la creperie,linescan_lr_65,96,gray_value
+la creperie,linescan_lr_66,95,gray_value
+la creperie,linescan_lr_67,96,gray_value
+la creperie,linescan_lr_68,137,gray_value
+la creperie,linescan_lr_69,186,gray_value
+la creperie,linescan_lr_70,179,gray_value
+la creperie,linescan_lr_71,172,gray_value
+la creperie,linescan_lr_72,151,gray_value
+la creperie,linescan_lr_73,130,gray_value
+la creperie,linescan_lr_74,123,gray_value
+la creperie,linescan_lr_75,117,gray_value
+la creperie,linescan_lr_76,109,gray_value
+la creperie,linescan_lr_77,105,gray_value
+la creperie,linescan_lr_78,100,gray_value
+la creperie,linescan_lr_79,93,gray_value
+la creperie,linescan_lr_80,91,gray_value
+la creperie,linescan_lr_81,93,gray_value
+la creperie,linescan_lr_82,92,gray_value
+la creperie,linescan_lr_83,88,gray_value
+la creperie,linescan_lr_84,84,gray_value
+la creperie,linescan_lr_85,79,gray_value
+la creperie,linescan_lr_86,75,gray_value
+la creperie,linescan_lr_87,68,gray_value
+la creperie,linescan_lr_88,64,gray_value
+la creperie,linescan_lr_89,61,gray_value
+la creperie,linescan_lr_90,63,gray_value
+la creperie,linescan_lr_91,63,gray_value
+la creperie,linescan_lr_92,61,gray_value
+la creperie,linescan_lr_93,60,gray_value
+la creperie,linescan_lr_94,58,gray_value
+la creperie,linescan_lr_95,70,gray_value
+la creperie,linescan_lr_96,142,gray_value
+la creperie,linescan_lr_97,182,gray_value
+la creperie,linescan_lr_98,172,gray_value
+la creperie,linescan_lr_99,165,gray_value
+la creperie,linescan_lr_100,165,gray_value
+la creperie,linescan_lr_101,168,gray_value
+la creperie,linescan_lr_102,170,gray_value
+la creperie,linescan_lr_103,169,gray_value
+la creperie,linescan_lr_104,151,gray_value
+la creperie,linescan_lr_105,138,gray_value
+la creperie,linescan_lr_106,138,gray_value
+la creperie,linescan_lr_107,169,gray_value
+la creperie,linescan_lr_108,180,gray_value
+la creperie,linescan_lr_109,148,gray_value
+la creperie,linescan_lr_110,139,gray_value
+la creperie,linescan_lr_111,130,gray_value
+la creperie,linescan_lr_112,118,gray_value
+la creperie,linescan_lr_113,108,gray_value
+la creperie,linescan_lr_114,105,gray_value
+la creperie,linescan_lr_115,102,gray_value
+la creperie,linescan_lr_116,87,gray_value
+la creperie,linescan_lr_117,81,gray_value
+la creperie,linescan_lr_118,78,gray_value
+la creperie,linescan_lr_119,77,gray_value
+la creperie,linescan_lr_120,76,gray_value
+la creperie,linescan_lr_121,71,gray_value
+la creperie,linescan_lr_122,62,gray_value
+la creperie,linescan_lr_123,56,gray_value
+la creperie,linescan_lr_124,55,gray_value
+la creperie,linescan_lr_125,55,gray_value
+la creperie,linescan_lr_126,55,gray_value
+la creperie,linescan_lr_127,52,gray_value
+la creperie,linescan_lr_128,48,gray_value
+la creperie,linescan_lr_129,69,gray_value
+la creperie,linescan_lr_130,153,gray_value
+la creperie,linescan_lr_131,164,gray_value
+la creperie,linescan_lr_132,155,gray_value
+la creperie,linescan_lr_133,175,gray_value
+la creperie,linescan_lr_134,158,gray_value
+la creperie,linescan_lr_135,162,gray_value
+la creperie,linescan_lr_136,178,gray_value
+la creperie,linescan_lr_137,161,gray_value
+la creperie,linescan_lr_138,133,gray_value
+la creperie,linescan_lr_139,141,gray_value
+la creperie,linescan_lr_140,186,gray_value
+la creperie,linescan_lr_141,192,gray_value
+la creperie,linescan_lr_142,195,gray_value
+la creperie,linescan_lr_143,182,gray_value
+la creperie,linescan_lr_144,185,gray_value
+la creperie,linescan_lr_145,169,gray_value
+la creperie,linescan_lr_146,143,gray_value
+la creperie,linescan_lr_147,134,gray_value
+la creperie,linescan_lr_148,127,gray_value
+la creperie,linescan_lr_149,125,gray_value
+la creperie,linescan_lr_150,125,gray_value
+la creperie,linescan_lr_151,123,gray_value
+la creperie,linescan_lr_152,115,gray_value
+la creperie,linescan_lr_153,115,gray_value
+la creperie,linescan_lr_154,121,gray_value
+la creperie,linescan_lr_155,131,gray_value
+la creperie,linescan_lr_156,132,gray_value
+la creperie,linescan_lr_157,131,gray_value
+la creperie,linescan_lr_158,128,gray_value
+la creperie,linescan_lr_159,129,gray_value
+la creperie,linescan_lr_160,135,gray_value
+la creperie,linescan_lr_161,138,gray_value
+la creperie,linescan_lr_162,145,gray_value
+la creperie,linescan_lr_163,154,gray_value
+la creperie,linescan_lr_164,166,gray_value
+la creperie,linescan_lr_165,181,gray_value
+la creperie,linescan_lr_166,189,gray_value
+la creperie,linescan_lr_167,191,gray_value
+la creperie,linescan_lr_168,175,gray_value
+la creperie,linescan_lr_169,171,gray_value
+la creperie,linescan_lr_170,159,gray_value
+la creperie,linescan_lr_171,157,gray_value
+la creperie,linescan_lr_172,166,gray_value
+la creperie,linescan_lr_173,139,gray_value
+la creperie,linescan_lr_174,89,gray_value
+la creperie,linescan_lr_175,80,gray_value
+la creperie,linescan_lr_176,77,gray_value
+la creperie,linescan_lr_177,75,gray_value
+la creperie,linescan_lr_178,70,gray_value
+la creperie,linescan_lr_179,66,gray_value
+la creperie,linescan_lr_180,65,gray_value
+la creperie,linescan_lr_181,63,gray_value
+la creperie,linescan_lr_182,63,gray_value
+la creperie,linescan_lr_183,68,gray_value
+la creperie,linescan_lr_184,72,gray_value
+la creperie,linescan_lr_185,77,gray_value
+la creperie,linescan_lr_186,135,gray_value
+la creperie,linescan_lr_187,184,gray_value
+la creperie,linescan_lr_188,182,gray_value
+la creperie,linescan_lr_189,174,gray_value
+la creperie,linescan_lr_190,163,gray_value
+la creperie,linescan_lr_191,161,gray_value
+la creperie,linescan_lr_192,171,gray_value
+la creperie,linescan_lr_193,173,gray_value
+la creperie,linescan_lr_194,178,gray_value
+la creperie,linescan_lr_195,175,gray_value
+la creperie,linescan_lr_196,171,gray_value
+la creperie,linescan_lr_197,151,gray_value
+la creperie,linescan_lr_198,137,gray_value
+la creperie,linescan_lr_199,95,gray_value
+la creperie,linescan_lr_200,46,gray_value
+la creperie,linescan_lr_201,66,gray_value
+la creperie,linescan_lr_202,137,gray_value
+la creperie,linescan_lr_203,148,gray_value
+la creperie,linescan_lr_204,162,gray_value
+la creperie,linescan_lr_205,155,gray_value
+la creperie,linescan_lr_206,136,gray_value
+la creperie,linescan_lr_207,126,gray_value
+la creperie,linescan_lr_208,122,gray_value
+la creperie,linescan_lr_209,119,gray_value
+la creperie,linescan_lr_210,115,gray_value
+la creperie,linescan_lr_211,115,gray_value
+la creperie,linescan_lr_212,116,gray_value
+la creperie,linescan_lr_213,123,gray_value
+la creperie,linescan_lr_214,144,gray_value
+la creperie,linescan_lr_215,164,gray_value
+la creperie,linescan_lr_216,140,gray_value
+la creperie,linescan_lr_217,115,gray_value
+la creperie,linescan_lr_218,104,gray_value
+la creperie,linescan_lr_219,102,gray_value
+la creperie,linescan_lr_220,102,gray_value
+la creperie,linescan_lr_221,91,gray_value
+la creperie,linescan_lr_222,115,gray_value
+la creperie,linescan_lr_223,172,gray_value
+la creperie,linescan_lr_224,200,gray_value
+la creperie,linescan_lr_225,154,gray_value
+la creperie,linescan_lr_226,99,gray_value
+la creperie,linescan_lr_227,94,gray_value
+la creperie,linescan_lr_228,95,gray_value
+la creperie,linescan_lr_229,97,gray_value
+la creperie,linescan_lr_230,105,gray_value
+la creperie,linescan_lr_231,148,gray_value
+la creperie,linescan_lr_232,134,gray_value
+la creperie,linescan_lr_233,127,gray_value
+la creperie,linescan_lr_234,126,gray_value
+la creperie,linescan_lr_235,121,gray_value
+la creperie,linescan_lr_236,131,gray_value
+la creperie,linescan_lr_237,144,gray_value
+la creperie,linescan_lr_238,166,gray_value
+la creperie,linescan_lr_239,197,gray_value
+la creperie,linescan_lr_240,211,gray_value
+la creperie,linescan_lr_241,198,gray_value
+la creperie,linescan_lr_242,142,gray_value
+la creperie,linescan_lr_243,116,gray_value
+la creperie,linescan_lr_244,105,gray_value
+la creperie,linescan_lr_245,103,gray_value
+la creperie,linescan_lr_246,103,gray_value
+la creperie,linescan_lr_247,114,gray_value
+la creperie,linescan_lr_248,106,gray_value
+la creperie,linescan_lr_249,100,gray_value
+la creperie,linescan_lr_250,103,gray_value
+la creperie,linescan_lr_251,102,gray_value
+la creperie,linescan_lr_252,105,gray_value
+la creperie,linescan_lr_253,114,gray_value
+la creperie,linescan_lr_254,132,gray_value
+la creperie,linescan_lr_255,141,gray_value
+la creperie,linescan_lr_256,153,gray_value
+la creperie,linescan_lr_257,167,gray_value
+la creperie,linescan_lr_258,185,gray_value
+la creperie,linescan_lr_259,198,gray_value
+la creperie,linescan_lr_260,188,gray_value
+la creperie,linescan_lr_261,190,gray_value
+la creperie,linescan_lr_262,183,gray_value
+la creperie,linescan_lr_263,169,gray_value
+la creperie,linescan_lr_264,166,gray_value
+la creperie,linescan_lr_265,188,gray_value
+la creperie,linescan_lr_266,208,gray_value
+la creperie,linescan_lr_267,170,gray_value
+la creperie,linescan_lr_268,135,gray_value
+la creperie,linescan_lr_269,138,gray_value
+la creperie,linescan_lr_270,139,gray_value
+la creperie,linescan_lr_271,156,gray_value
+la creperie,linescan_lr_272,141,gray_value
+la creperie,linescan_lr_273,115,gray_value
+la creperie,linescan_lr_274,116,gray_value
+la creperie,linescan_lr_275,123,gray_value
+la creperie,linescan_lr_276,135,gray_value
+la creperie,linescan_lr_277,128,gray_value
+la creperie,linescan_lr_278,133,gray_value
+la creperie,linescan_lr_279,150,gray_value
+la creperie,linescan_lr_280,171,gray_value
+la creperie,linescan_lr_281,189,gray_value
+la creperie,linescan_lr_282,185,gray_value
+la creperie,linescan_lr_283,156,gray_value
+la creperie,linescan_lr_284,121,gray_value
+la creperie,linescan_lr_285,111,gray_value
+la creperie,linescan_lr_286,121,gray_value
+la creperie,linescan_lr_287,165,gray_value
+la creperie,linescan_lr_288,175,gray_value
+la creperie,linescan_lr_289,186,gray_value
+la creperie,linescan_lr_290,147,gray_value
+la creperie,linescan_lr_291,102,gray_value
+la creperie,linescan_lr_292,109,gray_value
+la creperie,linescan_lr_293,121,gray_value
+la creperie,linescan_lr_294,122,gray_value
+la creperie,linescan_lr_295,128,gray_value
+la creperie,linescan_lr_296,132,gray_value
+la creperie,linescan_lr_297,139,gray_value
+la creperie,linescan_lr_298,150,gray_value
+la creperie,linescan_lr_299,167,gray_value
+la creperie,linescan_lr_300,177,gray_value
+la creperie,linescan_lr_301,151,gray_value
+la creperie,linescan_lr_302,115,gray_value
+la creperie,linescan_lr_303,111,gray_value
+la creperie,linescan_lr_304,112,gray_value
+la creperie,linescan_lr_305,139,gray_value
+la creperie,linescan_lr_306,143,gray_value
+la creperie,linescan_lr_307,140,gray_value
+la creperie,linescan_lr_308,169,gray_value
+la creperie,linescan_lr_309,196,gray_value
+la creperie,linescan_lr_310,130,gray_value
+la creperie,linescan_lr_311,94,gray_value
+la creperie,linescan_lr_312,88,gray_value
+la creperie,linescan_lr_313,71,gray_value
+la creperie,linescan_lr_314,71,gray_value
+la creperie,linescan_lr_315,85,gray_value
+la creperie,linescan_lr_316,112,gray_value
+la creperie,linescan_tb_0,78,gray_value
+la creperie,linescan_tb_1,103,gray_value
+la creperie,linescan_tb_2,117,gray_value
+la creperie,linescan_tb_3,120,gray_value
+la creperie,linescan_tb_4,113,gray_value
+la creperie,linescan_tb_5,124,gray_value
+la creperie,linescan_tb_6,130,gray_value
+la creperie,linescan_tb_7,133,gray_value
+la creperie,linescan_tb_8,142,gray_value
+la creperie,linescan_tb_9,143,gray_value
+la creperie,linescan_tb_10,122,gray_value
+la creperie,linescan_tb_11,91,gray_value
+la creperie,linescan_tb_12,67,gray_value
+la creperie,linescan_tb_13,66,gray_value
+la creperie,linescan_tb_14,73,gray_value
+la creperie,linescan_tb_15,77,gray_value
+la creperie,linescan_tb_16,80,gray_value
+la creperie,linescan_tb_17,123,gray_value
+la creperie,linescan_tb_18,170,gray_value
+la creperie,linescan_tb_19,146,gray_value
+la creperie,linescan_tb_20,148,gray_value
+la creperie,linescan_tb_21,159,gray_value
+la creperie,linescan_tb_22,157,gray_value
+la creperie,linescan_tb_23,170,gray_value
+la creperie,linescan_tb_24,169,gray_value
+la creperie,linescan_tb_25,170,gray_value
+la creperie,linescan_tb_26,159,gray_value
+la creperie,linescan_tb_27,118,gray_value
+la creperie,linescan_tb_28,120,gray_value
+la creperie,linescan_tb_29,128,gray_value
+la creperie,linescan_tb_30,136,gray_value
+la creperie,linescan_tb_31,145,gray_value
+la creperie,linescan_tb_32,159,gray_value
+la creperie,linescan_tb_33,101,gray_value
+la creperie,linescan_tb_34,65,gray_value
+la creperie,linescan_tb_35,67,gray_value
+la creperie,linescan_tb_36,64,gray_value
+la creperie,linescan_tb_37,67,gray_value
+la creperie,linescan_tb_38,105,gray_value
+la creperie,linescan_tb_39,137,gray_value
+la creperie,linescan_tb_40,162,gray_value
+la creperie,linescan_tb_41,140,gray_value
+la creperie,linescan_tb_42,121,gray_value
+la creperie,linescan_tb_43,124,gray_value
+la creperie,linescan_tb_44,120,gray_value
+la creperie,linescan_tb_45,119,gray_value
+la creperie,linescan_tb_46,124,gray_value
+la creperie,linescan_tb_47,166,gray_value
+la creperie,linescan_tb_48,173,gray_value
+la creperie,linescan_tb_49,173,gray_value
+la creperie,linescan_tb_50,130,gray_value
+la creperie,linescan_tb_51,102,gray_value
+la creperie,linescan_tb_52,103,gray_value
+la creperie,linescan_tb_53,102,gray_value
+la creperie,linescan_tb_54,97,gray_value
+la creperie,linescan_tb_55,95,gray_value
+la creperie,linescan_tb_56,99,gray_value
+la creperie,linescan_tb_57,104,gray_value
+la creperie,linescan_tb_58,116,gray_value
+la creperie,linescan_tb_59,120,gray_value
+la creperie,linescan_tb_60,140,gray_value
+la creperie,linescan_tb_61,179,gray_value
+la creperie,linescan_tb_62,165,gray_value
+la creperie,linescan_tb_63,172,gray_value
+la creperie,linescan_tb_64,172,gray_value
+la creperie,linescan_tb_65,164,gray_value
+la creperie,linescan_tb_66,136,gray_value
+la creperie,linescan_tb_67,136,gray_value
+la creperie,linescan_tb_68,162,gray_value
+la creperie,linescan_tb_69,165,gray_value
+la creperie,linescan_tb_70,132,gray_value
+la creperie,linescan_tb_71,105,gray_value
+la creperie,linescan_tb_72,97,gray_value
+la creperie,linescan_tb_73,95,gray_value
+la creperie,linescan_tb_74,95,gray_value
+la creperie,linescan_tb_75,91,gray_value
+la creperie,linescan_tb_76,88,gray_value
+la creperie,linescan_tb_77,80,gray_value
+la creperie,linescan_tb_78,73,gray_value
+la creperie,linescan_tb_79,115,gray_value
+la creperie,linescan_tb_80,175,gray_value
+la creperie,linescan_tb_81,169,gray_value
+la creperie,linescan_tb_82,140,gray_value
+la creperie,linescan_tb_83,132,gray_value
+la creperie,linescan_tb_84,131,gray_value
+la creperie,linescan_tb_85,135,gray_value
+la creperie,linescan_tb_86,139,gray_value
+la creperie,linescan_tb_87,135,gray_value
+la creperie,linescan_tb_88,139,gray_value
+la creperie,linescan_tb_89,188,gray_value
+la creperie,linescan_tb_90,161,gray_value
+la creperie,linescan_tb_91,83,gray_value
+la creperie,linescan_tb_92,34,gray_value
+la creperie,linescan_tb_93,31,gray_value
+la creperie,linescan_tb_94,40,gray_value
+la creperie,linescan_tb_95,41,gray_value
+la creperie,linescan_tb_96,41,gray_value
+la creperie,linescan_tb_97,42,gray_value
+la creperie,linescan_tb_98,41,gray_value
+la creperie,linescan_tb_99,41,gray_value
+la creperie,linescan_tb_100,42,gray_value
+la creperie,linescan_tb_101,58,gray_value
+la creperie,linescan_tb_102,73,gray_value
+la creperie,linescan_tb_103,82,gray_value
+la creperie,linescan_tb_104,101,gray_value
+la creperie,linescan_tb_105,132,gray_value
+la creperie,linescan_tb_106,135,gray_value
+la creperie,linescan_tb_107,107,gray_value
+la creperie,linescan_tb_108,91,gray_value
+la creperie,linescan_tb_109,90,gray_value
+la creperie,linescan_tb_110,84,gray_value
+la creperie,linescan_tb_111,79,gray_value
+la creperie,linescan_tb_112,76,gray_value
+la creperie,linescan_tb_113,77,gray_value
+la creperie,linescan_tb_114,73,gray_value
+la creperie,linescan_tb_115,69,gray_value
+la creperie,linescan_tb_116,66,gray_value
+la creperie,linescan_tb_117,66,gray_value
+la creperie,linescan_tb_118,68,gray_value
+la creperie,linescan_tb_119,68,gray_value
+la creperie,linescan_tb_120,69,gray_value
+la creperie,linescan_tb_121,70,gray_value
+la creperie,linescan_tb_122,68,gray_value
+la creperie,linescan_tb_123,63,gray_value
+la creperie,linescan_tb_124,61,gray_value
+la creperie,linescan_tb_125,61,gray_value
+la creperie,linescan_tb_126,62,gray_value
+la creperie,linescan_tb_127,65,gray_value
+la creperie,linescan_tb_128,69,gray_value
+la creperie,linescan_tb_129,73,gray_value
+la creperie,linescan_tb_130,73,gray_value
+la creperie,linescan_tb_131,73,gray_value
+la creperie,linescan_tb_132,68,gray_value
+la creperie,linescan_tb_133,65,gray_value
+la creperie,linescan_tb_134,62,gray_value
+la creperie,linescan_tb_135,59,gray_value
+la creperie,linescan_tb_136,61,gray_value
+la creperie,linescan_tb_137,65,gray_value
+la creperie,linescan_tb_138,70,gray_value
+la creperie,linescan_tb_139,76,gray_value
+la creperie,linescan_tb_140,80,gray_value
+la creperie,linescan_tb_141,83,gray_value
+la creperie,linescan_tb_142,84,gray_value
+la creperie,linescan_tb_143,84,gray_value
+la creperie,linescan_tb_144,80,gray_value
+la creperie,linescan_tb_145,77,gray_value
+la creperie,linescan_tb_146,77,gray_value
+la creperie,linescan_tb_147,84,gray_value
+la creperie,linescan_tb_148,93,gray_value
+la creperie,linescan_tb_149,93,gray_value
+la creperie,linescan_tb_150,96,gray_value
+la creperie,linescan_tb_151,97,gray_value
+la creperie,linescan_tb_152,97,gray_value
+la creperie,linescan_tb_153,98,gray_value
+la creperie,linescan_tb_154,104,gray_value
+la creperie,linescan_tb_155,124,gray_value
+la creperie,linescan_tb_156,146,gray_value
+la creperie,linescan_tb_157,161,gray_value
+la creperie,linescan_tb_158,153,gray_value
+la creperie,linescan_tb_159,119,gray_value
+la creperie,linescan_tb_160,105,gray_value
+la creperie,linescan_tb_161,99,gray_value
+la creperie,linescan_tb_162,99,gray_value
+la creperie,linescan_tb_163,91,gray_value
+la creperie,linescan_tb_164,80,gray_value
+la creperie,linescan_tb_165,77,gray_value
+la creperie,linescan_tb_166,81,gray_value
+la creperie,linescan_tb_167,77,gray_value
+la creperie,linescan_tb_168,63,gray_value
+la creperie,linescan_tb_169,69,gray_value
+la creperie,linescan_tb_170,81,gray_value
+la creperie,linescan_tb_171,85,gray_value
+la creperie,linescan_tb_172,77,gray_value
+la creperie,linescan_tb_173,70,gray_value
+la creperie,linescan_tb_174,69,gray_value
+la creperie,linescan_tb_175,70,gray_value
+la creperie,linescan_tb_176,69,gray_value
+la creperie,linescan_tb_177,69,gray_value
+la creperie,linescan_tb_178,71,gray_value
+la creperie,linescan_tb_179,71,gray_value
+la creperie,linescan_tb_180,73,gray_value
+la creperie,linescan_tb_181,76,gray_value
+la creperie,linescan_tb_182,70,gray_value
+la creperie,linescan_tb_183,69,gray_value
+la creperie,linescan_tb_184,78,gray_value
+la creperie,linescan_tb_185,88,gray_value
+la creperie,linescan_tb_186,90,gray_value
+la creperie,linescan_tb_187,92,gray_value
+la creperie,linescan_tb_188,96,gray_value
+la creperie,linescan_tb_189,93,gray_value
+la creperie,linescan_tb_190,95,gray_value
+la creperie,linescan_tb_191,107,gray_value
+la creperie,linescan_tb_192,119,gray_value
+la creperie,linescan_tb_193,123,gray_value
+la creperie,linescan_tb_194,121,gray_value
+la creperie,linescan_tb_195,123,gray_value
+la creperie,linescan_tb_196,123,gray_value
+la creperie,linescan_tb_197,121,gray_value
+la creperie,linescan_tb_198,123,gray_value
+la creperie,linescan_tb_199,124,gray_value
+la creperie,linescan_tb_200,123,gray_value
+la creperie,linescan_tb_201,124,gray_value
+la creperie,linescan_tb_202,119,gray_value
+la creperie,linescan_tb_203,119,gray_value
+la creperie,linescan_tb_204,127,gray_value
+la creperie,linescan_tb_205,138,gray_value
+la creperie,linescan_tb_206,145,gray_value
+la creperie,linescan_tb_207,153,gray_value
+la creperie,linescan_tb_208,157,gray_value
+la creperie,linescan_tb_209,159,gray_value
+la creperie,linescan_tb_210,170,gray_value
+la creperie,linescan_tb_211,164,gray_value
+la creperie,linescan_tb_212,162,gray_value
+la creperie,linescan_tb_213,136,gray_value
+la creperie,linescan_tb_214,114,gray_value
+la creperie,linescan_tb_215,114,gray_value
+la creperie,linescan_tb_216,117,gray_value
+la creperie,linescan_tb_217,118,gray_value
+la creperie,linescan_tb_218,117,gray_value
+la creperie,linescan_tb_219,141,gray_value
+la creperie,linescan_tb_220,146,gray_value
+la creperie,linescan_tb_221,148,gray_value
+la creperie,linescan_tb_222,168,gray_value
+la creperie,linescan_tb_223,163,gray_value
+la creperie,linescan_tb_224,126,gray_value
+la creperie,linescan_tb_225,122,gray_value
+la creperie,linescan_tb_226,122,gray_value
+la creperie,linescan_tb_227,123,gray_value
+la creperie,linescan_tb_228,128,gray_value
+la creperie,linescan_tb_229,135,gray_value
+phillippe,linescan_lr_0,138,gray_value
+phillippe,linescan_lr_1,141,gray_value
+phillippe,linescan_lr_2,141,gray_value
+phillippe,linescan_lr_3,146,gray_value
+phillippe,linescan_lr_4,144,gray_value
+phillippe,linescan_lr_5,141,gray_value
+phillippe,linescan_lr_6,112,gray_value
+phillippe,linescan_lr_7,18,gray_value
+phillippe,linescan_lr_8,7,gray_value
+phillippe,linescan_lr_9,6,gray_value
+phillippe,linescan_lr_10,3,gray_value
+phillippe,linescan_lr_11,1,gray_value
+phillippe,linescan_lr_12,1,gray_value
+phillippe,linescan_lr_13,4,gray_value
+phillippe,linescan_lr_14,14,gray_value
+phillippe,linescan_lr_15,28,gray_value
+phillippe,linescan_lr_16,22,gray_value
+phillippe,linescan_lr_17,29,gray_value
+phillippe,linescan_lr_18,39,gray_value
+phillippe,linescan_lr_19,32,gray_value
+phillippe,linescan_lr_20,33,gray_value
+phillippe,linescan_lr_21,37,gray_value
+phillippe,linescan_lr_22,43,gray_value
+phillippe,linescan_lr_23,47,gray_value
+phillippe,linescan_lr_24,50,gray_value
+phillippe,linescan_lr_25,51,gray_value
+phillippe,linescan_lr_26,53,gray_value
+phillippe,linescan_lr_27,55,gray_value
+phillippe,linescan_lr_28,79,gray_value
+phillippe,linescan_lr_29,104,gray_value
+phillippe,linescan_lr_30,111,gray_value
+phillippe,linescan_lr_31,114,gray_value
+phillippe,linescan_lr_32,120,gray_value
+phillippe,linescan_lr_33,116,gray_value
+phillippe,linescan_lr_34,115,gray_value
+phillippe,linescan_lr_35,115,gray_value
+phillippe,linescan_lr_36,111,gray_value
+phillippe,linescan_lr_37,111,gray_value
+phillippe,linescan_lr_38,86,gray_value
+phillippe,linescan_lr_39,84,gray_value
+phillippe,linescan_lr_40,83,gray_value
+phillippe,linescan_lr_41,81,gray_value
+phillippe,linescan_lr_42,68,gray_value
+phillippe,linescan_lr_43,62,gray_value
+phillippe,linescan_lr_44,61,gray_value
+phillippe,linescan_lr_45,65,gray_value
+phillippe,linescan_lr_46,77,gray_value
+phillippe,linescan_lr_47,94,gray_value
+phillippe,linescan_lr_48,95,gray_value
+phillippe,linescan_lr_49,88,gray_value
+phillippe,linescan_lr_50,97,gray_value
+phillippe,linescan_lr_51,84,gray_value
+phillippe,linescan_lr_52,88,gray_value
+phillippe,linescan_lr_53,103,gray_value
+phillippe,linescan_lr_54,106,gray_value
+phillippe,linescan_lr_55,106,gray_value
+phillippe,linescan_lr_56,99,gray_value
+phillippe,linescan_lr_57,96,gray_value
+phillippe,linescan_lr_58,99,gray_value
+phillippe,linescan_lr_59,99,gray_value
+phillippe,linescan_lr_60,89,gray_value
+phillippe,linescan_lr_61,87,gray_value
+phillippe,linescan_lr_62,88,gray_value
+phillippe,linescan_lr_63,98,gray_value
+phillippe,linescan_lr_64,119,gray_value
+phillippe,linescan_lr_65,130,gray_value
+phillippe,linescan_lr_66,123,gray_value
+phillippe,linescan_lr_67,130,gray_value
+phillippe,linescan_lr_68,96,gray_value
+phillippe,linescan_lr_69,71,gray_value
+phillippe,linescan_lr_70,70,gray_value
+phillippe,linescan_lr_71,73,gray_value
+phillippe,linescan_lr_72,73,gray_value
+phillippe,linescan_lr_73,71,gray_value
+phillippe,linescan_lr_74,72,gray_value
+phillippe,linescan_lr_75,80,gray_value
+phillippe,linescan_lr_76,79,gray_value
+phillippe,linescan_lr_77,77,gray_value
+phillippe,linescan_lr_78,70,gray_value
+phillippe,linescan_lr_79,70,gray_value
+phillippe,linescan_lr_80,58,gray_value
+phillippe,linescan_lr_81,54,gray_value
+phillippe,linescan_lr_82,51,gray_value
+phillippe,linescan_lr_83,53,gray_value
+phillippe,linescan_lr_84,59,gray_value
+phillippe,linescan_lr_85,57,gray_value
+phillippe,linescan_lr_86,52,gray_value
+phillippe,linescan_lr_87,51,gray_value
+phillippe,linescan_lr_88,50,gray_value
+phillippe,linescan_lr_89,40,gray_value
+phillippe,linescan_lr_90,38,gray_value
+phillippe,linescan_lr_91,37,gray_value
+phillippe,linescan_lr_92,36,gray_value
+phillippe,linescan_lr_93,36,gray_value
+phillippe,linescan_lr_94,36,gray_value
+phillippe,linescan_lr_95,37,gray_value
+phillippe,linescan_lr_96,38,gray_value
+phillippe,linescan_lr_97,37,gray_value
+phillippe,linescan_lr_98,25,gray_value
+phillippe,linescan_lr_99,24,gray_value
+phillippe,linescan_lr_100,25,gray_value
+phillippe,linescan_lr_101,26,gray_value
+phillippe,linescan_lr_102,26,gray_value
+phillippe,linescan_lr_103,28,gray_value
+phillippe,linescan_lr_104,32,gray_value
+phillippe,linescan_lr_105,34,gray_value
+phillippe,linescan_lr_106,34,gray_value
+phillippe,linescan_lr_107,33,gray_value
+phillippe,linescan_lr_108,34,gray_value
+phillippe,linescan_lr_109,34,gray_value
+phillippe,linescan_lr_110,35,gray_value
+phillippe,linescan_lr_111,35,gray_value
+phillippe,linescan_lr_112,35,gray_value
+phillippe,linescan_lr_113,35,gray_value
+phillippe,linescan_lr_114,35,gray_value
+phillippe,linescan_lr_115,34,gray_value
+phillippe,linescan_lr_116,35,gray_value
+phillippe,linescan_lr_117,35,gray_value
+phillippe,linescan_lr_118,49,gray_value
+phillippe,linescan_lr_119,61,gray_value
+phillippe,linescan_lr_120,67,gray_value
+phillippe,linescan_lr_121,70,gray_value
+phillippe,linescan_lr_122,67,gray_value
+phillippe,linescan_lr_123,72,gray_value
+phillippe,linescan_lr_124,77,gray_value
+phillippe,linescan_lr_125,77,gray_value
+phillippe,linescan_lr_126,84,gray_value
+phillippe,linescan_lr_127,119,gray_value
+phillippe,linescan_lr_128,119,gray_value
+phillippe,linescan_lr_129,113,gray_value
+phillippe,linescan_lr_130,109,gray_value
+phillippe,linescan_lr_131,107,gray_value
+phillippe,linescan_lr_132,106,gray_value
+phillippe,linescan_lr_133,101,gray_value
+phillippe,linescan_lr_134,95,gray_value
+phillippe,linescan_lr_135,94,gray_value
+phillippe,linescan_lr_136,91,gray_value
+phillippe,linescan_lr_137,89,gray_value
+phillippe,linescan_lr_138,84,gray_value
+phillippe,linescan_lr_139,82,gray_value
+phillippe,linescan_lr_140,88,gray_value
+phillippe,linescan_lr_141,97,gray_value
+phillippe,linescan_lr_142,98,gray_value
+phillippe,linescan_lr_143,102,gray_value
+phillippe,linescan_lr_144,105,gray_value
+phillippe,linescan_lr_145,111,gray_value
+phillippe,linescan_lr_146,114,gray_value
+phillippe,linescan_lr_147,120,gray_value
+phillippe,linescan_lr_148,115,gray_value
+phillippe,linescan_lr_149,116,gray_value
+phillippe,linescan_lr_150,117,gray_value
+phillippe,linescan_lr_151,114,gray_value
+phillippe,linescan_lr_152,117,gray_value
+phillippe,linescan_lr_153,117,gray_value
+phillippe,linescan_lr_154,94,gray_value
+phillippe,linescan_lr_155,103,gray_value
+phillippe,linescan_lr_156,113,gray_value
+phillippe,linescan_lr_157,114,gray_value
+phillippe,linescan_lr_158,113,gray_value
+phillippe,linescan_lr_159,50,gray_value
+phillippe,linescan_lr_160,21,gray_value
+phillippe,linescan_lr_161,22,gray_value
+phillippe,linescan_lr_162,25,gray_value
+phillippe,linescan_lr_163,25,gray_value
+phillippe,linescan_lr_164,26,gray_value
+phillippe,linescan_lr_165,28,gray_value
+phillippe,linescan_lr_166,31,gray_value
+phillippe,linescan_lr_167,32,gray_value
+phillippe,linescan_lr_168,33,gray_value
+phillippe,linescan_lr_169,35,gray_value
+phillippe,linescan_lr_170,34,gray_value
+phillippe,linescan_lr_171,32,gray_value
+phillippe,linescan_lr_172,35,gray_value
+phillippe,linescan_lr_173,38,gray_value
+phillippe,linescan_lr_174,41,gray_value
+phillippe,linescan_lr_175,42,gray_value
+phillippe,linescan_lr_176,48,gray_value
+phillippe,linescan_lr_177,58,gray_value
+phillippe,linescan_lr_178,66,gray_value
+phillippe,linescan_lr_179,72,gray_value
+phillippe,linescan_lr_180,74,gray_value
+phillippe,linescan_lr_181,88,gray_value
+phillippe,linescan_lr_182,98,gray_value
+phillippe,linescan_lr_183,100,gray_value
+phillippe,linescan_lr_184,97,gray_value
+phillippe,linescan_lr_185,95,gray_value
+phillippe,linescan_lr_186,98,gray_value
+phillippe,linescan_lr_187,105,gray_value
+phillippe,linescan_lr_188,120,gray_value
+phillippe,linescan_lr_189,124,gray_value
+phillippe,linescan_lr_190,129,gray_value
+phillippe,linescan_lr_191,134,gray_value
+phillippe,linescan_lr_192,130,gray_value
+phillippe,linescan_lr_193,126,gray_value
+phillippe,linescan_lr_194,108,gray_value
+phillippe,linescan_lr_195,99,gray_value
+phillippe,linescan_lr_196,99,gray_value
+phillippe,linescan_lr_197,101,gray_value
+phillippe,linescan_lr_198,101,gray_value
+phillippe,linescan_lr_199,101,gray_value
+phillippe,linescan_lr_200,103,gray_value
+phillippe,linescan_lr_201,104,gray_value
+phillippe,linescan_lr_202,108,gray_value
+phillippe,linescan_lr_203,112,gray_value
+phillippe,linescan_lr_204,118,gray_value
+phillippe,linescan_lr_205,122,gray_value
+phillippe,linescan_lr_206,127,gray_value
+phillippe,linescan_lr_207,129,gray_value
+phillippe,linescan_lr_208,131,gray_value
+phillippe,linescan_lr_209,128,gray_value
+phillippe,linescan_lr_210,136,gray_value
+phillippe,linescan_lr_211,135,gray_value
+phillippe,linescan_lr_212,92,gray_value
+phillippe,linescan_lr_213,88,gray_value
+phillippe,linescan_lr_214,98,gray_value
+phillippe,linescan_lr_215,100,gray_value
+phillippe,linescan_lr_216,100,gray_value
+phillippe,linescan_lr_217,103,gray_value
+phillippe,linescan_lr_218,109,gray_value
+phillippe,linescan_lr_219,110,gray_value
+phillippe,linescan_lr_220,99,gray_value
+phillippe,linescan_lr_221,71,gray_value
+phillippe,linescan_lr_222,75,gray_value
+phillippe,linescan_lr_223,38,gray_value
+phillippe,linescan_lr_224,31,gray_value
+phillippe,linescan_lr_225,26,gray_value
+phillippe,linescan_lr_226,24,gray_value
+phillippe,linescan_lr_227,27,gray_value
+phillippe,linescan_lr_228,26,gray_value
+phillippe,linescan_lr_229,27,gray_value
+phillippe,linescan_lr_230,31,gray_value
+phillippe,linescan_lr_231,35,gray_value
+phillippe,linescan_lr_232,37,gray_value
+phillippe,linescan_lr_233,34,gray_value
+phillippe,linescan_lr_234,37,gray_value
+phillippe,linescan_lr_235,42,gray_value
+phillippe,linescan_lr_236,49,gray_value
+phillippe,linescan_lr_237,52,gray_value
+phillippe,linescan_lr_238,53,gray_value
+phillippe,linescan_lr_239,57,gray_value
+phillippe,linescan_lr_240,95,gray_value
+phillippe,linescan_lr_241,107,gray_value
+phillippe,linescan_lr_242,114,gray_value
+phillippe,linescan_lr_243,100,gray_value
+phillippe,linescan_lr_244,85,gray_value
+phillippe,linescan_lr_245,87,gray_value
+phillippe,linescan_lr_246,86,gray_value
+phillippe,linescan_lr_247,81,gray_value
+phillippe,linescan_lr_248,87,gray_value
+phillippe,linescan_lr_249,103,gray_value
+phillippe,linescan_lr_250,103,gray_value
+phillippe,linescan_lr_251,99,gray_value
+phillippe,linescan_lr_252,108,gray_value
+phillippe,linescan_lr_253,137,gray_value
+phillippe,linescan_lr_254,159,gray_value
+phillippe,linescan_lr_255,171,gray_value
+phillippe,linescan_lr_256,174,gray_value
+phillippe,linescan_lr_257,156,gray_value
+phillippe,linescan_lr_258,173,gray_value
+phillippe,linescan_lr_259,169,gray_value
+phillippe,linescan_lr_260,154,gray_value
+phillippe,linescan_lr_261,160,gray_value
+phillippe,linescan_lr_262,154,gray_value
+phillippe,linescan_lr_263,151,gray_value
+phillippe,linescan_lr_264,140,gray_value
+phillippe,linescan_lr_265,129,gray_value
+phillippe,linescan_tb_0,141,gray_value
+phillippe,linescan_tb_1,144,gray_value
+phillippe,linescan_tb_2,151,gray_value
+phillippe,linescan_tb_3,145,gray_value
+phillippe,linescan_tb_4,148,gray_value
+phillippe,linescan_tb_5,159,gray_value
+phillippe,linescan_tb_6,170,gray_value
+phillippe,linescan_tb_7,166,gray_value
+phillippe,linescan_tb_8,162,gray_value
+phillippe,linescan_tb_9,158,gray_value
+phillippe,linescan_tb_10,155,gray_value
+phillippe,linescan_tb_11,147,gray_value
+phillippe,linescan_tb_12,145,gray_value
+phillippe,linescan_tb_13,127,gray_value
+phillippe,linescan_tb_14,30,gray_value
+phillippe,linescan_tb_15,8,gray_value
+phillippe,linescan_tb_16,8,gray_value
+phillippe,linescan_tb_17,7,gray_value
+phillippe,linescan_tb_18,7,gray_value
+phillippe,linescan_tb_19,7,gray_value
+phillippe,linescan_tb_20,7,gray_value
+phillippe,linescan_tb_21,7,gray_value
+phillippe,linescan_tb_22,5,gray_value
+phillippe,linescan_tb_23,4,gray_value
+phillippe,linescan_tb_24,5,gray_value
+phillippe,linescan_tb_25,5,gray_value
+phillippe,linescan_tb_26,5,gray_value
+phillippe,linescan_tb_27,4,gray_value
+phillippe,linescan_tb_28,4,gray_value
+phillippe,linescan_tb_29,5,gray_value
+phillippe,linescan_tb_30,5,gray_value
+phillippe,linescan_tb_31,7,gray_value
+phillippe,linescan_tb_32,10,gray_value
+phillippe,linescan_tb_33,12,gray_value
+phillippe,linescan_tb_34,10,gray_value
+phillippe,linescan_tb_35,8,gray_value
+phillippe,linescan_tb_36,7,gray_value
+phillippe,linescan_tb_37,5,gray_value
+phillippe,linescan_tb_38,4,gray_value
+phillippe,linescan_tb_39,4,gray_value
+phillippe,linescan_tb_40,5,gray_value
+phillippe,linescan_tb_41,5,gray_value
+phillippe,linescan_tb_42,6,gray_value
+phillippe,linescan_tb_43,6,gray_value
+phillippe,linescan_tb_44,6,gray_value
+phillippe,linescan_tb_45,6,gray_value
+phillippe,linescan_tb_46,4,gray_value
+phillippe,linescan_tb_47,4,gray_value
+phillippe,linescan_tb_48,4,gray_value
+phillippe,linescan_tb_49,4,gray_value
+phillippe,linescan_tb_50,4,gray_value
+phillippe,linescan_tb_51,4,gray_value
+phillippe,linescan_tb_52,2,gray_value
+phillippe,linescan_tb_53,1,gray_value
+phillippe,linescan_tb_54,0,gray_value
+phillippe,linescan_tb_55,1,gray_value
+phillippe,linescan_tb_56,1,gray_value
+phillippe,linescan_tb_57,0,gray_value
+phillippe,linescan_tb_58,5,gray_value
+phillippe,linescan_tb_59,33,gray_value
+phillippe,linescan_tb_60,68,gray_value
+phillippe,linescan_tb_61,75,gray_value
+phillippe,linescan_tb_62,82,gray_value
+phillippe,linescan_tb_63,81,gray_value
+phillippe,linescan_tb_64,78,gray_value
+phillippe,linescan_tb_65,71,gray_value
+phillippe,linescan_tb_66,81,gray_value
+phillippe,linescan_tb_67,92,gray_value
+phillippe,linescan_tb_68,98,gray_value
+phillippe,linescan_tb_69,78,gray_value
+phillippe,linescan_tb_70,56,gray_value
+phillippe,linescan_tb_71,54,gray_value
+phillippe,linescan_tb_72,58,gray_value
+phillippe,linescan_tb_73,76,gray_value
+phillippe,linescan_tb_74,84,gray_value
+phillippe,linescan_tb_75,89,gray_value
+phillippe,linescan_tb_76,93,gray_value
+phillippe,linescan_tb_77,97,gray_value
+phillippe,linescan_tb_78,98,gray_value
+phillippe,linescan_tb_79,105,gray_value
+phillippe,linescan_tb_80,75,gray_value
+phillippe,linescan_tb_81,68,gray_value
+phillippe,linescan_tb_82,61,gray_value
+phillippe,linescan_tb_83,57,gray_value
+phillippe,linescan_tb_84,63,gray_value
+phillippe,linescan_tb_85,67,gray_value
+phillippe,linescan_tb_86,67,gray_value
+phillippe,linescan_tb_87,61,gray_value
+phillippe,linescan_tb_88,46,gray_value
+phillippe,linescan_tb_89,43,gray_value
+phillippe,linescan_tb_90,47,gray_value
+phillippe,linescan_tb_91,52,gray_value
+phillippe,linescan_tb_92,58,gray_value
+phillippe,linescan_tb_93,60,gray_value
+phillippe,linescan_tb_94,63,gray_value
+phillippe,linescan_tb_95,66,gray_value
+phillippe,linescan_tb_96,67,gray_value
+phillippe,linescan_tb_97,71,gray_value
+phillippe,linescan_tb_98,74,gray_value
+phillippe,linescan_tb_99,83,gray_value
+phillippe,linescan_tb_100,84,gray_value
+phillippe,linescan_tb_101,84,gray_value
+phillippe,linescan_tb_102,86,gray_value
+phillippe,linescan_tb_103,95,gray_value
+phillippe,linescan_tb_104,122,gray_value
+phillippe,linescan_tb_105,124,gray_value
+phillippe,linescan_tb_106,122,gray_value
+phillippe,linescan_tb_107,116,gray_value
+phillippe,linescan_tb_108,120,gray_value
+phillippe,linescan_tb_109,122,gray_value
+phillippe,linescan_tb_110,122,gray_value
+phillippe,linescan_tb_111,120,gray_value
+phillippe,linescan_tb_112,124,gray_value
+phillippe,linescan_tb_113,130,gray_value
+phillippe,linescan_tb_114,130,gray_value
+phillippe,linescan_tb_115,130,gray_value
+phillippe,linescan_tb_116,123,gray_value
+phillippe,linescan_tb_117,122,gray_value
+phillippe,linescan_tb_118,122,gray_value
+phillippe,linescan_tb_119,122,gray_value
+phillippe,linescan_tb_120,124,gray_value
+phillippe,linescan_tb_121,116,gray_value
+phillippe,linescan_tb_122,115,gray_value
+phillippe,linescan_tb_123,117,gray_value
+phillippe,linescan_tb_124,109,gray_value
+phillippe,linescan_tb_125,86,gray_value
+phillippe,linescan_tb_126,87,gray_value
+phillippe,linescan_tb_127,93,gray_value
+phillippe,linescan_tb_128,95,gray_value
+phillippe,linescan_tb_129,104,gray_value
+phillippe,linescan_tb_130,111,gray_value
+phillippe,linescan_tb_131,100,gray_value
+phillippe,linescan_tb_132,97,gray_value
+phillippe,linescan_tb_133,102,gray_value
+phillippe,linescan_tb_134,101,gray_value
+phillippe,linescan_tb_135,104,gray_value
+phillippe,linescan_tb_136,112,gray_value
+phillippe,linescan_tb_137,113,gray_value
+phillippe,linescan_tb_138,122,gray_value
+phillippe,linescan_tb_139,115,gray_value
+phillippe,linescan_tb_140,106,gray_value
+phillippe,linescan_tb_141,106,gray_value
+phillippe,linescan_tb_142,108,gray_value
+trickster,linescan_lr_0,122,gray_value
+trickster,linescan_lr_1,111,gray_value
+trickster,linescan_lr_2,103,gray_value
+trickster,linescan_lr_3,97,gray_value
+trickster,linescan_lr_4,85,gray_value
+trickster,linescan_lr_5,78,gray_value
+trickster,linescan_lr_6,78,gray_value
+trickster,linescan_lr_7,112,gray_value
+trickster,linescan_lr_8,145,gray_value
+trickster,linescan_lr_9,131,gray_value
+trickster,linescan_lr_10,98,gray_value
+trickster,linescan_lr_11,87,gray_value
+trickster,linescan_lr_12,96,gray_value
+trickster,linescan_lr_13,115,gray_value
+trickster,linescan_lr_14,107,gray_value
+trickster,linescan_lr_15,94,gray_value
+trickster,linescan_lr_16,94,gray_value
+trickster,linescan_lr_17,91,gray_value
+trickster,linescan_lr_18,80,gray_value
+trickster,linescan_lr_19,77,gray_value
+trickster,linescan_lr_20,83,gray_value
+trickster,linescan_lr_21,91,gray_value
+trickster,linescan_lr_22,91,gray_value
+trickster,linescan_lr_23,94,gray_value
+trickster,linescan_lr_24,103,gray_value
+trickster,linescan_lr_25,128,gray_value
+trickster,linescan_lr_26,143,gray_value
+trickster,linescan_lr_27,133,gray_value
+trickster,linescan_lr_28,95,gray_value
+trickster,linescan_lr_29,104,gray_value
+trickster,linescan_lr_30,134,gray_value
+trickster,linescan_lr_31,139,gray_value
+trickster,linescan_lr_32,130,gray_value
+trickster,linescan_lr_33,117,gray_value
+trickster,linescan_lr_34,109,gray_value
+trickster,linescan_lr_35,104,gray_value
+trickster,linescan_lr_36,100,gray_value
+trickster,linescan_lr_37,96,gray_value
+trickster,linescan_lr_38,91,gray_value
+trickster,linescan_lr_39,87,gray_value
+trickster,linescan_lr_40,82,gray_value
+trickster,linescan_lr_41,81,gray_value
+trickster,linescan_lr_42,93,gray_value
+trickster,linescan_lr_43,127,gray_value
+trickster,linescan_lr_44,127,gray_value
+trickster,linescan_lr_45,122,gray_value
+trickster,linescan_lr_46,118,gray_value
+trickster,linescan_lr_47,119,gray_value
+trickster,linescan_lr_48,125,gray_value
+trickster,linescan_lr_49,116,gray_value
+trickster,linescan_lr_50,115,gray_value
+trickster,linescan_lr_51,107,gray_value
+trickster,linescan_lr_52,102,gray_value
+trickster,linescan_lr_53,96,gray_value
+trickster,linescan_lr_54,92,gray_value
+trickster,linescan_lr_55,95,gray_value
+trickster,linescan_lr_56,127,gray_value
+trickster,linescan_lr_57,118,gray_value
+trickster,linescan_lr_58,93,gray_value
+trickster,linescan_lr_59,81,gray_value
+trickster,linescan_lr_60,74,gray_value
+trickster,linescan_lr_61,68,gray_value
+trickster,linescan_lr_62,98,gray_value
+trickster,linescan_lr_63,119,gray_value
+trickster,linescan_lr_64,110,gray_value
+trickster,linescan_lr_65,102,gray_value
+trickster,linescan_lr_66,90,gray_value
+trickster,linescan_lr_67,73,gray_value
+trickster,linescan_lr_68,70,gray_value
+trickster,linescan_lr_69,69,gray_value
+trickster,linescan_lr_70,63,gray_value
+trickster,linescan_lr_71,64,gray_value
+trickster,linescan_lr_72,85,gray_value
+trickster,linescan_lr_73,111,gray_value
+trickster,linescan_lr_74,92,gray_value
+trickster,linescan_lr_75,70,gray_value
+trickster,linescan_lr_76,63,gray_value
+trickster,linescan_lr_77,60,gray_value
+trickster,linescan_lr_78,59,gray_value
+trickster,linescan_lr_79,56,gray_value
+trickster,linescan_lr_80,52,gray_value
+trickster,linescan_lr_81,49,gray_value
+trickster,linescan_lr_82,57,gray_value
+trickster,linescan_lr_83,115,gray_value
+trickster,linescan_lr_84,153,gray_value
+trickster,linescan_lr_85,156,gray_value
+trickster,linescan_lr_86,101,gray_value
+trickster,linescan_lr_87,80,gray_value
+trickster,linescan_lr_88,74,gray_value
+trickster,linescan_lr_89,75,gray_value
+trickster,linescan_lr_90,81,gray_value
+trickster,linescan_lr_91,94,gray_value
+trickster,linescan_lr_92,91,gray_value
+trickster,linescan_lr_93,112,gray_value
+trickster,linescan_lr_94,139,gray_value
+trickster,linescan_lr_95,133,gray_value
+trickster,linescan_lr_96,98,gray_value
+trickster,linescan_lr_97,91,gray_value
+trickster,linescan_lr_98,82,gray_value
+trickster,linescan_lr_99,67,gray_value
+trickster,linescan_lr_100,64,gray_value
+trickster,linescan_lr_101,61,gray_value
+trickster,linescan_lr_102,61,gray_value
+trickster,linescan_lr_103,78,gray_value
+trickster,linescan_lr_104,122,gray_value
+trickster,linescan_lr_105,136,gray_value
+trickster,linescan_lr_106,127,gray_value
+trickster,linescan_lr_107,125,gray_value
+trickster,linescan_lr_108,121,gray_value
+trickster,linescan_lr_109,109,gray_value
+trickster,linescan_lr_110,94,gray_value
+trickster,linescan_lr_111,92,gray_value
+trickster,linescan_lr_112,88,gray_value
+trickster,linescan_lr_113,77,gray_value
+trickster,linescan_lr_114,70,gray_value
+trickster,linescan_lr_115,68,gray_value
+trickster,linescan_lr_116,69,gray_value
+trickster,linescan_lr_117,71,gray_value
+trickster,linescan_lr_118,72,gray_value
+trickster,linescan_lr_119,75,gray_value
+trickster,linescan_lr_120,71,gray_value
+trickster,linescan_lr_121,69,gray_value
+trickster,linescan_lr_122,67,gray_value
+trickster,linescan_lr_123,67,gray_value
+trickster,linescan_lr_124,67,gray_value
+trickster,linescan_lr_125,79,gray_value
+trickster,linescan_lr_126,169,gray_value
+trickster,linescan_lr_127,184,gray_value
+trickster,linescan_lr_128,121,gray_value
+trickster,linescan_lr_129,109,gray_value
+trickster,linescan_lr_130,109,gray_value
+trickster,linescan_lr_131,111,gray_value
+trickster,linescan_lr_132,101,gray_value
+trickster,linescan_lr_133,100,gray_value
+trickster,linescan_lr_134,91,gray_value
+trickster,linescan_lr_135,92,gray_value
+trickster,linescan_lr_136,93,gray_value
+trickster,linescan_lr_137,93,gray_value
+trickster,linescan_lr_138,94,gray_value
+trickster,linescan_lr_139,100,gray_value
+trickster,linescan_lr_140,108,gray_value
+trickster,linescan_lr_141,138,gray_value
+trickster,linescan_lr_142,147,gray_value
+trickster,linescan_lr_143,124,gray_value
+trickster,linescan_lr_144,126,gray_value
+trickster,linescan_lr_145,119,gray_value
+trickster,linescan_lr_146,49,gray_value
+trickster,linescan_lr_147,43,gray_value
+trickster,linescan_lr_148,42,gray_value
+trickster,linescan_lr_149,41,gray_value
+trickster,linescan_lr_150,43,gray_value
+trickster,linescan_lr_151,73,gray_value
+trickster,linescan_lr_152,146,gray_value
+trickster,linescan_lr_153,166,gray_value
+trickster,linescan_lr_154,170,gray_value
+trickster,linescan_lr_155,182,gray_value
+trickster,linescan_lr_156,139,gray_value
+trickster,linescan_lr_157,134,gray_value
+trickster,linescan_lr_158,163,gray_value
+trickster,linescan_lr_159,139,gray_value
+trickster,linescan_lr_160,88,gray_value
+trickster,linescan_lr_161,53,gray_value
+trickster,linescan_lr_162,46,gray_value
+trickster,linescan_lr_163,37,gray_value
+trickster,linescan_lr_164,37,gray_value
+trickster,linescan_lr_165,38,gray_value
+trickster,linescan_lr_166,39,gray_value
+trickster,linescan_lr_167,37,gray_value
+trickster,linescan_lr_168,47,gray_value
+trickster,linescan_lr_169,114,gray_value
+trickster,linescan_lr_170,121,gray_value
+trickster,linescan_lr_171,159,gray_value
+trickster,linescan_lr_172,165,gray_value
+trickster,linescan_lr_173,166,gray_value
+trickster,linescan_lr_174,169,gray_value
+trickster,linescan_lr_175,172,gray_value
+trickster,linescan_lr_176,167,gray_value
+trickster,linescan_lr_177,150,gray_value
+trickster,linescan_lr_178,139,gray_value
+trickster,linescan_lr_179,129,gray_value
+trickster,linescan_lr_180,124,gray_value
+trickster,linescan_lr_181,124,gray_value
+trickster,linescan_lr_182,151,gray_value
+trickster,linescan_lr_183,119,gray_value
+trickster,linescan_lr_184,75,gray_value
+trickster,linescan_lr_185,71,gray_value
+trickster,linescan_lr_186,64,gray_value
+trickster,linescan_lr_187,52,gray_value
+trickster,linescan_lr_188,39,gray_value
+trickster,linescan_lr_189,30,gray_value
+trickster,linescan_lr_190,33,gray_value
+trickster,linescan_lr_191,67,gray_value
+trickster,linescan_lr_192,88,gray_value
+trickster,linescan_lr_193,84,gray_value
+trickster,linescan_lr_194,76,gray_value
+trickster,linescan_lr_195,78,gray_value
+trickster,linescan_lr_196,66,gray_value
+trickster,linescan_lr_197,69,gray_value
+trickster,linescan_lr_198,79,gray_value
+trickster,linescan_lr_199,93,gray_value
+trickster,linescan_lr_200,102,gray_value
+trickster,linescan_lr_201,110,gray_value
+trickster,linescan_lr_202,142,gray_value
+trickster,linescan_lr_203,135,gray_value
+trickster,linescan_lr_204,109,gray_value
+trickster,linescan_lr_205,100,gray_value
+trickster,linescan_lr_206,90,gray_value
+trickster,linescan_lr_207,88,gray_value
+trickster,linescan_lr_208,89,gray_value
+trickster,linescan_lr_209,78,gray_value
+trickster,linescan_lr_210,75,gray_value
+trickster,linescan_lr_211,72,gray_value
+trickster,linescan_lr_212,71,gray_value
+trickster,linescan_lr_213,68,gray_value
+trickster,linescan_lr_214,62,gray_value
+trickster,linescan_lr_215,56,gray_value
+trickster,linescan_lr_216,50,gray_value
+trickster,linescan_lr_217,64,gray_value
+trickster,linescan_lr_218,137,gray_value
+trickster,linescan_lr_219,140,gray_value
+trickster,linescan_lr_220,133,gray_value
+trickster,linescan_lr_221,116,gray_value
+trickster,linescan_lr_222,102,gray_value
+trickster,linescan_lr_223,116,gray_value
+trickster,linescan_lr_224,122,gray_value
+trickster,linescan_lr_225,130,gray_value
+trickster,linescan_lr_226,110,gray_value
+trickster,linescan_lr_227,116,gray_value
+trickster,linescan_lr_228,130,gray_value
+trickster,linescan_lr_229,131,gray_value
+trickster,linescan_lr_230,126,gray_value
+trickster,linescan_lr_231,126,gray_value
+trickster,linescan_lr_232,124,gray_value
+trickster,linescan_lr_233,114,gray_value
+trickster,linescan_lr_234,109,gray_value
+trickster,linescan_lr_235,96,gray_value
+trickster,linescan_lr_236,93,gray_value
+trickster,linescan_lr_237,93,gray_value
+trickster,linescan_lr_238,89,gray_value
+trickster,linescan_lr_239,92,gray_value
+trickster,linescan_lr_240,99,gray_value
+trickster,linescan_lr_241,99,gray_value
+trickster,linescan_lr_242,98,gray_value
+trickster,linescan_lr_243,105,gray_value
+trickster,linescan_lr_244,137,gray_value
+trickster,linescan_lr_245,140,gray_value
+trickster,linescan_lr_246,104,gray_value
+trickster,linescan_lr_247,61,gray_value
+trickster,linescan_lr_248,70,gray_value
+trickster,linescan_lr_249,98,gray_value
+trickster,linescan_lr_250,98,gray_value
+trickster,linescan_lr_251,81,gray_value
+trickster,linescan_lr_252,83,gray_value
+trickster,linescan_lr_253,89,gray_value
+trickster,linescan_lr_254,99,gray_value
+trickster,linescan_lr_255,117,gray_value
+trickster,linescan_lr_256,136,gray_value
+trickster,linescan_lr_257,139,gray_value
+trickster,linescan_lr_258,92,gray_value
+trickster,linescan_lr_259,28,gray_value
+trickster,linescan_lr_260,25,gray_value
+trickster,linescan_lr_261,22,gray_value
+trickster,linescan_lr_262,19,gray_value
+trickster,linescan_lr_263,19,gray_value
+trickster,linescan_lr_264,19,gray_value
+trickster,linescan_lr_265,19,gray_value
+trickster,linescan_lr_266,16,gray_value
+trickster,linescan_lr_267,14,gray_value
+trickster,linescan_lr_268,13,gray_value
+trickster,linescan_lr_269,16,gray_value
+trickster,linescan_lr_270,19,gray_value
+trickster,linescan_lr_271,27,gray_value
+trickster,linescan_lr_272,34,gray_value
+trickster,linescan_lr_273,34,gray_value
+trickster,linescan_lr_274,34,gray_value
+trickster,linescan_lr_275,37,gray_value
+trickster,linescan_lr_276,39,gray_value
+trickster,linescan_lr_277,42,gray_value
+trickster,linescan_lr_278,49,gray_value
+trickster,linescan_lr_279,53,gray_value
+trickster,linescan_lr_280,58,gray_value
+trickster,linescan_lr_281,68,gray_value
+trickster,linescan_lr_282,75,gray_value
+trickster,linescan_lr_283,81,gray_value
+trickster,linescan_lr_284,88,gray_value
+trickster,linescan_lr_285,96,gray_value
+trickster,linescan_lr_286,115,gray_value
+trickster,linescan_lr_287,132,gray_value
+trickster,linescan_lr_288,135,gray_value
+trickster,linescan_lr_289,133,gray_value
+trickster,linescan_lr_290,133,gray_value
+trickster,linescan_lr_291,127,gray_value
+trickster,linescan_lr_292,119,gray_value
+trickster,linescan_lr_293,119,gray_value
+trickster,linescan_lr_294,117,gray_value
+trickster,linescan_lr_295,117,gray_value
+trickster,linescan_lr_296,120,gray_value
+trickster,linescan_lr_297,118,gray_value
+trickster,linescan_lr_298,108,gray_value
+trickster,linescan_lr_299,108,gray_value
+trickster,linescan_lr_300,121,gray_value
+trickster,linescan_lr_301,116,gray_value
+trickster,linescan_lr_302,106,gray_value
+trickster,linescan_lr_303,133,gray_value
+trickster,linescan_lr_304,132,gray_value
+trickster,linescan_lr_305,139,gray_value
+trickster,linescan_lr_306,142,gray_value
+trickster,linescan_lr_307,146,gray_value
+trickster,linescan_lr_308,134,gray_value
+trickster,linescan_lr_309,118,gray_value
+trickster,linescan_lr_310,111,gray_value
+trickster,linescan_lr_311,105,gray_value
+trickster,linescan_lr_312,99,gray_value
+trickster,linescan_lr_313,97,gray_value
+trickster,linescan_lr_314,94,gray_value
+trickster,linescan_lr_315,91,gray_value
+trickster,linescan_lr_316,90,gray_value
+trickster,linescan_lr_317,88,gray_value
+trickster,linescan_lr_318,84,gray_value
+trickster,linescan_lr_319,73,gray_value
+trickster,linescan_lr_320,65,gray_value
+trickster,linescan_lr_321,61,gray_value
+trickster,linescan_lr_322,59,gray_value
+trickster,linescan_lr_323,65,gray_value
+trickster,linescan_lr_324,71,gray_value
+trickster,linescan_lr_325,65,gray_value
+trickster,linescan_lr_326,67,gray_value
+trickster,linescan_lr_327,90,gray_value
+trickster,linescan_lr_328,121,gray_value
+trickster,linescan_lr_329,120,gray_value
+trickster,linescan_lr_330,102,gray_value
+trickster,linescan_lr_331,74,gray_value
+trickster,linescan_lr_332,64,gray_value
+trickster,linescan_lr_333,68,gray_value
+trickster,linescan_lr_334,74,gray_value
+trickster,linescan_lr_335,79,gray_value
+trickster,linescan_lr_336,81,gray_value
+trickster,linescan_lr_337,85,gray_value
+trickster,linescan_lr_338,91,gray_value
+trickster,linescan_lr_339,96,gray_value
+trickster,linescan_lr_340,97,gray_value
+trickster,linescan_lr_341,102,gray_value
+trickster,linescan_lr_342,103,gray_value
+trickster,linescan_lr_343,106,gray_value
+trickster,linescan_lr_344,111,gray_value
+trickster,linescan_lr_345,114,gray_value
+trickster,linescan_lr_346,130,gray_value
+trickster,linescan_lr_347,147,gray_value
+trickster,linescan_lr_348,149,gray_value
+trickster,linescan_lr_349,124,gray_value
+trickster,linescan_lr_350,117,gray_value
+trickster,linescan_lr_351,85,gray_value
+trickster,linescan_lr_352,80,gray_value
+trickster,linescan_lr_353,80,gray_value
+trickster,linescan_lr_354,82,gray_value
+trickster,linescan_lr_355,88,gray_value
+trickster,linescan_lr_356,88,gray_value
+trickster,linescan_lr_357,86,gray_value
+trickster,linescan_lr_358,104,gray_value
+trickster,linescan_lr_359,136,gray_value
+trickster,linescan_lr_360,136,gray_value
+trickster,linescan_lr_361,136,gray_value
+trickster,linescan_lr_362,137,gray_value
+trickster,linescan_lr_363,136,gray_value
+trickster,linescan_lr_364,140,gray_value
+trickster,linescan_lr_365,166,gray_value
+trickster,linescan_lr_366,166,gray_value
+trickster,linescan_lr_367,165,gray_value
+trickster,linescan_lr_368,171,gray_value
+trickster,linescan_lr_369,164,gray_value
+trickster,linescan_lr_370,164,gray_value
+trickster,linescan_lr_371,153,gray_value
+trickster,linescan_lr_372,136,gray_value
+trickster,linescan_lr_373,122,gray_value
+trickster,linescan_lr_374,121,gray_value
+trickster,linescan_lr_375,122,gray_value
+trickster,linescan_lr_376,126,gray_value
+trickster,linescan_lr_377,134,gray_value
+trickster,linescan_lr_378,139,gray_value
+trickster,linescan_lr_379,144,gray_value
+trickster,linescan_lr_380,146,gray_value
+trickster,linescan_lr_381,155,gray_value
+trickster,linescan_lr_382,183,gray_value
+trickster,linescan_lr_383,171,gray_value
+trickster,linescan_lr_384,118,gray_value
+trickster,linescan_lr_385,104,gray_value
+trickster,linescan_lr_386,119,gray_value
+trickster,linescan_lr_387,152,gray_value
+trickster,linescan_lr_388,168,gray_value
+trickster,linescan_lr_389,174,gray_value
+trickster,linescan_lr_390,173,gray_value
+trickster,linescan_lr_391,174,gray_value
+trickster,linescan_lr_392,175,gray_value
+trickster,linescan_lr_393,153,gray_value
+trickster,linescan_lr_394,93,gray_value
+trickster,linescan_lr_395,85,gray_value
+trickster,linescan_lr_396,83,gray_value
+trickster,linescan_lr_397,85,gray_value
+trickster,linescan_lr_398,88,gray_value
+trickster,linescan_lr_399,81,gray_value
+trickster,linescan_lr_400,86,gray_value
+trickster,linescan_lr_401,91,gray_value
+trickster,linescan_lr_402,91,gray_value
+trickster,linescan_lr_403,94,gray_value
+trickster,linescan_lr_404,94,gray_value
+trickster,linescan_lr_405,95,gray_value
+trickster,linescan_lr_406,103,gray_value
+trickster,linescan_lr_407,107,gray_value
+trickster,linescan_lr_408,116,gray_value
+trickster,linescan_lr_409,129,gray_value
+trickster,linescan_lr_410,167,gray_value
+trickster,linescan_lr_411,170,gray_value
+trickster,linescan_lr_412,178,gray_value
+trickster,linescan_tb_0,168,gray_value
+trickster,linescan_tb_1,151,gray_value
+trickster,linescan_tb_2,155,gray_value
+trickster,linescan_tb_3,84,gray_value
+trickster,linescan_tb_4,58,gray_value
+trickster,linescan_tb_5,59,gray_value
+trickster,linescan_tb_6,62,gray_value
+trickster,linescan_tb_7,62,gray_value
+trickster,linescan_tb_8,61,gray_value
+trickster,linescan_tb_9,61,gray_value
+trickster,linescan_tb_10,63,gray_value
+trickster,linescan_tb_11,66,gray_value
+trickster,linescan_tb_12,66,gray_value
+trickster,linescan_tb_13,67,gray_value
+trickster,linescan_tb_14,70,gray_value
+trickster,linescan_tb_15,73,gray_value
+trickster,linescan_tb_16,76,gray_value
+trickster,linescan_tb_17,76,gray_value
+trickster,linescan_tb_18,76,gray_value
+trickster,linescan_tb_19,80,gray_value
+trickster,linescan_tb_20,80,gray_value
+trickster,linescan_tb_21,85,gray_value
+trickster,linescan_tb_22,88,gray_value
+trickster,linescan_tb_23,88,gray_value
+trickster,linescan_tb_24,95,gray_value
+trickster,linescan_tb_25,97,gray_value
+trickster,linescan_tb_26,100,gray_value
+trickster,linescan_tb_27,104,gray_value
+trickster,linescan_tb_28,107,gray_value
+trickster,linescan_tb_29,110,gray_value
+trickster,linescan_tb_30,116,gray_value
+trickster,linescan_tb_31,122,gray_value
+trickster,linescan_tb_32,122,gray_value
+trickster,linescan_tb_33,125,gray_value
+trickster,linescan_tb_34,128,gray_value
+trickster,linescan_tb_35,134,gray_value
+trickster,linescan_tb_36,139,gray_value
+trickster,linescan_tb_37,140,gray_value
+trickster,linescan_tb_38,116,gray_value
+trickster,linescan_tb_39,75,gray_value
+trickster,linescan_tb_40,73,gray_value
+trickster,linescan_tb_41,67,gray_value
+trickster,linescan_tb_42,67,gray_value
+trickster,linescan_tb_43,73,gray_value
+trickster,linescan_tb_44,74,gray_value
+trickster,linescan_tb_45,79,gray_value
+trickster,linescan_tb_46,79,gray_value
+trickster,linescan_tb_47,82,gray_value
+trickster,linescan_tb_48,83,gray_value
+trickster,linescan_tb_49,83,gray_value
+trickster,linescan_tb_50,86,gray_value
+trickster,linescan_tb_51,92,gray_value
+trickster,linescan_tb_52,94,gray_value
+trickster,linescan_tb_53,93,gray_value
+trickster,linescan_tb_54,93,gray_value
+trickster,linescan_tb_55,98,gray_value
+trickster,linescan_tb_56,104,gray_value
+trickster,linescan_tb_57,103,gray_value
+trickster,linescan_tb_58,108,gray_value
+trickster,linescan_tb_59,112,gray_value
+trickster,linescan_tb_60,121,gray_value
+trickster,linescan_tb_61,124,gray_value
+trickster,linescan_tb_62,125,gray_value
+trickster,linescan_tb_63,128,gray_value
+trickster,linescan_tb_64,134,gray_value
+trickster,linescan_tb_65,142,gray_value
+trickster,linescan_tb_66,142,gray_value
+trickster,linescan_tb_67,160,gray_value
+trickster,linescan_tb_68,166,gray_value
+trickster,linescan_tb_69,173,gray_value
+trickster,linescan_tb_70,178,gray_value
+trickster,linescan_tb_71,176,gray_value
+trickster,linescan_tb_72,169,gray_value
+trickster,linescan_tb_73,163,gray_value
+trickster,linescan_tb_74,166,gray_value
+trickster,linescan_tb_75,157,gray_value
+trickster,linescan_tb_76,44,gray_value
+trickster,linescan_tb_77,29,gray_value
+trickster,linescan_tb_78,27,gray_value
+trickster,linescan_tb_79,29,gray_value
+trickster,linescan_tb_80,33,gray_value
+trickster,linescan_tb_81,38,gray_value
+trickster,linescan_tb_82,44,gray_value
+trickster,linescan_tb_83,56,gray_value
+trickster,linescan_tb_84,65,gray_value
+trickster,linescan_tb_85,67,gray_value
+trickster,linescan_tb_86,70,gray_value
+trickster,linescan_tb_87,73,gray_value
+trickster,linescan_tb_88,71,gray_value
+trickster,linescan_tb_89,73,gray_value
+trickster,linescan_tb_90,73,gray_value
+trickster,linescan_tb_91,73,gray_value
+trickster,linescan_tb_92,76,gray_value
+trickster,linescan_tb_93,79,gray_value
+trickster,linescan_tb_94,77,gray_value
+trickster,linescan_tb_95,80,gray_value
+trickster,linescan_tb_96,86,gray_value
+trickster,linescan_tb_97,91,gray_value
+trickster,linescan_tb_98,91,gray_value
+trickster,linescan_tb_99,95,gray_value
+trickster,linescan_tb_100,101,gray_value
+trickster,linescan_tb_101,110,gray_value
+trickster,linescan_tb_102,114,gray_value
+trickster,linescan_tb_103,120,gray_value
+trickster,linescan_tb_104,135,gray_value
+trickster,linescan_tb_105,164,gray_value
+trickster,linescan_tb_106,167,gray_value
+trickster,linescan_tb_107,161,gray_value
+trickster,linescan_tb_108,159,gray_value
+trickster,linescan_tb_109,158,gray_value
+trickster,linescan_tb_110,111,gray_value
+trickster,linescan_tb_111,99,gray_value
+trickster,linescan_tb_112,112,gray_value
+trickster,linescan_tb_113,124,gray_value
+trickster,linescan_tb_114,146,gray_value
+trickster,linescan_tb_115,144,gray_value
+trickster,linescan_tb_116,126,gray_value
+trickster,linescan_tb_117,126,gray_value
+trickster,linescan_tb_118,111,gray_value
+trickster,linescan_tb_119,114,gray_value
+trickster,linescan_tb_120,134,gray_value
+trickster,linescan_tb_121,140,gray_value
+trickster,linescan_tb_122,99,gray_value
+trickster,linescan_tb_123,80,gray_value
+trickster,linescan_tb_124,88,gray_value
+trickster,linescan_tb_125,104,gray_value
+trickster,linescan_tb_126,88,gray_value
+trickster,linescan_tb_127,69,gray_value
+trickster,linescan_tb_128,108,gray_value
+trickster,linescan_tb_129,161,gray_value
+trickster,linescan_tb_130,124,gray_value
+trickster,linescan_tb_131,103,gray_value
+trickster,linescan_tb_132,96,gray_value
+trickster,linescan_tb_133,86,gray_value
+trickster,linescan_tb_134,86,gray_value
+trickster,linescan_tb_135,87,gray_value
+trickster,linescan_tb_136,96,gray_value
+trickster,linescan_tb_137,100,gray_value
+trickster,linescan_tb_138,106,gray_value
+trickster,linescan_tb_139,109,gray_value
+trickster,linescan_tb_140,119,gray_value
+trickster,linescan_tb_141,134,gray_value
+trickster,linescan_tb_142,109,gray_value
+trickster,linescan_tb_143,81,gray_value
+trickster,linescan_tb_144,74,gray_value
+trickster,linescan_tb_145,61,gray_value
+trickster,linescan_tb_146,66,gray_value
+trickster,linescan_tb_147,72,gray_value
+trickster,linescan_tb_148,81,gray_value
+trickster,linescan_tb_149,95,gray_value
+trickster,linescan_tb_150,98,gray_value
+trickster,linescan_tb_151,94,gray_value
+trickster,linescan_tb_152,104,gray_value
+trickster,linescan_tb_153,101,gray_value
+trickster,linescan_tb_154,82,gray_value
+trickster,linescan_tb_155,82,gray_value
+trickster,linescan_tb_156,94,gray_value
+trickster,linescan_tb_157,103,gray_value
+trickster,linescan_tb_158,109,gray_value
+trickster,linescan_tb_159,134,gray_value
+trickster,linescan_tb_160,139,gray_value
+trickster,linescan_tb_161,134,gray_value
+trickster,linescan_tb_162,142,gray_value
+trickster,linescan_tb_163,139,gray_value
+trickster,linescan_tb_164,135,gray_value
+trickster,linescan_tb_165,80,gray_value
+trickster,linescan_tb_166,71,gray_value
+trickster,linescan_tb_167,79,gray_value
+trickster,linescan_tb_168,81,gray_value
+trickster,linescan_tb_169,87,gray_value
+trickster,linescan_tb_170,96,gray_value
+trickster,linescan_tb_171,98,gray_value
+trickster,linescan_tb_172,104,gray_value
+trickster,linescan_tb_173,112,gray_value
+trickster,linescan_tb_174,132,gray_value
+trickster,linescan_tb_175,131,gray_value
+trickster,linescan_tb_176,128,gray_value
+trickster,linescan_tb_177,114,gray_value
+trickster,linescan_tb_178,74,gray_value
+trickster,linescan_tb_179,72,gray_value
+trickster,linescan_tb_180,78,gray_value
+trickster,linescan_tb_181,86,gray_value
+trickster,linescan_tb_182,94,gray_value
+trickster,linescan_tb_183,101,gray_value
+trickster,linescan_tb_184,101,gray_value
+trickster,linescan_tb_185,112,gray_value
+trickster,linescan_tb_186,123,gray_value
+trickster,linescan_tb_187,120,gray_value
+trickster,linescan_tb_188,128,gray_value
+trickster,linescan_tb_189,137,gray_value
+trickster,linescan_tb_190,138,gray_value
+trickster,linescan_tb_191,135,gray_value
+trickster,linescan_tb_192,128,gray_value
+trickster,linescan_tb_193,125,gray_value
+trickster,linescan_tb_194,131,gray_value
+trickster,linescan_tb_195,140,gray_value
+trickster,linescan_tb_196,135,gray_value
+trickster,linescan_tb_197,91,gray_value
+trickster,linescan_tb_198,93,gray_value
+trickster,linescan_tb_199,103,gray_value
+trickster,linescan_tb_200,117,gray_value
+trickster,linescan_tb_201,102,gray_value
+trickster,linescan_tb_202,85,gray_value
+trickster,linescan_tb_203,97,gray_value
+trickster,linescan_tb_204,115,gray_value
+trickster,linescan_tb_205,137,gray_value
+trickster,linescan_tb_206,156,gray_value
+trickster,linescan_tb_207,126,gray_value
+trickster,linescan_tb_208,118,gray_value
+trickster,linescan_tb_209,122,gray_value
+trickster,linescan_tb_210,126,gray_value
+trickster,linescan_tb_211,125,gray_value
+trickster,linescan_tb_212,103,gray_value
+trickster,linescan_tb_213,106,gray_value
+trickster,linescan_tb_214,100,gray_value
+trickster,linescan_tb_215,100,gray_value
+trickster,linescan_tb_216,103,gray_value
+trickster,linescan_tb_217,106,gray_value
+trickster,linescan_tb_218,106,gray_value
+trickster,linescan_tb_219,68,gray_value
+trickster,linescan_tb_220,50,gray_value
+trickster,linescan_tb_221,60,gray_value
+trickster,linescan_tb_222,79,gray_value
+trickster,linescan_tb_223,80,gray_value
+trickster,linescan_tb_224,66,gray_value
+trickster,linescan_tb_225,80,gray_value
+trickster,linescan_tb_226,97,gray_value
+trickster,linescan_tb_227,109,gray_value
+trickster,linescan_tb_228,100,gray_value
+trickster,linescan_tb_229,57,gray_value
+trickster,linescan_tb_230,69,gray_value
+trickster,linescan_tb_231,57,gray_value
+trickster,linescan_tb_232,43,gray_value
+trickster,linescan_tb_233,51,gray_value
+trickster,linescan_tb_234,71,gray_value
+trickster,linescan_tb_235,99,gray_value
+trickster,linescan_tb_236,101,gray_value
+trickster,linescan_tb_237,124,gray_value
+trickster,linescan_tb_238,104,gray_value
+trickster,linescan_tb_239,66,gray_value
+trickster,linescan_tb_240,33,gray_value
+lamar - cake,linescan_lr_0,53,gray_value
+lamar - cake,linescan_lr_1,51,gray_value
+lamar - cake,linescan_lr_2,89,gray_value
+lamar - cake,linescan_lr_3,106,gray_value
+lamar - cake,linescan_lr_4,105,gray_value
+lamar - cake,linescan_lr_5,109,gray_value
+lamar - cake,linescan_lr_6,119,gray_value
+lamar - cake,linescan_lr_7,121,gray_value
+lamar - cake,linescan_lr_8,108,gray_value
+lamar - cake,linescan_lr_9,99,gray_value
+lamar - cake,linescan_lr_10,72,gray_value
+lamar - cake,linescan_lr_11,62,gray_value
+lamar - cake,linescan_lr_12,63,gray_value
+lamar - cake,linescan_lr_13,64,gray_value
+lamar - cake,linescan_lr_14,57,gray_value
+lamar - cake,linescan_lr_15,49,gray_value
+lamar - cake,linescan_lr_16,42,gray_value
+lamar - cake,linescan_lr_17,37,gray_value
+lamar - cake,linescan_lr_18,40,gray_value
+lamar - cake,linescan_lr_19,44,gray_value
+lamar - cake,linescan_lr_20,46,gray_value
+lamar - cake,linescan_lr_21,49,gray_value
+lamar - cake,linescan_lr_22,58,gray_value
+lamar - cake,linescan_lr_23,67,gray_value
+lamar - cake,linescan_lr_24,68,gray_value
+lamar - cake,linescan_lr_25,58,gray_value
+lamar - cake,linescan_lr_26,53,gray_value
+lamar - cake,linescan_lr_27,52,gray_value
+lamar - cake,linescan_lr_28,63,gray_value
+lamar - cake,linescan_lr_29,59,gray_value
+lamar - cake,linescan_lr_30,40,gray_value
+lamar - cake,linescan_lr_31,31,gray_value
+lamar - cake,linescan_lr_32,29,gray_value
+lamar - cake,linescan_lr_33,26,gray_value
+lamar - cake,linescan_lr_34,25,gray_value
+lamar - cake,linescan_lr_35,28,gray_value
+lamar - cake,linescan_lr_36,32,gray_value
+lamar - cake,linescan_lr_37,42,gray_value
+lamar - cake,linescan_lr_38,58,gray_value
+lamar - cake,linescan_lr_39,64,gray_value
+lamar - cake,linescan_lr_40,67,gray_value
+lamar - cake,linescan_lr_41,63,gray_value
+lamar - cake,linescan_lr_42,60,gray_value
+lamar - cake,linescan_lr_43,56,gray_value
+lamar - cake,linescan_lr_44,47,gray_value
+lamar - cake,linescan_lr_45,44,gray_value
+lamar - cake,linescan_lr_46,40,gray_value
+lamar - cake,linescan_lr_47,38,gray_value
+lamar - cake,linescan_lr_48,38,gray_value
+lamar - cake,linescan_lr_49,28,gray_value
+lamar - cake,linescan_lr_50,21,gray_value
+lamar - cake,linescan_lr_51,19,gray_value
+lamar - cake,linescan_lr_52,20,gray_value
+lamar - cake,linescan_lr_53,22,gray_value
+lamar - cake,linescan_lr_54,23,gray_value
+lamar - cake,linescan_lr_55,22,gray_value
+lamar - cake,linescan_lr_56,22,gray_value
+lamar - cake,linescan_lr_57,28,gray_value
+lamar - cake,linescan_lr_58,34,gray_value
+lamar - cake,linescan_lr_59,35,gray_value
+lamar - cake,linescan_lr_60,35,gray_value
+lamar - cake,linescan_lr_61,31,gray_value
+lamar - cake,linescan_lr_62,28,gray_value
+lamar - cake,linescan_lr_63,23,gray_value
+lamar - cake,linescan_lr_64,17,gray_value
+lamar - cake,linescan_lr_65,14,gray_value
+lamar - cake,linescan_lr_66,14,gray_value
+lamar - cake,linescan_lr_67,14,gray_value
+lamar - cake,linescan_lr_68,17,gray_value
+lamar - cake,linescan_lr_69,18,gray_value
+lamar - cake,linescan_lr_70,17,gray_value
+lamar - cake,linescan_lr_71,18,gray_value
+lamar - cake,linescan_lr_72,50,gray_value
+lamar - cake,linescan_lr_73,97,gray_value
+lamar - cake,linescan_lr_74,118,gray_value
+lamar - cake,linescan_lr_75,121,gray_value
+lamar - cake,linescan_lr_76,118,gray_value
+lamar - cake,linescan_lr_77,107,gray_value
+lamar - cake,linescan_lr_78,100,gray_value
+lamar - cake,linescan_lr_79,79,gray_value
+lamar - cake,linescan_lr_80,41,gray_value
+lamar - cake,linescan_lr_81,73,gray_value
+lamar - cake,linescan_lr_82,84,gray_value
+lamar - cake,linescan_lr_83,84,gray_value
+lamar - cake,linescan_lr_84,90,gray_value
+lamar - cake,linescan_lr_85,80,gray_value
+lamar - cake,linescan_lr_86,74,gray_value
+lamar - cake,linescan_lr_87,76,gray_value
+lamar - cake,linescan_lr_88,77,gray_value
+lamar - cake,linescan_lr_89,74,gray_value
+lamar - cake,linescan_lr_90,86,gray_value
+lamar - cake,linescan_lr_91,96,gray_value
+lamar - cake,linescan_lr_92,97,gray_value
+lamar - cake,linescan_lr_93,99,gray_value
+lamar - cake,linescan_lr_94,96,gray_value
+lamar - cake,linescan_lr_95,100,gray_value
+lamar - cake,linescan_lr_96,92,gray_value
+lamar - cake,linescan_lr_97,85,gray_value
+lamar - cake,linescan_lr_98,78,gray_value
+lamar - cake,linescan_lr_99,73,gray_value
+lamar - cake,linescan_lr_100,70,gray_value
+lamar - cake,linescan_lr_101,66,gray_value
+lamar - cake,linescan_lr_102,64,gray_value
+lamar - cake,linescan_lr_103,61,gray_value
+lamar - cake,linescan_lr_104,58,gray_value
+lamar - cake,linescan_lr_105,50,gray_value
+lamar - cake,linescan_lr_106,55,gray_value
+lamar - cake,linescan_lr_107,64,gray_value
+lamar - cake,linescan_lr_108,72,gray_value
+lamar - cake,linescan_lr_109,83,gray_value
+lamar - cake,linescan_lr_110,102,gray_value
+lamar - cake,linescan_lr_111,138,gray_value
+lamar - cake,linescan_lr_112,137,gray_value
+lamar - cake,linescan_lr_113,140,gray_value
+lamar - cake,linescan_lr_114,149,gray_value
+lamar - cake,linescan_lr_115,146,gray_value
+lamar - cake,linescan_lr_116,144,gray_value
+lamar - cake,linescan_lr_117,141,gray_value
+lamar - cake,linescan_lr_118,133,gray_value
+lamar - cake,linescan_lr_119,127,gray_value
+lamar - cake,linescan_lr_120,117,gray_value
+lamar - cake,linescan_lr_121,96,gray_value
+lamar - cake,linescan_lr_122,88,gray_value
+lamar - cake,linescan_lr_123,96,gray_value
+lamar - cake,linescan_lr_124,120,gray_value
+lamar - cake,linescan_lr_125,135,gray_value
+lamar - cake,linescan_lr_126,144,gray_value
+lamar - cake,linescan_lr_127,144,gray_value
+lamar - cake,linescan_lr_128,144,gray_value
+lamar - cake,linescan_lr_129,156,gray_value
+lamar - cake,linescan_lr_130,158,gray_value
+lamar - cake,linescan_lr_131,158,gray_value
+lamar - cake,linescan_lr_132,161,gray_value
+lamar - cake,linescan_lr_133,166,gray_value
+lamar - cake,linescan_lr_134,168,gray_value
+lamar - cake,linescan_lr_135,168,gray_value
+lamar - cake,linescan_lr_136,162,gray_value
+lamar - cake,linescan_lr_137,160,gray_value
+lamar - cake,linescan_lr_138,160,gray_value
+lamar - cake,linescan_lr_139,151,gray_value
+lamar - cake,linescan_lr_140,148,gray_value
+lamar - cake,linescan_lr_141,121,gray_value
+lamar - cake,linescan_lr_142,110,gray_value
+lamar - cake,linescan_lr_143,107,gray_value
+lamar - cake,linescan_lr_144,102,gray_value
+lamar - cake,linescan_lr_145,107,gray_value
+lamar - cake,linescan_lr_146,123,gray_value
+lamar - cake,linescan_lr_147,134,gray_value
+lamar - cake,linescan_lr_148,98,gray_value
+lamar - cake,linescan_lr_149,60,gray_value
+lamar - cake,linescan_lr_150,63,gray_value
+lamar - cake,linescan_lr_151,78,gray_value
+lamar - cake,linescan_lr_152,93,gray_value
+lamar - cake,linescan_lr_153,105,gray_value
+lamar - cake,linescan_lr_154,109,gray_value
+lamar - cake,linescan_lr_155,117,gray_value
+lamar - cake,linescan_lr_156,118,gray_value
+lamar - cake,linescan_lr_157,124,gray_value
+lamar - cake,linescan_lr_158,124,gray_value
+lamar - cake,linescan_lr_159,105,gray_value
+lamar - cake,linescan_lr_160,96,gray_value
+lamar - cake,linescan_lr_161,92,gray_value
+lamar - cake,linescan_lr_162,78,gray_value
+lamar - cake,linescan_lr_163,72,gray_value
+lamar - cake,linescan_lr_164,71,gray_value
+lamar - cake,linescan_lr_165,72,gray_value
+lamar - cake,linescan_lr_166,82,gray_value
+lamar - cake,linescan_lr_167,80,gray_value
+lamar - cake,linescan_lr_168,80,gray_value
+lamar - cake,linescan_lr_169,103,gray_value
+lamar - cake,linescan_lr_170,120,gray_value
+lamar - cake,linescan_lr_171,118,gray_value
+lamar - cake,linescan_lr_172,109,gray_value
+lamar - cake,linescan_lr_173,101,gray_value
+lamar - cake,linescan_lr_174,97,gray_value
+lamar - cake,linescan_lr_175,76,gray_value
+lamar - cake,linescan_lr_176,76,gray_value
+lamar - cake,linescan_lr_177,94,gray_value
+lamar - cake,linescan_lr_178,81,gray_value
+lamar - cake,linescan_lr_179,76,gray_value
+lamar - cake,linescan_lr_180,70,gray_value
+lamar - cake,linescan_lr_181,63,gray_value
+lamar - cake,linescan_lr_182,81,gray_value
+lamar - cake,linescan_lr_183,68,gray_value
+lamar - cake,linescan_lr_184,67,gray_value
+lamar - cake,linescan_lr_185,67,gray_value
+lamar - cake,linescan_lr_186,63,gray_value
+lamar - cake,linescan_lr_187,24,gray_value
+lamar - cake,linescan_lr_188,20,gray_value
+lamar - cake,linescan_lr_189,22,gray_value
+lamar - cake,linescan_lr_190,20,gray_value
+lamar - cake,linescan_lr_191,25,gray_value
+lamar - cake,linescan_lr_192,30,gray_value
+lamar - cake,linescan_lr_193,43,gray_value
+lamar - cake,linescan_lr_194,46,gray_value
+lamar - cake,linescan_lr_195,43,gray_value
+lamar - cake,linescan_lr_196,44,gray_value
+lamar - cake,linescan_lr_197,47,gray_value
+lamar - cake,linescan_lr_198,49,gray_value
+lamar - cake,linescan_lr_199,51,gray_value
+lamar - cake,linescan_lr_200,51,gray_value
+lamar - cake,linescan_lr_201,71,gray_value
+lamar - cake,linescan_lr_202,103,gray_value
+lamar - cake,linescan_lr_203,111,gray_value
+lamar - cake,linescan_lr_204,102,gray_value
+lamar - cake,linescan_lr_205,105,gray_value
+lamar - cake,linescan_lr_206,103,gray_value
+lamar - cake,linescan_lr_207,68,gray_value
+lamar - cake,linescan_lr_208,65,gray_value
+lamar - cake,linescan_lr_209,70,gray_value
+lamar - cake,linescan_lr_210,78,gray_value
+lamar - cake,linescan_lr_211,90,gray_value
+lamar - cake,linescan_lr_212,93,gray_value
+lamar - cake,linescan_lr_213,91,gray_value
+lamar - cake,linescan_lr_214,52,gray_value
+lamar - cake,linescan_lr_215,55,gray_value
+lamar - cake,linescan_lr_216,64,gray_value
+lamar - cake,linescan_lr_217,77,gray_value
+lamar - cake,linescan_lr_218,106,gray_value
+lamar - cake,linescan_lr_219,112,gray_value
+lamar - cake,linescan_lr_220,114,gray_value
+lamar - cake,linescan_lr_221,115,gray_value
+lamar - cake,linescan_lr_222,128,gray_value
+lamar - cake,linescan_lr_223,105,gray_value
+lamar - cake,linescan_lr_224,92,gray_value
+lamar - cake,linescan_lr_225,64,gray_value
+lamar - cake,linescan_lr_226,48,gray_value
+lamar - cake,linescan_lr_227,48,gray_value
+lamar - cake,linescan_lr_228,59,gray_value
+lamar - cake,linescan_lr_229,70,gray_value
+lamar - cake,linescan_lr_230,58,gray_value
+lamar - cake,linescan_lr_231,47,gray_value
+lamar - cake,linescan_lr_232,49,gray_value
+lamar - cake,linescan_lr_233,57,gray_value
+lamar - cake,linescan_lr_234,54,gray_value
+lamar - cake,linescan_lr_235,60,gray_value
+lamar - cake,linescan_lr_236,79,gray_value
+lamar - cake,linescan_lr_237,90,gray_value
+lamar - cake,linescan_lr_238,75,gray_value
+lamar - cake,linescan_lr_239,69,gray_value
+lamar - cake,linescan_lr_240,71,gray_value
+lamar - cake,linescan_lr_241,85,gray_value
+lamar - cake,linescan_lr_242,100,gray_value
+lamar - cake,linescan_lr_243,102,gray_value
+lamar - cake,linescan_lr_244,105,gray_value
+lamar - cake,linescan_lr_245,97,gray_value
+lamar - cake,linescan_lr_246,75,gray_value
+lamar - cake,linescan_lr_247,93,gray_value
+lamar - cake,linescan_lr_248,111,gray_value
+lamar - cake,linescan_lr_249,130,gray_value
+lamar - cake,linescan_lr_250,150,gray_value
+lamar - cake,linescan_lr_251,156,gray_value
+lamar - cake,linescan_lr_252,142,gray_value
+lamar - cake,linescan_lr_253,142,gray_value
+lamar - cake,linescan_lr_254,144,gray_value
+lamar - cake,linescan_lr_255,147,gray_value
+lamar - cake,linescan_lr_256,152,gray_value
+lamar - cake,linescan_lr_257,156,gray_value
+lamar - cake,linescan_lr_258,156,gray_value
+lamar - cake,linescan_lr_259,144,gray_value
+lamar - cake,linescan_lr_260,138,gray_value
+lamar - cake,linescan_lr_261,130,gray_value
+lamar - cake,linescan_lr_262,152,gray_value
+lamar - cake,linescan_lr_263,178,gray_value
+lamar - cake,linescan_lr_264,156,gray_value
+lamar - cake,linescan_lr_265,123,gray_value
+lamar - cake,linescan_lr_266,121,gray_value
+lamar - cake,linescan_lr_267,116,gray_value
+lamar - cake,linescan_lr_268,114,gray_value
+lamar - cake,linescan_lr_269,97,gray_value
+lamar - cake,linescan_lr_270,102,gray_value
+lamar - cake,linescan_lr_271,102,gray_value
+lamar - cake,linescan_lr_272,99,gray_value
+lamar - cake,linescan_lr_273,100,gray_value
+lamar - cake,linescan_lr_274,100,gray_value
+lamar - cake,linescan_lr_275,99,gray_value
+lamar - cake,linescan_lr_276,101,gray_value
+lamar - cake,linescan_lr_277,92,gray_value
+lamar - cake,linescan_lr_278,93,gray_value
+lamar - cake,linescan_lr_279,104,gray_value
+lamar - cake,linescan_lr_280,102,gray_value
+lamar - cake,linescan_lr_281,101,gray_value
+lamar - cake,linescan_lr_282,113,gray_value
+lamar - cake,linescan_lr_283,126,gray_value
+lamar - cake,linescan_lr_284,130,gray_value
+lamar - cake,linescan_lr_285,128,gray_value
+lamar - cake,linescan_lr_286,138,gray_value
+lamar - cake,linescan_lr_287,146,gray_value
+lamar - cake,linescan_lr_288,143,gray_value
+lamar - cake,linescan_lr_289,131,gray_value
+lamar - cake,linescan_lr_290,128,gray_value
+lamar - cake,linescan_lr_291,140,gray_value
+lamar - cake,linescan_lr_292,148,gray_value
+lamar - cake,linescan_lr_293,140,gray_value
+lamar - cake,linescan_lr_294,136,gray_value
+lamar - cake,linescan_lr_295,131,gray_value
+lamar - cake,linescan_lr_296,121,gray_value
+lamar - cake,linescan_lr_297,107,gray_value
+lamar - cake,linescan_lr_298,94,gray_value
+lamar - cake,linescan_lr_299,97,gray_value
+lamar - cake,linescan_lr_300,104,gray_value
+lamar - cake,linescan_lr_301,125,gray_value
+lamar - cake,linescan_lr_302,131,gray_value
+lamar - cake,linescan_lr_303,134,gray_value
+lamar - cake,linescan_lr_304,149,gray_value
+lamar - cake,linescan_lr_305,149,gray_value
+lamar - cake,linescan_lr_306,144,gray_value
+lamar - cake,linescan_lr_307,152,gray_value
+lamar - cake,linescan_lr_308,158,gray_value
+lamar - cake,linescan_lr_309,150,gray_value
+lamar - cake,linescan_lr_310,142,gray_value
+lamar - cake,linescan_lr_311,154,gray_value
+lamar - cake,linescan_lr_312,143,gray_value
+lamar - cake,linescan_lr_313,130,gray_value
+lamar - cake,linescan_lr_314,130,gray_value
+lamar - cake,linescan_lr_315,126,gray_value
+lamar - cake,linescan_lr_316,124,gray_value
+lamar - cake,linescan_lr_317,134,gray_value
+lamar - cake,linescan_lr_318,135,gray_value
+lamar - cake,linescan_lr_319,135,gray_value
+lamar - cake,linescan_lr_320,145,gray_value
+lamar - cake,linescan_lr_321,123,gray_value
+lamar - cake,linescan_lr_322,110,gray_value
+lamar - cake,linescan_lr_323,119,gray_value
+lamar - cake,linescan_lr_324,130,gray_value
+lamar - cake,linescan_lr_325,147,gray_value
+lamar - cake,linescan_lr_326,158,gray_value
+lamar - cake,linescan_lr_327,158,gray_value
+lamar - cake,linescan_lr_328,151,gray_value
+lamar - cake,linescan_lr_329,149,gray_value
+lamar - cake,linescan_lr_330,146,gray_value
+lamar - cake,linescan_lr_331,141,gray_value
+lamar - cake,linescan_lr_332,131,gray_value
+lamar - cake,linescan_lr_333,124,gray_value
+lamar - cake,linescan_lr_334,119,gray_value
+lamar - cake,linescan_lr_335,130,gray_value
+lamar - cake,linescan_lr_336,141,gray_value
+lamar - cake,linescan_lr_337,145,gray_value
+lamar - cake,linescan_lr_338,145,gray_value
+lamar - cake,linescan_lr_339,146,gray_value
+lamar - cake,linescan_lr_340,154,gray_value
+lamar - cake,linescan_lr_341,136,gray_value
+lamar - cake,linescan_lr_342,152,gray_value
+lamar - cake,linescan_lr_343,161,gray_value
+lamar - cake,linescan_lr_344,160,gray_value
+lamar - cake,linescan_lr_345,153,gray_value
+lamar - cake,linescan_lr_346,147,gray_value
+lamar - cake,linescan_lr_347,137,gray_value
+lamar - cake,linescan_lr_348,145,gray_value
+lamar - cake,linescan_lr_349,141,gray_value
+lamar - cake,linescan_lr_350,133,gray_value
+lamar - cake,linescan_lr_351,118,gray_value
+lamar - cake,linescan_lr_352,106,gray_value
+lamar - cake,linescan_lr_353,135,gray_value
+lamar - cake,linescan_tb_0,117,gray_value
+lamar - cake,linescan_tb_1,119,gray_value
+lamar - cake,linescan_tb_2,111,gray_value
+lamar - cake,linescan_tb_3,109,gray_value
+lamar - cake,linescan_tb_4,105,gray_value
+lamar - cake,linescan_tb_5,99,gray_value
+lamar - cake,linescan_tb_6,96,gray_value
+lamar - cake,linescan_tb_7,92,gray_value
+lamar - cake,linescan_tb_8,99,gray_value
+lamar - cake,linescan_tb_9,110,gray_value
+lamar - cake,linescan_tb_10,113,gray_value
+lamar - cake,linescan_tb_11,119,gray_value
+lamar - cake,linescan_tb_12,128,gray_value
+lamar - cake,linescan_tb_13,123,gray_value
+lamar - cake,linescan_tb_14,115,gray_value
+lamar - cake,linescan_tb_15,112,gray_value
+lamar - cake,linescan_tb_16,118,gray_value
+lamar - cake,linescan_tb_17,125,gray_value
+lamar - cake,linescan_tb_18,122,gray_value
+lamar - cake,linescan_tb_19,138,gray_value
+lamar - cake,linescan_tb_20,121,gray_value
+lamar - cake,linescan_tb_21,111,gray_value
+lamar - cake,linescan_tb_22,117,gray_value
+lamar - cake,linescan_tb_23,105,gray_value
+lamar - cake,linescan_tb_24,84,gray_value
+lamar - cake,linescan_tb_25,69,gray_value
+lamar - cake,linescan_tb_26,67,gray_value
+lamar - cake,linescan_tb_27,66,gray_value
+lamar - cake,linescan_tb_28,93,gray_value
+lamar - cake,linescan_tb_29,113,gray_value
+lamar - cake,linescan_tb_30,136,gray_value
+lamar - cake,linescan_tb_31,143,gray_value
+lamar - cake,linescan_tb_32,145,gray_value
+lamar - cake,linescan_tb_33,133,gray_value
+lamar - cake,linescan_tb_34,125,gray_value
+lamar - cake,linescan_tb_35,120,gray_value
+lamar - cake,linescan_tb_36,114,gray_value
+lamar - cake,linescan_tb_37,108,gray_value
+lamar - cake,linescan_tb_38,115,gray_value
+lamar - cake,linescan_tb_39,122,gray_value
+lamar - cake,linescan_tb_40,119,gray_value
+lamar - cake,linescan_tb_41,114,gray_value
+lamar - cake,linescan_tb_42,118,gray_value
+lamar - cake,linescan_tb_43,122,gray_value
+lamar - cake,linescan_tb_44,122,gray_value
+lamar - cake,linescan_tb_45,119,gray_value
+lamar - cake,linescan_tb_46,143,gray_value
+lamar - cake,linescan_tb_47,157,gray_value
+lamar - cake,linescan_tb_48,143,gray_value
+lamar - cake,linescan_tb_49,130,gray_value
+lamar - cake,linescan_tb_50,129,gray_value
+lamar - cake,linescan_tb_51,128,gray_value
+lamar - cake,linescan_tb_52,126,gray_value
+lamar - cake,linescan_tb_53,118,gray_value
+lamar - cake,linescan_tb_54,94,gray_value
+lamar - cake,linescan_tb_55,115,gray_value
+lamar - cake,linescan_tb_56,129,gray_value
+lamar - cake,linescan_tb_57,101,gray_value
+lamar - cake,linescan_tb_58,93,gray_value
+lamar - cake,linescan_tb_59,87,gray_value
+lamar - cake,linescan_tb_60,82,gray_value
+lamar - cake,linescan_tb_61,116,gray_value
+lamar - cake,linescan_tb_62,132,gray_value
+lamar - cake,linescan_tb_63,147,gray_value
+lamar - cake,linescan_tb_64,149,gray_value
+lamar - cake,linescan_tb_65,130,gray_value
+lamar - cake,linescan_tb_66,124,gray_value
+lamar - cake,linescan_tb_67,135,gray_value
+lamar - cake,linescan_tb_68,130,gray_value
+lamar - cake,linescan_tb_69,99,gray_value
+lamar - cake,linescan_tb_70,100,gray_value
+lamar - cake,linescan_tb_71,107,gray_value
+lamar - cake,linescan_tb_72,121,gray_value
+lamar - cake,linescan_tb_73,121,gray_value
+lamar - cake,linescan_tb_74,113,gray_value
+lamar - cake,linescan_tb_75,107,gray_value
+lamar - cake,linescan_tb_76,108,gray_value
+lamar - cake,linescan_tb_77,116,gray_value
+lamar - cake,linescan_tb_78,110,gray_value
+lamar - cake,linescan_tb_79,100,gray_value
+lamar - cake,linescan_tb_80,88,gray_value
+lamar - cake,linescan_tb_81,111,gray_value
+lamar - cake,linescan_tb_82,124,gray_value
+lamar - cake,linescan_tb_83,91,gray_value
+lamar - cake,linescan_tb_84,65,gray_value
+lamar - cake,linescan_tb_85,59,gray_value
+lamar - cake,linescan_tb_86,61,gray_value
+lamar - cake,linescan_tb_87,78,gray_value
+lamar - cake,linescan_tb_88,78,gray_value
+lamar - cake,linescan_tb_89,73,gray_value
+lamar - cake,linescan_tb_90,73,gray_value
+lamar - cake,linescan_tb_91,72,gray_value
+lamar - cake,linescan_tb_92,65,gray_value
+lamar - cake,linescan_tb_93,67,gray_value
+lamar - cake,linescan_tb_94,81,gray_value
+lamar - cake,linescan_tb_95,111,gray_value
+lamar - cake,linescan_tb_96,105,gray_value
+lamar - cake,linescan_tb_97,113,gray_value
+lamar - cake,linescan_tb_98,121,gray_value
+lamar - cake,linescan_tb_99,123,gray_value
+lamar - cake,linescan_tb_100,124,gray_value
+lamar - cake,linescan_tb_101,123,gray_value
+lamar - cake,linescan_tb_102,119,gray_value
+lamar - cake,linescan_tb_103,113,gray_value
+lamar - cake,linescan_tb_104,100,gray_value
+lamar - cake,linescan_tb_105,83,gray_value
+lamar - cake,linescan_tb_106,61,gray_value
+lamar - cake,linescan_tb_107,61,gray_value
+lamar - cake,linescan_tb_108,71,gray_value
+lamar - cake,linescan_tb_109,98,gray_value
+lamar - cake,linescan_tb_110,112,gray_value
+lamar - cake,linescan_tb_111,114,gray_value
+lamar - cake,linescan_tb_112,112,gray_value
+lamar - cake,linescan_tb_113,117,gray_value
+lamar - cake,linescan_tb_114,114,gray_value
+lamar - cake,linescan_tb_115,97,gray_value
+lamar - cake,linescan_tb_116,82,gray_value
+lamar - cake,linescan_tb_117,106,gray_value
+lamar - cake,linescan_tb_118,121,gray_value
+lamar - cake,linescan_tb_119,120,gray_value
+lamar - cake,linescan_tb_120,120,gray_value
+lamar - cake,linescan_tb_121,109,gray_value
+lamar - cake,linescan_tb_122,99,gray_value
+lamar - cake,linescan_tb_123,109,gray_value
+lamar - cake,linescan_tb_124,109,gray_value
+lamar - cake,linescan_tb_125,93,gray_value
+lamar - cake,linescan_tb_126,86,gray_value
+lamar - cake,linescan_tb_127,79,gray_value
+lamar - cake,linescan_tb_128,76,gray_value
+lamar - cake,linescan_tb_129,94,gray_value
+lamar - cake,linescan_tb_130,102,gray_value
+lamar - cake,linescan_tb_131,89,gray_value
+lamar - cake,linescan_tb_132,72,gray_value
+lamar - cake,linescan_tb_133,80,gray_value
+lamar - cake,linescan_tb_134,88,gray_value
+lamar - cake,linescan_tb_135,87,gray_value
+lamar - cake,linescan_tb_136,80,gray_value
+lamar - cake,linescan_tb_137,92,gray_value
+lamar - cake,linescan_tb_138,102,gray_value
+lamar - cake,linescan_tb_139,105,gray_value
+lamar - cake,linescan_tb_140,89,gray_value
+lamar - cake,linescan_tb_141,75,gray_value
+lamar - cake,linescan_tb_142,43,gray_value
+lamar - cake,linescan_tb_143,27,gray_value
+lamar - cake,linescan_tb_144,25,gray_value
+lamar - cake,linescan_tb_145,33,gray_value
+lamar - cake,linescan_tb_146,60,gray_value
+lamar - cake,linescan_tb_147,73,gray_value
+lamar - cake,linescan_tb_148,69,gray_value
+lamar - cake,linescan_tb_149,77,gray_value
+lamar - cake,linescan_tb_150,96,gray_value
+lamar - cake,linescan_tb_151,109,gray_value
+lamar - cake,linescan_tb_152,115,gray_value
+lamar - cake,linescan_tb_153,116,gray_value
+lamar - cake,linescan_tb_154,119,gray_value
+lamar - cake,linescan_tb_155,113,gray_value
+lamar - cake,linescan_tb_156,114,gray_value
+lamar - cake,linescan_tb_157,127,gray_value
+lamar - cake,linescan_tb_158,132,gray_value
+lamar - cake,linescan_tb_159,127,gray_value
+lamar - cake,linescan_tb_160,112,gray_value
+lamar - cake,linescan_tb_161,82,gray_value
+lamar - cake,linescan_tb_162,91,gray_value
+lamar - cake,linescan_tb_163,94,gray_value
+lamar - cake,linescan_tb_164,95,gray_value
+lamar - cake,linescan_tb_165,99,gray_value
+lamar - cake,linescan_tb_166,94,gray_value
+lamar - cake,linescan_tb_167,93,gray_value
+lamar - cake,linescan_tb_168,96,gray_value
+lamar - cake,linescan_tb_169,95,gray_value
+lamar - cake,linescan_tb_170,117,gray_value
+lamar - cake,linescan_tb_171,124,gray_value
+lamar - cake,linescan_tb_172,97,gray_value
+lamar - cake,linescan_tb_173,90,gray_value
+lamar - cake,linescan_tb_174,90,gray_value
+lamar - cake,linescan_tb_175,116,gray_value
+lamar - cake,linescan_tb_176,133,gray_value
+lamar - cake,linescan_tb_177,126,gray_value
+lamar - cake,linescan_tb_178,131,gray_value
+lamar - cake,linescan_tb_179,143,gray_value
+lamar - cake,linescan_tb_180,153,gray_value
+lamar - cake,linescan_tb_181,137,gray_value
+lamar - cake,linescan_tb_182,103,gray_value
+lamar - cake,linescan_tb_183,70,gray_value
+lamar - cake,linescan_tb_184,70,gray_value
+lamar - cake,linescan_tb_185,93,gray_value
+lamar - cake,linescan_tb_186,93,gray_value
+lamar - cake,linescan_tb_187,88,gray_value
+lamar - cake,linescan_tb_188,94,gray_value
+lamar - cake,linescan_tb_189,126,gray_value
+lamar - cake,linescan_tb_190,136,gray_value
+lamar - cake,linescan_tb_191,122,gray_value
+lamar - cake,linescan_tb_192,109,gray_value
+lamar - cake,linescan_tb_193,121,gray_value
+lamar - cake,linescan_tb_194,131,gray_value
+lamar - cake,linescan_tb_195,138,gray_value
+lamar - cake,linescan_tb_196,140,gray_value
+lamar - cake,linescan_tb_197,149,gray_value
+lamar - cake,linescan_tb_198,150,gray_value
+lamar - cake,linescan_tb_199,147,gray_value
+lamar - cake,linescan_tb_200,151,gray_value
+lamar - cake,linescan_tb_201,131,gray_value
+lamar - cake,linescan_tb_202,136,gray_value
+lamar - cake,linescan_tb_203,135,gray_value
+lamar - cake,linescan_tb_204,132,gray_value
+lamar - cake,linescan_tb_205,130,gray_value
+lamar - cake,linescan_tb_206,117,gray_value
+lamar - cake,linescan_tb_207,119,gray_value
+lamar - cake,linescan_tb_208,123,gray_value
+lamar - cake,linescan_tb_209,119,gray_value
+lamar - cake,linescan_tb_210,120,gray_value
+lamar - cake,linescan_tb_211,123,gray_value
+lamar - cake,linescan_tb_212,118,gray_value
+lamar - cake,linescan_tb_213,118,gray_value
+lamar - cake,linescan_tb_214,126,gray_value
+lamar - cake,linescan_tb_215,136,gray_value
+lamar - cake,linescan_tb_216,138,gray_value
+lamar - cake,linescan_tb_217,126,gray_value
+lamar - cake,linescan_tb_218,108,gray_value
+lamar - cake,linescan_tb_219,103,gray_value
+lamar - cake,linescan_tb_220,111,gray_value
+lamar - cake,linescan_tb_221,130,gray_value
+lamar - cake,linescan_tb_222,136,gray_value
+lamar - cake,linescan_tb_223,154,gray_value
+lamar - cake,linescan_tb_224,161,gray_value
+lamar - cake,linescan_tb_225,159,gray_value
+lamar - cake,linescan_tb_226,147,gray_value
+lamar - cake,linescan_tb_227,141,gray_value
+lamar - cake,linescan_tb_228,123,gray_value
+lamar - cake,linescan_tb_229,111,gray_value
+lamar - cake,linescan_tb_230,122,gray_value
+lamar - cake,linescan_tb_231,139,gray_value
+lamar - cake,linescan_tb_232,143,gray_value
+lamar - cake,linescan_tb_233,140,gray_value
+lamar - cake,linescan_tb_234,132,gray_value
+lamar - cake,linescan_tb_235,138,gray_value
+lamar - cake,linescan_tb_236,139,gray_value
+lamar - cake,linescan_tb_237,141,gray_value
+lamar - cake,linescan_tb_238,142,gray_value
+lamar - cake,linescan_tb_239,143,gray_value
+lamar - cake,linescan_tb_240,159,gray_value
+lamar - cake,linescan_tb_241,161,gray_value
+lamar - cake,linescan_tb_242,166,gray_value
+lamar - cake,linescan_tb_243,161,gray_value
+lamar - cake,linescan_tb_244,153,gray_value
+lamar - cake,linescan_tb_245,146,gray_value
+lamar - cake,linescan_tb_246,145,gray_value
+lamar - cake,linescan_tb_247,139,gray_value
+lamar - cake,linescan_tb_248,125,gray_value
+lamar - cake,linescan_tb_249,119,gray_value
+lamar - cake,linescan_tb_250,122,gray_value
+lamar - cake,linescan_tb_251,118,gray_value
+lamar - cake,linescan_tb_252,115,gray_value
+lamar - cake,linescan_tb_253,106,gray_value
+lamar - cake,linescan_tb_254,101,gray_value
+lamar - cake,linescan_tb_255,104,gray_value
+lamar - cake,linescan_tb_256,134,gray_value
+lamar - cake,linescan_tb_257,147,gray_value
+lamar - cake,linescan_tb_258,159,gray_value
+lamar - cake,linescan_tb_259,174,gray_value
+lamar - cake,linescan_tb_260,180,gray_value
+lamar - cake,linescan_tb_261,148,gray_value
+lamar - cake,linescan_tb_262,123,gray_value
+lamar - cake,linescan_tb_263,123,gray_value
+lamar - cake,linescan_tb_264,142,gray_value
+lamar - cake,linescan_tb_265,168,gray_value
+lamar - cake,linescan_tb_266,169,gray_value
+lamar - cake,linescan_tb_267,160,gray_value
+lamar - regular,linescan_lr_0,72,gray_value
+lamar - regular,linescan_lr_1,74,gray_value
+lamar - regular,linescan_lr_2,80,gray_value
+lamar - regular,linescan_lr_3,84,gray_value
+lamar - regular,linescan_lr_4,85,gray_value
+lamar - regular,linescan_lr_5,82,gray_value
+lamar - regular,linescan_lr_6,87,gray_value
+lamar - regular,linescan_lr_7,83,gray_value
+lamar - regular,linescan_lr_8,75,gray_value
+lamar - regular,linescan_lr_9,86,gray_value
+lamar - regular,linescan_lr_10,92,gray_value
+lamar - regular,linescan_lr_11,93,gray_value
+lamar - regular,linescan_lr_12,92,gray_value
+lamar - regular,linescan_lr_13,93,gray_value
+lamar - regular,linescan_lr_14,99,gray_value
+lamar - regular,linescan_lr_15,106,gray_value
+lamar - regular,linescan_lr_16,117,gray_value
+lamar - regular,linescan_lr_17,121,gray_value
+lamar - regular,linescan_lr_18,124,gray_value
+lamar - regular,linescan_lr_19,122,gray_value
+lamar - regular,linescan_lr_20,130,gray_value
+lamar - regular,linescan_lr_21,131,gray_value
+lamar - regular,linescan_lr_22,132,gray_value
+lamar - regular,linescan_lr_23,130,gray_value
+lamar - regular,linescan_lr_24,116,gray_value
+lamar - regular,linescan_lr_25,110,gray_value
+lamar - regular,linescan_lr_26,102,gray_value
+lamar - regular,linescan_lr_27,81,gray_value
+lamar - regular,linescan_lr_28,79,gray_value
+lamar - regular,linescan_lr_29,67,gray_value
+lamar - regular,linescan_lr_30,56,gray_value
+lamar - regular,linescan_lr_31,59,gray_value
+lamar - regular,linescan_lr_32,59,gray_value
+lamar - regular,linescan_lr_33,57,gray_value
+lamar - regular,linescan_lr_34,56,gray_value
+lamar - regular,linescan_lr_35,79,gray_value
+lamar - regular,linescan_lr_36,79,gray_value
+lamar - regular,linescan_lr_37,67,gray_value
+lamar - regular,linescan_lr_38,68,gray_value
+lamar - regular,linescan_lr_39,74,gray_value
+lamar - regular,linescan_lr_40,79,gray_value
+lamar - regular,linescan_lr_41,82,gray_value
+lamar - regular,linescan_lr_42,83,gray_value
+lamar - regular,linescan_lr_43,78,gray_value
+lamar - regular,linescan_lr_44,53,gray_value
+lamar - regular,linescan_lr_45,64,gray_value
+lamar - regular,linescan_lr_46,84,gray_value
+lamar - regular,linescan_lr_47,86,gray_value
+lamar - regular,linescan_lr_48,101,gray_value
+lamar - regular,linescan_lr_49,99,gray_value
+lamar - regular,linescan_lr_50,92,gray_value
+lamar - regular,linescan_lr_51,75,gray_value
+lamar - regular,linescan_lr_52,65,gray_value
+lamar - regular,linescan_lr_53,63,gray_value
+lamar - regular,linescan_lr_54,56,gray_value
+lamar - regular,linescan_lr_55,62,gray_value
+lamar - regular,linescan_lr_56,70,gray_value
+lamar - regular,linescan_lr_57,82,gray_value
+lamar - regular,linescan_lr_58,90,gray_value
+lamar - regular,linescan_lr_59,81,gray_value
+lamar - regular,linescan_lr_60,77,gray_value
+lamar - regular,linescan_lr_61,74,gray_value
+lamar - regular,linescan_lr_62,81,gray_value
+lamar - regular,linescan_lr_63,115,gray_value
+lamar - regular,linescan_lr_64,129,gray_value
+lamar - regular,linescan_lr_65,130,gray_value
+lamar - regular,linescan_lr_66,128,gray_value
+lamar - regular,linescan_lr_67,123,gray_value
+lamar - regular,linescan_lr_68,123,gray_value
+lamar - regular,linescan_lr_69,139,gray_value
+lamar - regular,linescan_lr_70,144,gray_value
+lamar - regular,linescan_lr_71,152,gray_value
+lamar - regular,linescan_lr_72,150,gray_value
+lamar - regular,linescan_lr_73,140,gray_value
+lamar - regular,linescan_lr_74,133,gray_value
+lamar - regular,linescan_lr_75,133,gray_value
+lamar - regular,linescan_lr_76,131,gray_value
+lamar - regular,linescan_lr_77,129,gray_value
+lamar - regular,linescan_lr_78,121,gray_value
+lamar - regular,linescan_lr_79,94,gray_value
+lamar - regular,linescan_lr_80,77,gray_value
+lamar - regular,linescan_lr_81,87,gray_value
+lamar - regular,linescan_lr_82,93,gray_value
+lamar - regular,linescan_lr_83,117,gray_value
+lamar - regular,linescan_lr_84,127,gray_value
+lamar - regular,linescan_lr_85,123,gray_value
+lamar - regular,linescan_lr_86,107,gray_value
+lamar - regular,linescan_lr_87,97,gray_value
+lamar - regular,linescan_lr_88,88,gray_value
+lamar - regular,linescan_lr_89,108,gray_value
+lamar - regular,linescan_lr_90,105,gray_value
+lamar - regular,linescan_lr_91,93,gray_value
+lamar - regular,linescan_lr_92,88,gray_value
+lamar - regular,linescan_lr_93,80,gray_value
+lamar - regular,linescan_lr_94,80,gray_value
+lamar - regular,linescan_lr_95,102,gray_value
+lamar - regular,linescan_lr_96,117,gray_value
+lamar - regular,linescan_lr_97,122,gray_value
+lamar - regular,linescan_lr_98,113,gray_value
+lamar - regular,linescan_lr_99,103,gray_value
+lamar - regular,linescan_lr_100,90,gray_value
+lamar - regular,linescan_lr_101,77,gray_value
+lamar - regular,linescan_lr_102,58,gray_value
+lamar - regular,linescan_lr_103,62,gray_value
+lamar - regular,linescan_lr_104,60,gray_value
+lamar - regular,linescan_lr_105,65,gray_value
+lamar - regular,linescan_lr_106,87,gray_value
+lamar - regular,linescan_lr_107,95,gray_value
+lamar - regular,linescan_lr_108,83,gray_value
+lamar - regular,linescan_lr_109,43,gray_value
+lamar - regular,linescan_lr_110,33,gray_value
+lamar - regular,linescan_lr_111,36,gray_value
+lamar - regular,linescan_lr_112,38,gray_value
+lamar - regular,linescan_lr_113,38,gray_value
+lamar - regular,linescan_lr_114,39,gray_value
+lamar - regular,linescan_lr_115,41,gray_value
+lamar - regular,linescan_lr_116,43,gray_value
+lamar - regular,linescan_lr_117,44,gray_value
+lamar - regular,linescan_lr_118,46,gray_value
+lamar - regular,linescan_lr_119,48,gray_value
+lamar - regular,linescan_lr_120,44,gray_value
+lamar - regular,linescan_lr_121,31,gray_value
+lamar - regular,linescan_lr_122,27,gray_value
+lamar - regular,linescan_lr_123,28,gray_value
+lamar - regular,linescan_lr_124,38,gray_value
+lamar - regular,linescan_lr_125,47,gray_value
+lamar - regular,linescan_lr_126,47,gray_value
+lamar - regular,linescan_lr_127,47,gray_value
+lamar - regular,linescan_lr_128,50,gray_value
+lamar - regular,linescan_lr_129,55,gray_value
+lamar - regular,linescan_lr_130,66,gray_value
+lamar - regular,linescan_lr_131,83,gray_value
+lamar - regular,linescan_lr_132,83,gray_value
+lamar - regular,linescan_lr_133,90,gray_value
+lamar - regular,linescan_lr_134,75,gray_value
+lamar - regular,linescan_lr_135,64,gray_value
+lamar - regular,linescan_lr_136,62,gray_value
+lamar - regular,linescan_lr_137,69,gray_value
+lamar - regular,linescan_lr_138,67,gray_value
+lamar - regular,linescan_lr_139,77,gray_value
+lamar - regular,linescan_lr_140,80,gray_value
+lamar - regular,linescan_lr_141,80,gray_value
+lamar - regular,linescan_lr_142,88,gray_value
+lamar - regular,linescan_lr_143,127,gray_value
+lamar - regular,linescan_lr_144,151,gray_value
+lamar - regular,linescan_lr_145,156,gray_value
+lamar - regular,linescan_lr_146,158,gray_value
+lamar - regular,linescan_lr_147,155,gray_value
+lamar - regular,linescan_lr_148,151,gray_value
+lamar - regular,linescan_lr_149,141,gray_value
+lamar - regular,linescan_lr_150,132,gray_value
+lamar - regular,linescan_lr_151,130,gray_value
+lamar - regular,linescan_lr_152,128,gray_value
+lamar - regular,linescan_lr_153,125,gray_value
+lamar - regular,linescan_lr_154,118,gray_value
+lamar - regular,linescan_lr_155,109,gray_value
+lamar - regular,linescan_lr_156,107,gray_value
+lamar - regular,linescan_lr_157,106,gray_value
+lamar - regular,linescan_lr_158,107,gray_value
+lamar - regular,linescan_lr_159,112,gray_value
+lamar - regular,linescan_lr_160,125,gray_value
+lamar - regular,linescan_lr_161,147,gray_value
+lamar - regular,linescan_lr_162,155,gray_value
+lamar - regular,linescan_lr_163,165,gray_value
+lamar - regular,linescan_lr_164,151,gray_value
+lamar - regular,linescan_lr_165,117,gray_value
+lamar - regular,linescan_lr_166,115,gray_value
+lamar - regular,linescan_lr_167,124,gray_value
+lamar - regular,linescan_lr_168,140,gray_value
+lamar - regular,linescan_lr_169,135,gray_value
+lamar - regular,linescan_lr_170,112,gray_value
+lamar - regular,linescan_lr_171,104,gray_value
+lamar - regular,linescan_lr_172,102,gray_value
+lamar - regular,linescan_lr_173,103,gray_value
+lamar - regular,linescan_lr_174,108,gray_value
+lamar - regular,linescan_lr_175,124,gray_value
+lamar - regular,linescan_lr_176,118,gray_value
+lamar - regular,linescan_lr_177,91,gray_value
+lamar - regular,linescan_lr_178,97,gray_value
+lamar - regular,linescan_lr_179,100,gray_value
+lamar - regular,linescan_lr_180,135,gray_value
+lamar - regular,linescan_lr_181,145,gray_value
+lamar - regular,linescan_lr_182,108,gray_value
+lamar - regular,linescan_lr_183,87,gray_value
+lamar - regular,linescan_lr_184,104,gray_value
+lamar - regular,linescan_lr_185,135,gray_value
+lamar - regular,linescan_lr_186,145,gray_value
+lamar - regular,linescan_lr_187,144,gray_value
+lamar - regular,linescan_lr_188,138,gray_value
+lamar - regular,linescan_lr_189,134,gray_value
+lamar - regular,linescan_lr_190,122,gray_value
+lamar - regular,linescan_lr_191,120,gray_value
+lamar - regular,linescan_lr_192,113,gray_value
+lamar - regular,linescan_lr_193,106,gray_value
+lamar - regular,linescan_lr_194,101,gray_value
+lamar - regular,linescan_lr_195,97,gray_value
+lamar - regular,linescan_lr_196,95,gray_value
+lamar - regular,linescan_lr_197,94,gray_value
+lamar - regular,linescan_lr_198,93,gray_value
+lamar - regular,linescan_lr_199,95,gray_value
+lamar - regular,linescan_lr_200,92,gray_value
+lamar - regular,linescan_lr_201,88,gray_value
+lamar - regular,linescan_lr_202,85,gray_value
+lamar - regular,linescan_lr_203,77,gray_value
+lamar - regular,linescan_lr_204,76,gray_value
+lamar - regular,linescan_lr_205,77,gray_value
+lamar - regular,linescan_lr_206,60,gray_value
+lamar - regular,linescan_lr_207,71,gray_value
+lamar - regular,linescan_lr_208,61,gray_value
+lamar - regular,linescan_lr_209,72,gray_value
+lamar - regular,linescan_lr_210,30,gray_value
+lamar - regular,linescan_lr_211,18,gray_value
+lamar - regular,linescan_lr_212,16,gray_value
+lamar - regular,linescan_lr_213,17,gray_value
+lamar - regular,linescan_lr_214,17,gray_value
+lamar - regular,linescan_lr_215,15,gray_value
+lamar - regular,linescan_lr_216,15,gray_value
+lamar - regular,linescan_lr_217,16,gray_value
+lamar - regular,linescan_lr_218,17,gray_value
+lamar - regular,linescan_lr_219,16,gray_value
+lamar - regular,linescan_lr_220,16,gray_value
+lamar - regular,linescan_lr_221,17,gray_value
+lamar - regular,linescan_lr_222,14,gray_value
+lamar - regular,linescan_lr_223,14,gray_value
+lamar - regular,linescan_lr_224,13,gray_value
+lamar - regular,linescan_lr_225,10,gray_value
+lamar - regular,linescan_lr_226,10,gray_value
+lamar - regular,linescan_lr_227,11,gray_value
+lamar - regular,linescan_lr_228,15,gray_value
+lamar - regular,linescan_lr_229,19,gray_value
+lamar - regular,linescan_lr_230,20,gray_value
+lamar - regular,linescan_lr_231,18,gray_value
+lamar - regular,linescan_lr_232,19,gray_value
+lamar - regular,linescan_lr_233,24,gray_value
+lamar - regular,linescan_lr_234,27,gray_value
+lamar - regular,linescan_lr_235,28,gray_value
+lamar - regular,linescan_lr_236,30,gray_value
+lamar - regular,linescan_lr_237,32,gray_value
+lamar - regular,linescan_lr_238,36,gray_value
+lamar - regular,linescan_lr_239,39,gray_value
+lamar - regular,linescan_lr_240,45,gray_value
+lamar - regular,linescan_lr_241,80,gray_value
+lamar - regular,linescan_lr_242,123,gray_value
+lamar - regular,linescan_lr_243,129,gray_value
+lamar - regular,linescan_lr_244,131,gray_value
+lamar - regular,linescan_lr_245,134,gray_value
+lamar - regular,linescan_lr_246,134,gray_value
+lamar - regular,linescan_lr_247,126,gray_value
+lamar - regular,linescan_lr_248,140,gray_value
+lamar - regular,linescan_lr_249,153,gray_value
+lamar - regular,linescan_lr_250,150,gray_value
+lamar - regular,linescan_lr_251,137,gray_value
+lamar - regular,linescan_lr_252,119,gray_value
+lamar - regular,linescan_lr_253,110,gray_value
+lamar - regular,linescan_lr_254,104,gray_value
+lamar - regular,linescan_lr_255,99,gray_value
+lamar - regular,linescan_lr_256,98,gray_value
+lamar - regular,linescan_lr_257,121,gray_value
+lamar - regular,linescan_lr_258,137,gray_value
+lamar - regular,linescan_lr_259,152,gray_value
+lamar - regular,linescan_lr_260,162,gray_value
+lamar - regular,linescan_lr_261,170,gray_value
+lamar - regular,linescan_lr_262,174,gray_value
+lamar - regular,linescan_lr_263,163,gray_value
+lamar - regular,linescan_lr_264,151,gray_value
+lamar - regular,linescan_lr_265,153,gray_value
+lamar - regular,linescan_lr_266,158,gray_value
+lamar - regular,linescan_lr_267,166,gray_value
+lamar - regular,linescan_lr_268,172,gray_value
+lamar - regular,linescan_lr_269,177,gray_value
+lamar - regular,linescan_lr_270,168,gray_value
+lamar - regular,linescan_lr_271,155,gray_value
+lamar - regular,linescan_lr_272,143,gray_value
+lamar - regular,linescan_lr_273,135,gray_value
+lamar - regular,linescan_lr_274,140,gray_value
+lamar - regular,linescan_lr_275,149,gray_value
+lamar - regular,linescan_lr_276,156,gray_value
+lamar - regular,linescan_lr_277,157,gray_value
+lamar - regular,linescan_lr_278,157,gray_value
+lamar - regular,linescan_lr_279,162,gray_value
+lamar - regular,linescan_lr_280,152,gray_value
+lamar - regular,linescan_lr_281,151,gray_value
+lamar - regular,linescan_lr_282,156,gray_value
+lamar - regular,linescan_lr_283,156,gray_value
+lamar - regular,linescan_lr_284,156,gray_value
+lamar - regular,linescan_lr_285,150,gray_value
+lamar - regular,linescan_lr_286,148,gray_value
+lamar - regular,linescan_lr_287,158,gray_value
+lamar - regular,linescan_lr_288,158,gray_value
+lamar - regular,linescan_lr_289,139,gray_value
+lamar - regular,linescan_lr_290,116,gray_value
+lamar - regular,linescan_lr_291,119,gray_value
+lamar - regular,linescan_lr_292,133,gray_value
+lamar - regular,linescan_lr_293,136,gray_value
+lamar - regular,linescan_lr_294,133,gray_value
+lamar - regular,linescan_lr_295,133,gray_value
+lamar - regular,linescan_lr_296,133,gray_value
+lamar - regular,linescan_lr_297,136,gray_value
+lamar - regular,linescan_lr_298,146,gray_value
+lamar - regular,linescan_lr_299,147,gray_value
+lamar - regular,linescan_lr_300,128,gray_value
+lamar - regular,linescan_lr_301,115,gray_value
+lamar - regular,linescan_lr_302,133,gray_value
+lamar - regular,linescan_lr_303,140,gray_value
+lamar - regular,linescan_lr_304,143,gray_value
+lamar - regular,linescan_lr_305,147,gray_value
+lamar - regular,linescan_lr_306,150,gray_value
+lamar - regular,linescan_lr_307,142,gray_value
+lamar - regular,linescan_lr_308,141,gray_value
+lamar - regular,linescan_lr_309,141,gray_value
+lamar - regular,linescan_lr_310,146,gray_value
+lamar - regular,linescan_lr_311,158,gray_value
+lamar - regular,linescan_lr_312,153,gray_value
+lamar - regular,linescan_lr_313,165,gray_value
+lamar - regular,linescan_lr_314,153,gray_value
+lamar - regular,linescan_lr_315,155,gray_value
+lamar - regular,linescan_lr_316,153,gray_value
+lamar - regular,linescan_lr_317,151,gray_value
+lamar - regular,linescan_lr_318,161,gray_value
+lamar - regular,linescan_lr_319,173,gray_value
+lamar - regular,linescan_lr_320,188,gray_value
+lamar - regular,linescan_lr_321,190,gray_value
+lamar - regular,linescan_lr_322,190,gray_value
+lamar - regular,linescan_lr_323,188,gray_value
+lamar - regular,linescan_lr_324,191,gray_value
+lamar - regular,linescan_lr_325,182,gray_value
+lamar - regular,linescan_lr_326,181,gray_value
+lamar - regular,linescan_lr_327,182,gray_value
+lamar - regular,linescan_lr_328,177,gray_value
+lamar - regular,linescan_lr_329,177,gray_value
+lamar - regular,linescan_lr_330,179,gray_value
+lamar - regular,linescan_lr_331,184,gray_value
+lamar - regular,linescan_lr_332,192,gray_value
+lamar - regular,linescan_lr_333,190,gray_value
+lamar - regular,linescan_lr_334,183,gray_value
+lamar - regular,linescan_lr_335,177,gray_value
+lamar - regular,linescan_lr_336,172,gray_value
+lamar - regular,linescan_lr_337,170,gray_value
+lamar - regular,linescan_lr_338,179,gray_value
+lamar - regular,linescan_lr_339,183,gray_value
+lamar - regular,linescan_lr_340,181,gray_value
+lamar - regular,linescan_lr_341,178,gray_value
+lamar - regular,linescan_lr_342,174,gray_value
+lamar - regular,linescan_lr_343,148,gray_value
+lamar - regular,linescan_lr_344,132,gray_value
+lamar - regular,linescan_lr_345,133,gray_value
+lamar - regular,linescan_lr_346,147,gray_value
+lamar - regular,linescan_lr_347,152,gray_value
+lamar - regular,linescan_lr_348,161,gray_value
+lamar - regular,linescan_lr_349,163,gray_value
+lamar - regular,linescan_lr_350,168,gray_value
+lamar - regular,linescan_lr_351,168,gray_value
+lamar - regular,linescan_lr_352,164,gray_value
+lamar - regular,linescan_lr_353,161,gray_value
+lamar - regular,linescan_lr_354,162,gray_value
+lamar - regular,linescan_lr_355,167,gray_value
+lamar - regular,linescan_lr_356,167,gray_value
+lamar - regular,linescan_lr_357,155,gray_value
+lamar - regular,linescan_lr_358,140,gray_value
+lamar - regular,linescan_lr_359,131,gray_value
+lamar - regular,linescan_lr_360,141,gray_value
+lamar - regular,linescan_lr_361,147,gray_value
+lamar - regular,linescan_lr_362,152,gray_value
+lamar - regular,linescan_lr_363,142,gray_value
+lamar - regular,linescan_lr_364,153,gray_value
+lamar - regular,linescan_lr_365,172,gray_value
+lamar - regular,linescan_lr_366,176,gray_value
+lamar - regular,linescan_lr_367,176,gray_value
+lamar - regular,linescan_lr_368,185,gray_value
+lamar - regular,linescan_lr_369,192,gray_value
+lamar - regular,linescan_lr_370,191,gray_value
+lamar - regular,linescan_lr_371,191,gray_value
+lamar - regular,linescan_lr_372,198,gray_value
+lamar - regular,linescan_lr_373,190,gray_value
+lamar - regular,linescan_lr_374,182,gray_value
+lamar - regular,linescan_lr_375,181,gray_value
+lamar - regular,linescan_lr_376,189,gray_value
+lamar - regular,linescan_lr_377,198,gray_value
+lamar - regular,linescan_lr_378,202,gray_value
+lamar - regular,linescan_lr_379,194,gray_value
+lamar - regular,linescan_lr_380,183,gray_value
+lamar - regular,linescan_lr_381,180,gray_value
+lamar - regular,linescan_lr_382,178,gray_value
+lamar - regular,linescan_lr_383,177,gray_value
+lamar - regular,linescan_lr_384,177,gray_value
+lamar - regular,linescan_lr_385,172,gray_value
+lamar - regular,linescan_lr_386,155,gray_value
+lamar - regular,linescan_lr_387,136,gray_value
+lamar - regular,linescan_lr_388,126,gray_value
+lamar - regular,linescan_lr_389,109,gray_value
+lamar - regular,linescan_lr_390,93,gray_value
+lamar - regular,linescan_lr_391,87,gray_value
+lamar - regular,linescan_lr_392,114,gray_value
+lamar - regular,linescan_lr_393,173,gray_value
+lamar - regular,linescan_lr_394,169,gray_value
+lamar - regular,linescan_lr_395,142,gray_value
+lamar - regular,linescan_lr_396,86,gray_value
+lamar - regular,linescan_lr_397,68,gray_value
+lamar - regular,linescan_lr_398,70,gray_value
+lamar - regular,linescan_lr_399,64,gray_value
+lamar - regular,linescan_lr_400,58,gray_value
+lamar - regular,linescan_lr_401,55,gray_value
+lamar - regular,linescan_lr_402,52,gray_value
+lamar - regular,linescan_lr_403,52,gray_value
+lamar - regular,linescan_lr_404,52,gray_value
+lamar - regular,linescan_tb_0,147,gray_value
+lamar - regular,linescan_tb_1,142,gray_value
+lamar - regular,linescan_tb_2,145,gray_value
+lamar - regular,linescan_tb_3,143,gray_value
+lamar - regular,linescan_tb_4,143,gray_value
+lamar - regular,linescan_tb_5,146,gray_value
+lamar - regular,linescan_tb_6,146,gray_value
+lamar - regular,linescan_tb_7,129,gray_value
+lamar - regular,linescan_tb_8,131,gray_value
+lamar - regular,linescan_tb_9,134,gray_value
+lamar - regular,linescan_tb_10,131,gray_value
+lamar - regular,linescan_tb_11,126,gray_value
+lamar - regular,linescan_tb_12,123,gray_value
+lamar - regular,linescan_tb_13,120,gray_value
+lamar - regular,linescan_tb_14,116,gray_value
+lamar - regular,linescan_tb_15,116,gray_value
+lamar - regular,linescan_tb_16,121,gray_value
+lamar - regular,linescan_tb_17,130,gray_value
+lamar - regular,linescan_tb_18,122,gray_value
+lamar - regular,linescan_tb_19,112,gray_value
+lamar - regular,linescan_tb_20,120,gray_value
+lamar - regular,linescan_tb_21,119,gray_value
+lamar - regular,linescan_tb_22,112,gray_value
+lamar - regular,linescan_tb_23,109,gray_value
+lamar - regular,linescan_tb_24,105,gray_value
+lamar - regular,linescan_tb_25,105,gray_value
+lamar - regular,linescan_tb_26,107,gray_value
+lamar - regular,linescan_tb_27,119,gray_value
+lamar - regular,linescan_tb_28,126,gray_value
+lamar - regular,linescan_tb_29,129,gray_value
+lamar - regular,linescan_tb_30,131,gray_value
+lamar - regular,linescan_tb_31,123,gray_value
+lamar - regular,linescan_tb_32,119,gray_value
+lamar - regular,linescan_tb_33,124,gray_value
+lamar - regular,linescan_tb_34,131,gray_value
+lamar - regular,linescan_tb_35,139,gray_value
+lamar - regular,linescan_tb_36,134,gray_value
+lamar - regular,linescan_tb_37,133,gray_value
+lamar - regular,linescan_tb_38,134,gray_value
+lamar - regular,linescan_tb_39,134,gray_value
+lamar - regular,linescan_tb_40,126,gray_value
+lamar - regular,linescan_tb_41,88,gray_value
+lamar - regular,linescan_tb_42,39,gray_value
+lamar - regular,linescan_tb_43,14,gray_value
+lamar - regular,linescan_tb_44,14,gray_value
+lamar - regular,linescan_tb_45,12,gray_value
+lamar - regular,linescan_tb_46,12,gray_value
+lamar - regular,linescan_tb_47,11,gray_value
+lamar - regular,linescan_tb_48,7,gray_value
+lamar - regular,linescan_tb_49,6,gray_value
+lamar - regular,linescan_tb_50,11,gray_value
+lamar - regular,linescan_tb_51,14,gray_value
+lamar - regular,linescan_tb_52,13,gray_value
+lamar - regular,linescan_tb_53,21,gray_value
+lamar - regular,linescan_tb_54,21,gray_value
+lamar - regular,linescan_tb_55,25,gray_value
+lamar - regular,linescan_tb_56,30,gray_value
+lamar - regular,linescan_tb_57,30,gray_value
+lamar - regular,linescan_tb_58,30,gray_value
+lamar - regular,linescan_tb_59,34,gray_value
+lamar - regular,linescan_tb_60,35,gray_value
+lamar - regular,linescan_tb_61,47,gray_value
+lamar - regular,linescan_tb_62,54,gray_value
+lamar - regular,linescan_tb_63,72,gray_value
+lamar - regular,linescan_tb_64,82,gray_value
+lamar - regular,linescan_tb_65,84,gray_value
+lamar - regular,linescan_tb_66,91,gray_value
+lamar - regular,linescan_tb_67,99,gray_value
+lamar - regular,linescan_tb_68,104,gray_value
+lamar - regular,linescan_tb_69,101,gray_value
+lamar - regular,linescan_tb_70,108,gray_value
+lamar - regular,linescan_tb_71,110,gray_value
+lamar - regular,linescan_tb_72,110,gray_value
+lamar - regular,linescan_tb_73,98,gray_value
+lamar - regular,linescan_tb_74,98,gray_value
+lamar - regular,linescan_tb_75,105,gray_value
+lamar - regular,linescan_tb_76,110,gray_value
+lamar - regular,linescan_tb_77,100,gray_value
+lamar - regular,linescan_tb_78,105,gray_value
+lamar - regular,linescan_tb_79,101,gray_value
+lamar - regular,linescan_tb_80,106,gray_value
+lamar - regular,linescan_tb_81,116,gray_value
+lamar - regular,linescan_tb_82,110,gray_value
+lamar - regular,linescan_tb_83,105,gray_value
+lamar - regular,linescan_tb_84,108,gray_value
+lamar - regular,linescan_tb_85,111,gray_value
+lamar - regular,linescan_tb_86,121,gray_value
+lamar - regular,linescan_tb_87,131,gray_value
+lamar - regular,linescan_tb_88,141,gray_value
+lamar - regular,linescan_tb_89,141,gray_value
+lamar - regular,linescan_tb_90,136,gray_value
+lamar - regular,linescan_tb_91,141,gray_value
+lamar - regular,linescan_tb_92,130,gray_value
+lamar - regular,linescan_tb_93,135,gray_value
+lamar - regular,linescan_tb_94,131,gray_value
+lamar - regular,linescan_tb_95,128,gray_value
+lamar - regular,linescan_tb_96,120,gray_value
+lamar - regular,linescan_tb_97,128,gray_value
+lamar - regular,linescan_tb_98,133,gray_value
+lamar - regular,linescan_tb_99,126,gray_value
+lamar - regular,linescan_tb_100,104,gray_value
+lamar - regular,linescan_tb_101,99,gray_value
+lamar - regular,linescan_tb_102,99,gray_value
+lamar - regular,linescan_tb_103,99,gray_value
+lamar - regular,linescan_tb_104,104,gray_value
+lamar - regular,linescan_tb_105,111,gray_value
+lamar - regular,linescan_tb_106,97,gray_value
+lamar - regular,linescan_tb_107,100,gray_value
+lamar - regular,linescan_tb_108,107,gray_value
+lamar - regular,linescan_tb_109,113,gray_value
+lamar - regular,linescan_tb_110,115,gray_value
+lamar - regular,linescan_tb_111,112,gray_value
+lamar - regular,linescan_tb_112,130,gray_value
+lamar - regular,linescan_tb_113,133,gray_value
+lamar - regular,linescan_tb_114,121,gray_value
+lamar - regular,linescan_tb_115,129,gray_value
+lamar - regular,linescan_tb_116,141,gray_value
+lamar - regular,linescan_tb_117,150,gray_value
+lamar - regular,linescan_tb_118,148,gray_value
+lamar - regular,linescan_tb_119,140,gray_value
+lamar - regular,linescan_tb_120,130,gray_value
+lamar - regular,linescan_tb_121,124,gray_value
+lamar - regular,linescan_tb_122,129,gray_value
+lamar - regular,linescan_tb_123,132,gray_value
+lamar - regular,linescan_tb_124,128,gray_value
+lamar - regular,linescan_tb_125,105,gray_value
+lamar - regular,linescan_tb_126,93,gray_value
+lamar - regular,linescan_tb_127,103,gray_value
+lamar - regular,linescan_tb_128,111,gray_value
+lamar - regular,linescan_tb_129,106,gray_value
+lamar - regular,linescan_tb_130,102,gray_value
+lamar - regular,linescan_tb_131,109,gray_value
+lamar - regular,linescan_tb_132,117,gray_value
+lamar - regular,linescan_tb_133,125,gray_value
+lamar - regular,linescan_tb_134,137,gray_value
+lamar - regular,linescan_tb_135,160,gray_value
+lamar - regular,linescan_tb_136,158,gray_value
+lamar - regular,linescan_tb_137,158,gray_value
+lamar - regular,linescan_tb_138,163,gray_value
+lamar - regular,linescan_tb_139,167,gray_value
+lamar - regular,linescan_tb_140,159,gray_value
+lamar - regular,linescan_tb_141,161,gray_value
+lamar - regular,linescan_tb_142,153,gray_value
+lamar - regular,linescan_tb_143,126,gray_value
+lamar - regular,linescan_tb_144,108,gray_value
+lamar - regular,linescan_tb_145,136,gray_value
+lamar - regular,linescan_tb_146,174,gray_value
+lamar - regular,linescan_tb_147,184,gray_value
+lamar - regular,linescan_tb_148,174,gray_value
+lamar - regular,linescan_tb_149,143,gray_value
+lamar - regular,linescan_tb_150,128,gray_value
+lamar - regular,linescan_tb_151,119,gray_value
+lamar - regular,linescan_tb_152,114,gray_value
+lamar - regular,linescan_tb_153,108,gray_value
+lamar - regular,linescan_tb_154,100,gray_value
+lamar - regular,linescan_tb_155,87,gray_value
+lamar - regular,linescan_tb_156,84,gray_value
+lamar - regular,linescan_tb_157,62,gray_value
+lamar - regular,linescan_tb_158,34,gray_value
+lamar - regular,linescan_tb_159,23,gray_value
+lamar - regular,linescan_tb_160,23,gray_value
+lamar - regular,linescan_tb_161,24,gray_value
+lamar - regular,linescan_tb_162,29,gray_value
+lamar - regular,linescan_tb_163,27,gray_value
+lamar - regular,linescan_tb_164,20,gray_value
+lamar - regular,linescan_tb_165,15,gray_value
+lamar - regular,linescan_tb_166,15,gray_value
+lamar - regular,linescan_tb_167,15,gray_value
+lamar - regular,linescan_tb_168,18,gray_value
+lamar - regular,linescan_tb_169,21,gray_value
+lamar - regular,linescan_tb_170,22,gray_value
+lamar - regular,linescan_tb_171,22,gray_value
+lamar - regular,linescan_tb_172,19,gray_value
+lamar - regular,linescan_tb_173,12,gray_value
+lamar - regular,linescan_tb_174,10,gray_value
+lamar - regular,linescan_tb_175,10,gray_value
+lamar - regular,linescan_tb_176,10,gray_value
+lamar - regular,linescan_tb_177,10,gray_value
+lamar - regular,linescan_tb_178,10,gray_value
+lamar - regular,linescan_tb_179,11,gray_value
+lamar - regular,linescan_tb_180,21,gray_value
+lamar - regular,linescan_tb_181,22,gray_value
+lamar - regular,linescan_tb_182,29,gray_value
+lamar - regular,linescan_tb_183,64,gray_value
+lamar - regular,linescan_tb_184,74,gray_value
+lamar - regular,linescan_tb_185,82,gray_value
+lamar - regular,linescan_tb_186,83,gray_value
+lamar - regular,linescan_tb_187,88,gray_value
+lamar - regular,linescan_tb_188,92,gray_value
+lamar - regular,linescan_tb_189,90,gray_value
+lamar - regular,linescan_tb_190,88,gray_value
+lamar - regular,linescan_tb_191,87,gray_value
+lamar - regular,linescan_tb_192,85,gray_value
+lamar - regular,linescan_tb_193,81,gray_value
+lamar - regular,linescan_tb_194,76,gray_value
+lamar - regular,linescan_tb_195,70,gray_value
+lamar - regular,linescan_tb_196,67,gray_value
+lamar - regular,linescan_tb_197,70,gray_value
+lamar - regular,linescan_tb_198,72,gray_value
+lamar - regular,linescan_tb_199,76,gray_value
+lamar - regular,linescan_tb_200,76,gray_value
+lamar - regular,linescan_tb_201,67,gray_value
+lamar - regular,linescan_tb_202,67,gray_value
+lamar - regular,linescan_tb_203,77,gray_value
+lamar - regular,linescan_tb_204,91,gray_value
+lamar - regular,linescan_tb_205,95,gray_value
+lamar - regular,linescan_tb_206,98,gray_value
+lamar - regular,linescan_tb_207,103,gray_value
+lamar - regular,linescan_tb_208,110,gray_value
+lamar - regular,linescan_tb_209,111,gray_value
+lamar - regular,linescan_tb_210,121,gray_value
+lamar - regular,linescan_tb_211,128,gray_value
+lamar - regular,linescan_tb_212,133,gray_value
+lamar - regular,linescan_tb_213,138,gray_value
+lamar - regular,linescan_tb_214,140,gray_value
+lamar - regular,linescan_tb_215,143,gray_value
+lamar - regular,linescan_tb_216,155,gray_value
+lamar - regular,linescan_tb_217,148,gray_value
+lamar - regular,linescan_tb_218,153,gray_value
+lamar - regular,linescan_tb_219,160,gray_value
+lamar - regular,linescan_tb_220,163,gray_value
+lamar - regular,linescan_tb_221,160,gray_value
+lamar - regular,linescan_tb_222,150,gray_value
+lamar - regular,linescan_tb_223,151,gray_value
+lamar - regular,linescan_tb_224,159,gray_value
+lamar - regular,linescan_tb_225,169,gray_value
+lamar - regular,linescan_tb_226,176,gray_value
+lamar - regular,linescan_tb_227,174,gray_value
+lamar - regular,linescan_tb_228,166,gray_value
+lamar - regular,linescan_tb_229,166,gray_value
+lamar - regular,linescan_tb_230,169,gray_value
+lamar - regular,linescan_tb_231,174,gray_value
+lamar - regular,linescan_tb_232,176,gray_value
+lamar - regular,linescan_tb_233,173,gray_value
+lamar - regular,linescan_tb_234,176,gray_value
+lamar - regular,linescan_tb_235,173,gray_value
+lamar - regular,linescan_tb_236,136,gray_value
+lamar - regular,linescan_tb_237,115,gray_value
+lamar - regular,linescan_tb_238,118,gray_value
+lamar - regular,linescan_tb_239,112,gray_value
+lamar - regular,linescan_tb_240,115,gray_value
+lamar - regular,linescan_tb_241,120,gray_value
+lamar - regular,linescan_tb_242,123,gray_value
+lamar - regular,linescan_tb_243,130,gray_value
+lamar - regular,linescan_tb_244,144,gray_value
+lamar - regular,linescan_tb_245,149,gray_value
+lamar - regular,linescan_tb_246,148,gray_value
+lamar - regular,linescan_tb_247,124,gray_value
+lamar - regular,linescan_tb_248,108,gray_value
+lamar - regular,linescan_tb_249,113,gray_value
+lamar - regular,linescan_tb_250,114,gray_value
+lamar - regular,linescan_tb_251,115,gray_value
+lamar - regular,linescan_tb_252,122,gray_value
+lamar - regular,linescan_tb_253,117,gray_value
+lamar - regular,linescan_tb_254,111,gray_value
+lamar - regular,linescan_tb_255,115,gray_value
+lamar - regular,linescan_tb_256,116,gray_value
+lamar - regular,linescan_tb_257,121,gray_value
+lamar - regular,linescan_tb_258,127,gray_value
+lamar - regular,linescan_tb_259,134,gray_value
+lamar - regular,linescan_tb_260,141,gray_value
+lamar - regular,linescan_tb_261,147,gray_value
+lamar - regular,linescan_tb_262,155,gray_value
+lamar - regular,linescan_tb_263,147,gray_value
+lamar - regular,linescan_tb_264,140,gray_value
+lamar - regular,linescan_tb_265,118,gray_value
+lamar - regular,linescan_tb_266,98,gray_value
+lamar - regular,linescan_tb_267,118,gray_value
+lamar - regular,linescan_tb_268,135,gray_value
+lamar - regular,linescan_tb_269,144,gray_value
+lamar - regular,linescan_tb_270,155,gray_value
+lamar - regular,linescan_tb_271,166,gray_value
+lamar - regular,linescan_tb_272,166,gray_value
+lamar - regular,linescan_tb_273,165,gray_value
+lamar - regular,linescan_tb_274,161,gray_value
+lamar - regular,linescan_tb_275,156,gray_value
