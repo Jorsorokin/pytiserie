@@ -1,6 +1,7 @@
 import numpy as np
 from scipy.optimize import least_squares
 from typing import TypedDict
+from functools import partial
 
 
 ExponentialParams = tuple[float, float, float]
@@ -11,6 +12,8 @@ DECAY_CONSTANTS_GUESSES = {
     "double": (0.5, 0.1)
 }
 DOUGH_LOWER_BOUND = 1.0
+ALPHA = 0.01  # L2 penalty term
+
 
 class GoF(TypedDict):
     mse: float
@@ -18,12 +21,12 @@ class GoF(TypedDict):
     aic: float
 
 
-def _fit_exponential(t, a, k):
+def exponential(t, a, k):
     return a * np.exp(-k * t)
 
 
-def _fit_exponential_double(t, y0, a1, k1, a2, k2):
-    return y0 + _fit_exponential(t, a1, k1) + _fit_exponential(t, a2, k2)
+def double_exponential(t, y0, a1, k1, a2, k2):
+    return y0 + exponential(t, a1, k1) + exponential(t, a2, k2)
 
 
 def _calculate_gof(x, y, params, func):
@@ -64,30 +67,53 @@ def fit_exponential(x, y, init_params: ExponentialParams | DoubleExponentialPara
     gof: GoF
         The goodness of fit metrics, including mean squared error (mse), R-squared (r_squared), and Akaike Information Criterion (aic).
     """
-    func = _fit_exponential_double if double else _fit_exponential
+    def regularized_residuals(params, x, y, func, alpha):
+        # Standard data residuals
+        data_res = func(x, *params) - y
+        # L2 penalty on the residuals
+        reg_res = np.sqrt(alpha) * params
+        return np.concatenate([data_res, reg_res])
+
+    func = double_exponential if double else exponential
+    loss = partial(regularized_residuals, x=x, y=y, func=func, alpha=ALPHA)
 
     if init_params is not None:
-        result = least_squares(lambda p: func(x, *p) - y, init_params, **kwargs)
+        result = least_squares(lambda p: loss(p), init_params, **kwargs)
     else:
-        result = least_squares(lambda p: func(x, *p) - y, **kwargs)
+        result = least_squares(lambda p: loss(p), **kwargs)
 
     gof = _calculate_gof(x, y, result.x, func)
     return result.x, gof
 
 
-def calculate_exponential_decay_halflife(k: float) -> float:
+def _compute_init_param_guess(x, double: bool = False) -> ExponentialParams | DoubleExponentialParams:
     """
-    Calculate the half-life of an exponential decay function.
+    Compute initial parameter guesses for exponential fitting.
 
     Parameters
     ----------
-    k : float, the decay constant.
-
-    Returns
-    -------
-    (float): the half-life of the exponential decay.
+    x : array-like
+        The independent variable.
+    y : array-like
+        The dependent variable.
+    double : bool, optional
+        If True, compute initial guesses for a double exponential fit. If False, compute for a single exponential fit.
     """
-    return np.log(2) / k
+    if double:
+        p0 = (
+            DOUGH_LOWER_BOUND,  # y0: near baseline... doughy-lower-bound (cm)
+            (x[0] - np.min(x)) * 0.6,  # a1: fast amplitude
+            DECAY_CONSTANTS_GUESSES["double"][0],  # k1: initial fast decay
+            (x[0] - np.min(x)) * 0.4,  # a2: slow amplitude
+            DECAY_CONSTANTS_GUESSES["double"][1]  # k2: decay slow
+        )
+    else:
+        p0 = (
+            x[0],  # a: amplitude
+            DECAY_CONSTANTS_GUESSES["single"]  # k: decay rate
+        )
+
+    return p0
 
 
 def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dict[str, float]:
@@ -103,7 +129,8 @@ def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dic
     Returns
     -------
     dictionary with the following statistics:
-        "spring_decay_halflife_" — the half-life of the exponential decay of the spring structure; if double, suffixed with the index of the component
+        "params" — the fitted parameters of the exponential function; if double, includes both components
+        "spring_decay_halflife" — the half-life of the exponential decay of the spring structure; if double, suffixed with the index of the component
         "spring_decay_mse" — the mean squared error of the exponential fit
         "spring_decay_r_squared" — the R-squared value of the exponential fit
         "spring_decay_aic" — the Akaike Information Criterion of the exponential fit
@@ -113,36 +140,20 @@ def compute_spring_metrics(spring_data: np.ndarray, double: bool = False) -> dic
 
     x = np.arange(len(spring_data))
 
-    # initial params
-    init_guesses = {
-        "single": [
-            spring_data[0],  # a: amplitude
-            DECAY_CONSTANTS_GUESSES["single"]  # k: decay rate
-        ],
-        "double": [
-            DOUGH_LOWER_BOUND,  # y0: near baseline... doughy-lower-bound (cm)
-            (spring_data[0] - np.min(spring_data)) * 0.6,  # a1: fast amplitude
-            DECAY_CONSTANTS_GUESSES["double"][0],  # k1: initial fast decay
-            (spring_data[0] - np.min(spring_data)) * 0.4,  # a2: slow amplitude
-            DECAY_CONSTANTS_GUESSES["double"][1]  # k2: decay slow
-        ]
-    }       
-
     metrics = {}
 
-    init_params = init_guesses["double"] if double else init_guesses["single"]
+    init_params = _compute_init_param_guess(x, double=double)
     params, gof = fit_exponential(x, spring_data, init_params=init_params, double=double)
     metrics.update({f"spring_decay_{key}": val for key, val in gof.items() if key})
+    metrics["params"] = params
 
     # compute half life; for double, need to compute per component
     if double:
-        halflife = [
-            calculate_exponential_decay_halflife(params[i])  # only use the first two params for halflife
-            for i in (2, 4)
-        ]
-        metrics.update({f"spring_decay_halflife_{i+1}": h for i, h in enumerate(halflife)})
+        halflife = [np.log(2) / params[i] for i in (2, 4)]
+        metrics[f"spring_decay_halflife"] = halflife[0]
+        metrics[f"spring_decay_halflife_2"] = halflife[1]
     else:
-        metrics[f"spring_decay_halflife"] = calculate_exponential_decay_halflife(params[1])
+        metrics[f"spring_decay_halflife"] = np.log(2) / params[1]
 
     return metrics
     
