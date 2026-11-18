@@ -9,7 +9,7 @@ dependencies = [
     "scipy",
     "matplotlib",
     "soundfile",
-    "typing_extensions",
+    "altair"
 ]
 requires-python = ">=3.9"
 authors = [
@@ -21,11 +21,9 @@ classifiers = [
     "Programming Language :: Python"
 ]
 
-[project.optional-dependences]
-stats = [
-    "statsmodels",
-    "scikit-learn"
-]
-
 [project.urls]
 Repository = "https://github.com/Jorsorokin/pytiserie"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["pytiserie"]
