@@ -1,15 +1,6 @@
 import pandas as pd
 
 
-FGD_BKGD_REGEX = "(?:color_mean_|color_std_)\s*(.*)$"
-
-
-def extract_color_data(croissant_data: pd.DataFrame) -> pd.DataFrame:
-    color_data = croissant_data.loc[croissant_data['metric'].str.startswith("color")].copy()
-    color_data['object'] = color_data['metric'].str.extract(FGD_BKGD_REGEX)
-    return color_data
-
-
 def fgd_bkgd_color_ratio(x: float, bkgd_white: float, bkgd_black: float) -> float:
     """
     calculate the relataive gray value of x given a white & black reference background
