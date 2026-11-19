@@ -17,6 +17,17 @@ def fgd_bkgd_color_ratio(x: float, bkgd_white: float, bkgd_black: float) -> floa
 
 
 def compute_color_metrics(color_data: pd.DataFrame) -> dict[str, float]:
+    """
+    Computes color ratios based on foreground & background measurements
+
+    Parameters
+    ----------
+    color_data: pd.DataFrame, containing columns "color_mean_fgd", "color_std_fgd", "color_mean_bkgd_white", "color_mean_bkgd_black"
+
+    Returns:
+    --------
+    color_metrics: dict[str, float]
+    """
     means_ = color_data['metric'].str.contains("mean")
     std_ = color_data['metric'].str.contains("std")
 
