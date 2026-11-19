@@ -2,7 +2,7 @@ import numpy as np
 import soundfile as sf
 import pandas as pd
 
-from scipy.signal import correlate
+from scipy.signal import correlate, welch
 from typing import Optional
 
 
@@ -46,19 +46,30 @@ def autocorr(x: np.ndarray, center: bool = False, symmetric: bool = False) -> np
     return result[len(x)-1:]
 
 
-def read_wav_data(wav_file: str) -> tuple[pd.DataFrame, float]:
+def read_audio_data(audio_file: str) -> tuple[pd.DataFrame, float]:
     """
-    Reads in a .wav audio file and returns the data, relative time, and sampling rate
+    Reads in a .wav or .flac audio file and returns the data, relative time, and sampling rate
     in a pandas dataframe
 
     Parameters
     ---------
-    wav_file: str — path to the audio file
+    audio_file: str — path to the audio file
     """
-    data, sr = sf.read(wav_file)
+    data, sr = sf.read(audio_file)
 
     # create a time index
     T = 1 / sr
     time = np.arange(len(data)) * T
     wav_df = pd.DataFrame({'time': time, 'audio': data})
     return wav_df, sr
+
+
+def normalized_psd(x: np.ndarray):
+    """
+    computes the (normalized) power spectral density of a 1D lamination line scan signal
+
+    The Welch windowing method is used to regularize the fourier components estimation
+    """
+    freq, Pxx = welch(x)
+    Pxx /= Pxx.sum()
+    return freq, Pxx
