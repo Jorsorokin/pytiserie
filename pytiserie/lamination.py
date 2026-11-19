@@ -1,23 +1,8 @@
 import numpy as np
 
-from scipy.signal import fftconvolve, find_peaks, welch
+from scipy.signal import fftconvolve, find_peaks
 from typing import Optional
-
-
-def compute_lamination_entropy(line_scan_data: np.ndarray):
-    """
-    computes the entropy of the fourier-decomposition of a 1D lamination line scan signal
-
-    fourier entropy represents the spread of the frequencies in the line scan data
-        - high entropy = a less organized lamination structure
-        - low entropy = a more organized lamination structure
-
-    The Welch windowing method is used to regularize the fourier components estimation
-    """
-    Pxx = welch(line_scan_data)[1]
-    Pxx /= Pxx.sum()
-    entropy = -np.sum(Pxx * np.log(Pxx))
-    return entropy
+from pytiserie.utils import normalized_psd
 
 
 def compute_lamination_peak_metrics(
@@ -47,10 +32,12 @@ def compute_lamination_peak_metrics(
         "frequency_entropy" — the entropy of the fourier-decomposition of the line scan
     """
     if smoothing_kernel is not None:
-        line_scan_data = fftconvolve(line_scan_data, smoothing_kernel)
+        line_scan_data = fftconvolve(line_scan_data, smoothing_kernel, mode='same')
 
     peaks, peak_stats = find_peaks(line_scan_data, width=width, prominence=prominence)
     delta_peak_positions = np.diff(peaks)
+    freq, Pxx = normalized_psd(line_scan_data)
+    fourier_entropy = -np.sum(Pxx * np.log(Pxx))
 
     metrics = {
         'rel_num_peaks':  len(peaks) / len(line_scan_data),
@@ -58,6 +45,9 @@ def compute_lamination_peak_metrics(
         'peak_size_std': np.std(peak_stats['widths']),
         'cavity_size_mean': delta_peak_positions.mean(),
         'cavity_size_std': delta_peak_positions.std(),
-        'frequency_entropy': compute_lamination_entropy(line_scan_data)
+        "frequency_entropy": fourier_entropy,
     }
-    return metrics, peaks
+
+    diagnostics = {"freq": freq, "psd": Pxx, "peaks": peaks}
+
+    return metrics, diagnostics
