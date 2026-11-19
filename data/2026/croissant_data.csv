@@ -108,8 +108,8 @@ king soopers,height_s5,1,cm
 king soopers,height_s6,1,cm
 king soopers,height_s7,1,cm
 king soopers,height_s8,1,cm
-king soopers,flavor,5.5,j.u.
-king soopers,flavor,,k.u.
+king soopers,flavor,5,j.u.
+king soopers,flavor,3,k.u.
 king soopers,color_mean_fgd,119.353,gray_value
 king soopers,color_std_fgd,25.447,gray_value
 king soopers,color_mean_bkgd_white,217.54,gray_value
