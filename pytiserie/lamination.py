@@ -60,4 +60,4 @@ def compute_lamination_peak_metrics(
         'cavity_size_std': delta_peak_positions.std(),
         'frequency_entropy': compute_lamination_entropy(line_scan_data)
     }
-    return metrics
+    return metrics, peaks
