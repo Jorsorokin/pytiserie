@@ -31,6 +31,9 @@ def compute_lamination_peak_metrics(
         "cavity_size_std" — the standard deviation of cavity sizes
         "frequency_entropy" — the entropy of the fourier-decomposition of the line scan
     """
+    # minmax scale the line-scan data so signals are on the same scale and bias-removed
+    line_scan_data = (line_scan_data - line_scan_data.min()) / (line_scan_data.max() - line_scan_data.min())
+
     if smoothing_kernel is not None:
         line_scan_data = fftconvolve(line_scan_data, smoothing_kernel, mode='same')
 
@@ -48,6 +51,6 @@ def compute_lamination_peak_metrics(
         "frequency_entropy": fourier_entropy,
     }
 
-    diagnostics = {"freq": freq, "psd": Pxx, "peaks": peaks}
+    diagnostics = {"freq": freq, "psd": Pxx, "peaks": peaks, "linescan": line_scan_data}
 
     return metrics, diagnostics

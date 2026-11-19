@@ -70,6 +70,6 @@ def normalized_psd(x: np.ndarray):
 
     The Welch windowing method is used to regularize the fourier components estimation
     """
-    freq, Pxx = welch(x)
+    freq, Pxx = welch((x - x.mean()) / x.std())
     Pxx /= Pxx.sum()
     return freq, Pxx
